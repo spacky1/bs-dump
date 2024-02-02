@@ -142,21 +142,6 @@
       ]
     },
     {
-      "key": "1EEE7",
-      "hash": "BB78D6425CB4340E0B3D21CD3F0BAA85D9031DB5",
-      "levelid": "custom_level_BB78D6425CB4340E0B3D21CD3F0BAA85D9031DB5",
-      "customData": {
-        "name": "S3RL x Slen-D - Back of the Macca's (Radio Edit) [Chroma]",
-        "uploader": "Skeelie"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Normal"
-        }
-      ]
-    },
-    {
       "key": "28052",
       "hash": "9B17D921D39958718C48CC1CDC0114794882EE12",
       "levelid": "custom_level_9B17D921D39958718C48CC1CDC0114794882EE12",
@@ -453,21 +438,6 @@
         {
           "characteristic": "Standard",
           "name": "Normal"
-        }
-      ]
-    },
-    {
-      "key": "18218",
-      "hash": "FA3705ABAC06D9DF2AC533C210F8C3D671D5BA2D",
-      "levelid": "custom_level_FA3705ABAC06D9DF2AC533C210F8C3D671D5BA2D",
-      "customData": {
-        "name": "Kobaryo - Endless Adventure [Ranked]",
-        "uploader": "Timbo"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Easy"
         }
       ]
     },
