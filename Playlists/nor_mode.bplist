@@ -1,0 +1,971 @@
+{
+  "playlistTitle": "nor mode",
+  "playlistAuthor": "spacky",
+  "playlistDescription": "huh",
+  "customData": {
+    "syncURL": "https://raw.githubusercontent.com/spacky1/bs-dump/main/Playlists/nor_mode.bplist"
+  },
+  "songs": [
+    {
+      "songName": "Last Wish",
+      "levelAuthorName": "BSWC Team",
+      "hash": "C86336B3CA84CD03BC3995FADFD7CFDDE2FD00C0",
+      "levelid": "custom_level_C86336B3CA84CD03BC3995FADFD7CFDDE2FD00C0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Halibo",
+      "levelAuthorName": "Exeiron",
+      "hash": "D092BDF986B07C41300A16D5CA34309AF074431E",
+      "levelid": "custom_level_D092BDF986B07C41300A16D5CA34309AF074431E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Megalovania",
+      "levelAuthorName": "Joshabi & Olaf",
+      "hash": "A2EE3D6E6C82B89B10B9395BEBF47CF05F316B10",
+      "levelid": "custom_level_A2EE3D6E6C82B89B10B9395BEBF47CF05F316B10",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "LORELEI",
+      "levelAuthorName": "Nolanimations, cerret, Gabriel & Marsh",
+      "hash": "B1D3FA6D5305837DF59B5E629A412DEBC68BBB46",
+      "levelid": "custom_level_B1D3FA6D5305837DF59B5E629A412DEBC68BBB46",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "THE WORLD REVOLVING",
+      "levelAuthorName": "Nolanimations",
+      "hash": "00F03A5748E97CB4799D59A7CE9822095668EFCA",
+      "levelid": "custom_level_00F03A5748E97CB4799D59A7CE9822095668EFCA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Strawberry's Wake",
+      "levelAuthorName": "Bytrius",
+      "hash": "6518C8D32C6659A74CB72237873340D8F55C99F3",
+      "levelid": "custom_level_6518C8D32C6659A74CB72237873340D8F55C99F3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Somewhere Out There",
+      "levelAuthorName": "Swifter, Mawntee, Reddek",
+      "hash": "448D219117992026EB23C98DC920CE73A912F289",
+      "levelid": "custom_level_448D219117992026EB23C98DC920CE73A912F289",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "You Got Me",
+      "levelAuthorName": "ThyYeet",
+      "hash": "49CAF959F599DD9E5780C9E50C7262C223D2F7B0",
+      "levelid": "custom_level_49CAF959F599DD9E5780C9E50C7262C223D2F7B0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Bassline Yatteru? w",
+      "levelAuthorName": "Joshabi & altrewin",
+      "hash": "0CAC133F16A319DE4788AD5F27002994E120D818",
+      "levelid": "custom_level_0CAC133F16A319DE4788AD5F27002994E120D818",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Like This",
+      "levelAuthorName": "Timbo",
+      "hash": "F80CD127C6CD01E8C3B57801CDE6BBFC9298BA24",
+      "levelid": "custom_level_F80CD127C6CD01E8C3B57801CDE6BBFC9298BA24",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "When The Summer Dies",
+      "levelAuthorName": "Timeweaver",
+      "hash": "5712F359D333270FD1FCB1D124A7580F554EADF6",
+      "levelid": "custom_level_5712F359D333270FD1FCB1D124A7580F554EADF6",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Lean On [6L Fitbeat]",
+      "levelAuthorName": "Scarladore",
+      "hash": "21E1674A31B4A273AA5F7FCA374C9494960DEB18",
+      "levelid": "custom_level_21E1674A31B4A273AA5F7FCA374C9494960DEB18",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "RISE",
+      "levelAuthorName": "Bytrius & FakePope",
+      "hash": "84646A074C6B377823DD28678EC17182DDF1F16B",
+      "levelid": "custom_level_84646A074C6B377823DD28678EC17182DDF1F16B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Galaxy",
+      "levelAuthorName": "thing",
+      "hash": "86B320217EEF4D2AA32DA17B81C66FD2F09183B7",
+      "levelid": "custom_level_86B320217EEF4D2AA32DA17B81C66FD2F09183B7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Only Be Me",
+      "levelAuthorName": "Olaf",
+      "hash": "EC67CC57C823BDA6FD92D5760FD4579C4F457AFB",
+      "levelid": "custom_level_EC67CC57C823BDA6FD92D5760FD4579C4F457AFB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "G.O.A.T",
+      "levelAuthorName": "Aimedhades16 & Jabob",
+      "hash": "153DA1F53ED39DEB829F007481E729CABACBB05A",
+      "levelid": "custom_level_153DA1F53ED39DEB829F007481E729CABACBB05A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Excessive Funeral",
+      "levelAuthorName": "Voidless",
+      "hash": "7FC4A4111E4B151C3426B880DAAA88B1507E94A0",
+      "levelid": "custom_level_7FC4A4111E4B151C3426B880DAAA88B1507E94A0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Overcome Me!!!!!!!",
+      "levelAuthorName": "cerret",
+      "hash": "8A5F3B89AC33733CBDE7A113D24E7ED4B663033E",
+      "levelid": "custom_level_8A5F3B89AC33733CBDE7A113D24E7ED4B663033E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Possesed By The Blood Moon",
+      "levelAuthorName": "Voidless",
+      "hash": "B972C51CC548E9AE6FA2D736AE40B603B5342EDD",
+      "levelid": "custom_level_B972C51CC548E9AE6FA2D736AE40B603B5342EDD",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Walk on Water",
+      "levelAuthorName": "Hener",
+      "hash": "56ECE87921BEDC4F4D15CFE5C3EA05EC76C90B3F",
+      "levelid": "custom_level_56ECE87921BEDC4F4D15CFE5C3EA05EC76C90B3F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Blackmagik Blazing",
+      "levelAuthorName": "Cobayo, Nolanimations & Atomosophere",
+      "hash": "8CAD5E7B9C218FAF45A2C5A38B1BF24F187BB3FD",
+      "levelid": "custom_level_8CAD5E7B9C218FAF45A2C5A38B1BF24F187BB3FD",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "Venomous Firefly",
+      "levelAuthorName": "ComplexFrequency",
+      "hash": "61CAADA06A65088BD514E00D88397CCDEF8C7714",
+      "levelid": "custom_level_61CAADA06A65088BD514E00D88397CCDEF8C7714",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Destroy, Destroy, Destroy The Happy End",
+      "levelAuthorName": "Marsh & Gabriel",
+      "hash": "6E2568045C6CED5ED91F7BCCFD15E7127314D22C",
+      "levelid": "custom_level_6E2568045C6CED5ED91F7BCCFD15E7127314D22C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Möbius",
+      "levelAuthorName": "Timbo, abcbadq, Narwhal",
+      "hash": "ACB8443A8CDB20B9F74CBCAE977FBD3924737786",
+      "levelid": "custom_level_ACB8443A8CDB20B9F74CBCAE977FBD3924737786",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "BIG SHOT",
+      "levelAuthorName": "Foxy vs. Narwhal",
+      "hash": "13101B7298A9FD7FC5F4FE9C6E86FD7BF70370E2",
+      "levelid": "custom_level_13101B7298A9FD7FC5F4FE9C6E86FD7BF70370E2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Spin Eternally",
+      "levelAuthorName": "Nolanimations",
+      "hash": "C0CB89A82AA9E43113417572397B8F9BD4C2F236",
+      "levelid": "custom_level_C0CB89A82AA9E43113417572397B8F9BD4C2F236",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Dyscontrolled Galaxy",
+      "levelAuthorName": "That_Narwhal",
+      "hash": "A3E5691076181E88776A41E9FF112D3C33576782",
+      "levelid": "custom_level_A3E5691076181E88776A41E9FF112D3C33576782",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Unpleasant Sonata",
+      "levelAuthorName": "Complex, Jabob, & Slimy",
+      "hash": "6423F3A3429D503FA97A1C5282155436D12A9366",
+      "levelid": "custom_level_6423F3A3429D503FA97A1C5282155436D12A9366",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Ultra Cutie Gangsta",
+      "levelAuthorName": "nolan121405",
+      "hash": "C8F289AE3E080C579768728A94F4463F943FD3BD",
+      "levelid": "custom_level_C8F289AE3E080C579768728A94F4463F943FD3BD",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Cycle Hit",
+      "levelAuthorName": "abcbadq & Joshabi",
+      "hash": "AB545725E837496295BB5C0321F63044D77A958C",
+      "levelid": "custom_level_AB545725E837496295BB5C0321F63044D77A958C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "BANGER A.F., BROOOO!!!",
+      "levelAuthorName": "Timbo",
+      "hash": "85DB70578FC08ECDA04DD8F51F60FD5ECB050546",
+      "levelid": "custom_level_85DB70578FC08ECDA04DD8F51F60FD5ECB050546",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Exitium",
+      "levelAuthorName": "Timbo",
+      "hash": "DD07758263F650FBA414A316CD21025F88C666EC",
+      "levelid": "custom_level_DD07758263F650FBA414A316CD21025F88C666EC",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Destructive Little Sister",
+      "levelAuthorName": "Jabob",
+      "hash": "AED65D08D14CF63F7AA3DA6372FDCB8FB333ED67",
+      "levelid": "custom_level_AED65D08D14CF63F7AA3DA6372FDCB8FB333ED67",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Bimbo Limbo",
+      "levelAuthorName": "Jabob & Elecast",
+      "hash": "3E347523DD147F14B557EE45930E7BE1B875EFA4",
+      "levelid": "custom_level_3E347523DD147F14B557EE45930E7BE1B875EFA4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Deimos",
+      "levelAuthorName": "Jabob, Narwhal, & Bullet",
+      "hash": "EDDCA14F0E90F5DA5A2337B8DD2B1EB381771400",
+      "levelid": "custom_level_EDDCA14F0E90F5DA5A2337B8DD2B1EB381771400",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Future Downloader",
+      "levelAuthorName": "Timbo",
+      "hash": "61B1A4189731B6FA949C0EEC99AD2617DF70C9F5",
+      "levelid": "custom_level_61B1A4189731B6FA949C0EEC99AD2617DF70C9F5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Climax",
+      "levelAuthorName": "Timbo",
+      "hash": "FD34B0279836820254C31552C5753291ACBCBB95",
+      "levelid": "custom_level_FD34B0279836820254C31552C5753291ACBCBB95",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "AK-40000000",
+      "levelAuthorName": "Teuflum",
+      "hash": "75879E3D3BDB21D6997C93B7FC4937CFB70546AB",
+      "levelid": "custom_level_75879E3D3BDB21D6997C93B7FC4937CFB70546AB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Better Not",
+      "levelAuthorName": "Olaf",
+      "hash": "4A9FD81F0E0D24AB42118FC7E8F722EAD8A0B4A6",
+      "levelid": "custom_level_4A9FD81F0E0D24AB42118FC7E8F722EAD8A0B4A6",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Nothing Else",
+      "levelAuthorName": "TzurS11",
+      "hash": "E45B69A9428505E93F73F1BDC43909D43FC844E3",
+      "levelid": "custom_level_E45B69A9428505E93F73F1BDC43909D43FC844E3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "A Drowning Cry",
+      "levelAuthorName": "Loopymtb",
+      "hash": "54FCCFCA863220377A4A612856BC1FEBBF43A55F",
+      "levelid": "custom_level_54FCCFCA863220377A4A612856BC1FEBBF43A55F",
+      "difficulties": [
+        {
+          "characteristic": "Lawless",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "You & DIE",
+      "levelAuthorName": "Timbo & eZconfirmed",
+      "hash": "CD8960DBA038D58784817B3C55D90863FA08ADA9",
+      "levelid": "custom_level_CD8960DBA038D58784817B3C55D90863FA08ADA9",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Burn It All Down (ft. PVRIS)  ",
+      "levelAuthorName": "dadada",
+      "hash": "55049422A3E6FBD2AE89C279CED2AD1FA8C87C18",
+      "levelid": "custom_level_55049422A3E6FBD2AE89C279CED2AD1FA8C87C18",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Aether",
+      "levelAuthorName": "PogU",
+      "hash": "1AAF5FC389D79F2E343E3BCFD1AB1162FF785E99",
+      "levelid": "custom_level_1AAF5FC389D79F2E343E3BCFD1AB1162FF785E99",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "YES -  Fox Stevenson Remix",
+      "levelAuthorName": "AntiLink & I Cant Jump Well",
+      "hash": "3422522BCB13D013A917D376009D75E465CC08F7",
+      "levelid": "custom_level_3422522BCB13D013A917D376009D75E465CC08F7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Nandayo",
+      "levelAuthorName": "unknow",
+      "hash": "82FF33D07151C21118BD2BA97B65707D7B6F920B",
+      "levelid": "custom_level_82FF33D07151C21118BD2BA97B65707D7B6F920B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "luv(drunk)",
+      "levelAuthorName": "Timbo",
+      "hash": "49A0F975316920BFC8D4532C3C92F0D0A85D59AB",
+      "levelid": "custom_level_49A0F975316920BFC8D4532C3C92F0D0A85D59AB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Something Just Like This",
+      "levelAuthorName": "Nolanimations",
+      "hash": "2AC7CB39558700FA31B203D617E94F4C7340EE7F",
+      "levelid": "custom_level_2AC7CB39558700FA31B203D617E94F4C7340EE7F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "No Fear No More",
+      "levelAuthorName": "Checkthepan",
+      "hash": "B60ECEA2DE3786213638EBA5C3108E72642B306F",
+      "levelid": "custom_level_B60ECEA2DE3786213638EBA5C3108E72642B306F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Safe And Sound",
+      "levelAuthorName": "RetrX",
+      "hash": "9B5A023F2E11546A78C9AB91CD7107C60D63F0D5",
+      "levelid": "custom_level_9B5A023F2E11546A78C9AB91CD7107C60D63F0D5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "La Lune",
+      "levelAuthorName": "RetrX",
+      "hash": "83E1D8AA66131D904A7D573AA022E26AA4A92190",
+      "levelid": "custom_level_83E1D8AA66131D904A7D573AA022E26AA4A92190",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "The Less I Know the Better",
+      "levelAuthorName": "Bearly",
+      "hash": "51E480B3E6DD15D7CDB1420D95D9701D99B9F0DC",
+      "levelid": "custom_level_51E480B3E6DD15D7CDB1420D95D9701D99B9F0DC",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "All In My Head",
+      "levelAuthorName": "Timbo, Alice, SlimyBlob",
+      "hash": "49A5B5FA220F8E0FB7D47A3CAF139C7A24C1ACAA",
+      "levelid": "custom_level_49A5B5FA220F8E0FB7D47A3CAF139C7A24C1ACAA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "BPM",
+      "levelAuthorName": "Astellic",
+      "hash": "CA86DED661AA04D2812C8253FC607406E03CAED9",
+      "levelid": "custom_level_CA86DED661AA04D2812C8253FC607406E03CAED9",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Ultima Weapon",
+      "levelAuthorName": "TheHeyDJPodcast ft. Bitz",
+      "hash": "D31726A59B54171C3F15DB32F6176F2B0EAFD814",
+      "levelid": "custom_level_D31726A59B54171C3F15DB32F6176F2B0EAFD814",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "666",
+      "levelAuthorName": "ComplexFrequency & Narwhal",
+      "hash": "547D15E033E7C3480428D3A0508F1B7CE50DA5D6",
+      "levelid": "custom_level_547D15E033E7C3480428D3A0508F1B7CE50DA5D6",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Drain of Incarnation",
+      "levelAuthorName": "ThySpoon",
+      "hash": "5DDE38DAC84D8FAB1937097D7BBF1383ECE5CBD2",
+      "levelid": "custom_level_5DDE38DAC84D8FAB1937097D7BBF1383ECE5CBD2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Quasar Dreams",
+      "levelAuthorName": "ComplexFrequency & Fvrwvrd",
+      "hash": "E42BCDF50EA1F961CB8CEFE502E82806866F6479",
+      "levelid": "custom_level_E42BCDF50EA1F961CB8CEFE502E82806866F6479",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Scream Saver VIP",
+      "levelAuthorName": "TheWildDash",
+      "hash": "A658A08966551FDC4CE1C669A84BC31E3F3EDB49",
+      "levelid": "custom_level_A658A08966551FDC4CE1C669A84BC31E3F3EDB49",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Harakiri",
+      "levelAuthorName": "FatBeanzoop & Fvrwvrd",
+      "hash": "F22562D7E420F510BD773466B7B01B6E506DE43B",
+      "levelid": "custom_level_F22562D7E420F510BD773466B7B01B6E506DE43B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Kill Kill Kill Kill Kill",
+      "levelAuthorName": "Helloiamdaan & cerret",
+      "hash": "2F114018ABD0E2FABB43541A6E32BF6EF82DE0C0",
+      "levelid": "custom_level_2F114018ABD0E2FABB43541A6E32BF6EF82DE0C0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "†:OLPHEUX:†",
+      "levelAuthorName": "Purp1e",
+      "hash": "328657EC27FC70C77E6C5428A55D326EBCAC3B16",
+      "levelid": "custom_level_328657EC27FC70C77E6C5428A55D326EBCAC3B16",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "northern_limit",
+      "levelAuthorName": "Emilia",
+      "hash": "85ED6A233B87576D8A101927AB4AC10B6A0B74F4",
+      "levelid": "custom_level_85ED6A233B87576D8A101927AB4AC10B6A0B74F4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "YURUSHITE",
+      "levelAuthorName": "ptotpa, Astrella, & miitchel",
+      "hash": "E57B5AD1E8301F55F861C6EA12A5DA254977C150",
+      "levelid": "custom_level_E57B5AD1E8301F55F861C6EA12A5DA254977C150",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Dystopian Exodus of the Magical Girls",
+      "levelAuthorName": "abcbadq",
+      "hash": "27098CAF6A6CEAD7C707D3357BE51D193590D54B",
+      "levelid": "custom_level_27098CAF6A6CEAD7C707D3357BE51D193590D54B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Blastix Riotz",
+      "levelAuthorName": "Timbo",
+      "hash": "E49507F7C9BF537FD312297FC05983E319B7EA05",
+      "levelid": "custom_level_E49507F7C9BF537FD312297FC05983E319B7EA05",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "RELOADED",
+      "levelAuthorName": "CoolingCloset",
+      "hash": "701587CE2D1E502F8352C3CFD0627C1844B0FF0A",
+      "levelid": "custom_level_701587CE2D1E502F8352C3CFD0627C1844B0FF0A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "what was the last thing u said",
+      "levelAuthorName": "nolan121405",
+      "hash": "0A6A9BD7436B2FBD452D19F078860263BCA5AA94",
+      "levelid": "custom_level_0A6A9BD7436B2FBD452D19F078860263BCA5AA94",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Go Insane",
+      "levelAuthorName": "Helloiamdaan & miitchel",
+      "hash": "ABE3086C23BA2C8F7C92620F8B612C576768E295",
+      "levelid": "custom_level_ABE3086C23BA2C8F7C92620F8B612C576768E295",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Moonlight",
+      "levelAuthorName": "Elecast",
+      "hash": "A2879A60F2855EDBC9ADCB3476EAA9649A254706",
+      "levelid": "custom_level_A2879A60F2855EDBC9ADCB3476EAA9649A254706",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Dimension Hacker",
+      "levelAuthorName": "StellaSilverr",
+      "hash": "89836664846A98D30AE6B6C1D5D2E8A02C60F2B6",
+      "levelid": "custom_level_89836664846A98D30AE6B6C1D5D2E8A02C60F2B6",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "VANDALIZED AI",
+      "levelAuthorName": "cerret & Qwasyx",
+      "hash": "90814658A7875B7ED95F516E54172BEFE3C1DD1B",
+      "levelid": "custom_level_90814658A7875B7ED95F516E54172BEFE3C1DD1B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Raving Bounce",
+      "levelAuthorName": "cerret, unluckyL, Aquaflee & Tranch",
+      "hash": "08BA14EE0A053159F08AE098DD36DF3AE88A35CA",
+      "levelid": "custom_level_08BA14EE0A053159F08AE098DD36DF3AE88A35CA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "psychology",
+      "levelAuthorName": "Scrappy",
+      "hash": "B506526ABA9AE3BC8C6DE045326D4F083607776B",
+      "levelid": "custom_level_B506526ABA9AE3BC8C6DE045326D4F083607776B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "MixxioN",
+      "levelAuthorName": "Jabob",
+      "hash": "BEB6F5099BECBE99583088F1EA924AA0118730FF",
+      "levelid": "custom_level_BEB6F5099BECBE99583088F1EA924AA0118730FF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "∞Bit Sequencer",
+      "levelAuthorName": "Fnyt",
+      "hash": "F9FA91A7676B037041F43FBECD88C9023253017A",
+      "levelid": "custom_level_F9FA91A7676B037041F43FBECD88C9023253017A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "This Is the Dead, and I Reached the Deathless.",
+      "levelAuthorName": "Astrella & FatBeanzoop",
+      "hash": "BD92C5760B6D03664A7083FA93CC6708310E6E2A",
+      "levelid": "custom_level_BD92C5760B6D03664A7083FA93CC6708310E6E2A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Multicolored",
+      "levelAuthorName": "ThySpoon",
+      "hash": "BA3EDDD4447985AAC531491C53D7E0F76FFF8603",
+      "levelid": "custom_level_BA3EDDD4447985AAC531491C53D7E0F76FFF8603",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Stardust",
+      "levelAuthorName": "Elecast",
+      "hash": "E732B9B20B1BB211215D412DD765B92A077B4045",
+      "levelid": "custom_level_E732B9B20B1BB211215D412DD765B92A077B4045",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Introduction",
+      "levelAuthorName": "fqrb & yabje",
+      "hash": "6BE290E33FD748CD678D4C38F1D59E582A44045F",
+      "levelid": "custom_level_6BE290E33FD748CD678D4C38F1D59E582A44045F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    }
+  ],
+  "image": "base64,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"
+}
