@@ -1,7 +1,7 @@
 {
   "playlistTitle": "ez mode",
   "playlistAuthor": "spacky",
-  "playlistDescription": "",
+  "playlistDescription": "smile",
   "customData": {
     "syncURL": "https://raw.githubusercontent.com/spacky1/bs-dump/main/Playlists/ez_mode.bplist"
   },
@@ -33,6 +33,18 @@
         {
           "characteristic": "Standard",
           "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "Body Bag",
+      "levelAuthorName": "Bytrius",
+      "hash": "F92B703AC8007CE87239D608E0C62F8718DCD1B1",
+      "levelid": "custom_level_F92B703AC8007CE87239D608E0C62F8718DCD1B1",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -154,6 +166,18 @@
       ]
     },
     {
+      "songName": "eden",
+      "levelAuthorName": "slamsyk",
+      "hash": "64688EE557A6C0916D2108AA3B39DD79C8468DB3",
+      "levelid": "custom_level_64688EE557A6C0916D2108AA3B39DD79C8468DB3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
       "key": "28052",
       "hash": "9B17D921D39958718C48CC1CDC0114794882EE12",
       "levelid": "custom_level_9B17D921D39958718C48CC1CDC0114794882EE12",
@@ -184,18 +208,6 @@
       ]
     },
     {
-      "songName": "cardinal",
-      "levelAuthorName": "Phøenix",
-      "hash": "45C07335607FEBDCDD9C4841B5B3C042F19DF52D",
-      "levelid": "custom_level_45C07335607FEBDCDD9C4841B5B3C042F19DF52D",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
-        }
-      ]
-    },
-    {
       "key": "28D74",
       "hash": "7296582B7DF0475DD25DBEC1BFA1DB274AB044E6",
       "levelid": "custom_level_7296582B7DF0475DD25DBEC1BFA1DB274AB044E6",
@@ -211,6 +223,18 @@
       ]
     },
     {
+      "songName": "Pumpin' Junkies",
+      "levelAuthorName": "Atomosophere & Timbo",
+      "hash": "5F83D6361673EA9CE338E25E0813BA3099498FF1",
+      "levelid": "custom_level_5F83D6361673EA9CE338E25E0813BA3099498FF1",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
       "key": "14427",
       "hash": "A949BB798E16A81092E54A38B78EB1375F06E49F",
       "levelid": "custom_level_A949BB798E16A81092E54A38B78EB1375F06E49F",
@@ -222,6 +246,18 @@
         {
           "characteristic": "Standard",
           "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "cardinal",
+      "levelAuthorName": "Phøenix",
+      "hash": "45C07335607FEBDCDD9C4841B5B3C042F19DF52D",
+      "levelid": "custom_level_45C07335607FEBDCDD9C4841B5B3C042F19DF52D",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -260,18 +296,6 @@
         "name": "[Queue] BPM",
         "uploader": "Astellic"
       },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Normal"
-        }
-      ]
-    },
-    {
-      "songName": "Pumpin' Junkies",
-      "levelAuthorName": "Atomosophere & Timbo",
-      "hash": "5F83D6361673EA9CE338E25E0813BA3099498FF1",
-      "levelid": "custom_level_5F83D6361673EA9CE338E25E0813BA3099498FF1",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -538,6 +562,21 @@
       ]
     },
     {
+      "key": "194B4",
+      "hash": "AE9CA369573C058CF6A6DCA70EA94F14F3BFACA1",
+      "levelid": "custom_level_AE9CA369573C058CF6A6DCA70EA94F14F3BFACA1",
+      "customData": {
+        "name": "USAO - Big Daddy [Ranked]",
+        "uploader": "Timbo"
+      },
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
       "key": "35742",
       "hash": "3E347523DD147F14B557EE45930E7BE1B875EFA4",
       "levelid": "custom_level_3E347523DD147F14B557EE45930E7BE1B875EFA4",
@@ -560,6 +599,18 @@
         "name": "paradox Camellia's “fallacious” remix -Hanabasami Kyou-",
         "uploader": "mux"
       },
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Idol",
+      "levelAuthorName": "yabje, Rusty & Andy",
+      "hash": "8EA6D40002CECB79121F126921BEE431A5A046F5",
+      "levelid": "custom_level_8EA6D40002CECB79121F126921BEE431A5A046F5",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -639,6 +690,18 @@
         {
           "characteristic": "Standard",
           "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "All My Love",
+      "levelAuthorName": "Olaf & RFCaps",
+      "hash": "FFEEC65EFC5212B770D6DEED6F9AD766914D7635",
+      "levelid": "custom_level_FFEEC65EFC5212B770D6DEED6F9AD766914D7635",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -768,6 +831,30 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Bounce",
+      "levelAuthorName": "Fatalution",
+      "hash": "2DDA4054C81530D0CF09980B646A0050CC0BF94C",
+      "levelid": "custom_level_2DDA4054C81530D0CF09980B646A0050CC0BF94C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Come Alive",
+      "levelAuthorName": "Fatalution",
+      "hash": "3BBDB41216A9A39F61502FD17D473F5A2012209B",
+      "levelid": "custom_level_3BBDB41216A9A39F61502FD17D473F5A2012209B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -937,6 +1024,21 @@
       ]
     },
     {
+      "key": "194B4",
+      "hash": "AE9CA369573C058CF6A6DCA70EA94F14F3BFACA1",
+      "levelid": "custom_level_AE9CA369573C058CF6A6DCA70EA94F14F3BFACA1",
+      "customData": {
+        "name": "USAO - Big Daddy [Ranked]",
+        "uploader": "Timbo"
+      },
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
       "key": "1BAB8",
       "hash": "3BBA20454D309D851B8C6E921897DEFCF119042F",
       "levelid": "custom_level_3BBA20454D309D851B8C6E921897DEFCF119042F",
@@ -982,17 +1084,38 @@
       ]
     },
     {
-      "key": "194B4",
-      "hash": "AE9CA369573C058CF6A6DCA70EA94F14F3BFACA1",
-      "levelid": "custom_level_AE9CA369573C058CF6A6DCA70EA94F14F3BFACA1",
-      "customData": {
-        "name": "USAO - Big Daddy [Ranked]",
-        "uploader": "Timbo"
-      },
+      "songName": "Back In Time",
+      "levelAuthorName": "Teuflum",
+      "hash": "E62893B648F7A704D620CE8AD0EAF0B5D50E0E48",
+      "levelid": "custom_level_E62893B648F7A704D620CE8AD0EAF0B5D50E0E48",
       "difficulties": [
         {
           "characteristic": "Standard",
           "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "p.h.",
+      "levelAuthorName": "TOFU",
+      "hash": "84BCFF4756AC66BF1746824B0B221EB1E6A4AFF2",
+      "levelid": "custom_level_84BCFF4756AC66BF1746824B0B221EB1E6A4AFF2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Yoru ni Kakeru",
+      "levelAuthorName": "chikinbiskit",
+      "hash": "79AFBC844DFFBF8ED6A42ECBAEF1963DAD093221",
+      "levelid": "custom_level_79AFBC844DFFBF8ED6A42ECBAEF1963DAD093221",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -1032,6 +1155,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Start menu",
+      "levelAuthorName": "D7oomyAli",
+      "hash": "FE966F1274A54CA2E6FCF25B5C439C5E0B431C9F",
+      "levelid": "custom_level_FE966F1274A54CA2E6FCF25B5C439C5E0B431C9F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
         }
       ]
     }
