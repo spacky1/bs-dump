@@ -562,17 +562,14 @@
       ]
     },
     {
-      "key": "194B4",
-      "hash": "AE9CA369573C058CF6A6DCA70EA94F14F3BFACA1",
-      "levelid": "custom_level_AE9CA369573C058CF6A6DCA70EA94F14F3BFACA1",
-      "customData": {
-        "name": "USAO - Big Daddy [Ranked]",
-        "uploader": "Timbo"
-      },
+      "songName": "Far Away",
+      "levelAuthorName": "Bitz & HypersonicSharkz",
+      "hash": "DAAB1124333389A9974CEDF58550DBDF036F17E0",
+      "levelid": "custom_level_DAAB1124333389A9974CEDF58550DBDF036F17E0",
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Easy"
+          "name": "Normal"
         }
       ]
     },
