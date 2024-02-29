@@ -12,14 +12,8 @@
     "Playing360": [],
     "PlayingModmap": [],
     "PlayingMulti": [],
-    "SpectatingMulti": [
-      "Menu"
-    ],
-    "Replay": [
-      "Replay",
-      "Ortho",
-      "Side"
-    ],
+    "SpectatingMulti": [],
+    "Replay": [],
     "FPFC": [
       "Menu"
     ]
