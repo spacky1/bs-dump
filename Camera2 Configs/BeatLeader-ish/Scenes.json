@@ -3,17 +3,37 @@
     "Menu": [
       "Menu"
     ],
-    "MultiplayerMenu": [],
+    "MultiplayerMenu": [
+      "Menu"
+    ],
     "Playing": [
       "Main",
       "Ortho",
       "Side"
     ],
-    "Playing360": [],
-    "PlayingModmap": [],
-    "PlayingMulti": [],
-    "SpectatingMulti": [],
-    "Replay": [],
+    "Playing360": [
+      "Main",
+      "Ortho",
+      "Side"
+    ],
+    "PlayingModmap": [
+      "Main",
+      "Ortho",
+      "Side"
+    ],
+    "PlayingMulti": [
+      "Main",
+      "Ortho",
+      "Side"
+    ],
+    "SpectatingMulti": [
+      "Menu"
+    ],
+    "Replay": [
+      "Main",
+      "Ortho",
+      "Side"
+    ],
     "FPFC": [
       "Menu"
     ]

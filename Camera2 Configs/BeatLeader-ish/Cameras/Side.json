@@ -33,7 +33,7 @@
   },
   "ModmapExtensions": {
     "moveWithMap": true,
-    "autoOpaqueWalls": true,
+    "autoOpaqueWalls": false,
     "autoHideHUD": false
   },
   "Follow360": {
