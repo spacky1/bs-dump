@@ -76,36 +76,6 @@
       ]
     },
     {
-      "key": "19B97",
-      "hash": "B666A3E654179B794828E726FC80B506FDEB523F",
-      "levelid": "custom_level_B666A3E654179B794828E726FC80B506FDEB523F",
-      "customData": {
-        "name": "[Ranked] Destructive Tendencies, Warface - Release The Kraken (Sefa Remix)",
-        "uploader": "Jabob"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
-      "key": "18F4E",
-      "hash": "FDCF6854379007B211B5B62919F907F8D3A53FFF",
-      "levelid": "custom_level_FDCF6854379007B211B5B62919F907F8D3A53FFF",
-      "customData": {
-        "name": "RoughSketch - Ghost Family Living In Graveyard[R]",
-        "uploader": "that_narwhal"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Normal"
-        }
-      ]
-    },
-    {
       "key": "286B7",
       "hash": "7FFC6CD2419E896545D131C31BB8FEE96C9DA9D9",
       "levelid": "custom_level_7FFC6CD2419E896545D131C31BB8FEE96C9DA9D9",
@@ -121,21 +91,6 @@
       ]
     },
     {
-      "key": "1D2EA",
-      "hash": "0080B7154FFCB08B6D4E9253C46C7484F69DBA94",
-      "levelid": "custom_level_0080B7154FFCB08B6D4E9253C46C7484F69DBA94",
-      "customData": {
-        "name": "[Ranked] [Cinema] t+pazolite - T+ VS SHARK",
-        "uploader": "Elecast"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Normal"
-        }
-      ]
-    },
-    {
       "key": "197BA",
       "hash": "417E413D6227F556BBFC3A6B73C32CFB11AFE9E7",
       "levelid": "custom_level_417E413D6227F556BBFC3A6B73C32CFB11AFE9E7",
@@ -147,21 +102,6 @@
         {
           "characteristic": "Standard",
           "name": "Normal"
-        }
-      ]
-    },
-    {
-      "key": "1FC85",
-      "hash": "C035C5DE5385A759F728188F6E1F8850FF97CF88",
-      "levelid": "custom_level_C035C5DE5385A759F728188F6E1F8850FF97CF88",
-      "customData": {
-        "name": "[RANKED] CRUISE BEAST",
-        "uploader": "talson"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
         }
       ]
     },
@@ -289,21 +229,6 @@
       ]
     },
     {
-      "key": "33FF1",
-      "hash": "CA86DED661AA04D2812C8253FC607406E03CAED9",
-      "levelid": "custom_level_CA86DED661AA04D2812C8253FC607406E03CAED9",
-      "customData": {
-        "name": "[Queue] BPM",
-        "uploader": "Astellic"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Normal"
-        }
-      ]
-    },
-    {
       "key": "2A660",
       "hash": "7294B1F3672187781B24A5BB53C0F08CF3A4385A",
       "levelid": "custom_level_7294B1F3672187781B24A5BB53C0F08CF3A4385A",
@@ -421,33 +346,6 @@
       ]
     },
     {
-      "songName": "brutale aap",
-      "levelAuthorName": "Bitz & HypersonicSharkz",
-      "hash": "EEA1381EA9DDADCBA54006660B841418ED0591D8",
-      "levelid": "custom_level_EEA1381EA9DDADCBA54006660B841418ED0591D8",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Normal"
-        }
-      ]
-    },
-    {
-      "key": "1EB82",
-      "hash": "129DF707EA05945194382050F85945F48446045C",
-      "levelid": "custom_level_129DF707EA05945194382050F85945F48446045C",
-      "customData": {
-        "name": "[RANKED] The Veronicas - Untouched (Colin Hennerz Remix) [nxc edit]",
-        "uploader": "rockz"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Normal"
-        }
-      ]
-    },
-    {
       "key": "1E6E1",
       "hash": "3737559CDE04ED989DA247EC4254E04332A8B039",
       "levelid": "custom_level_3737559CDE04ED989DA247EC4254E04332A8B039",
@@ -493,21 +391,6 @@
       ]
     },
     {
-      "key": "1F074",
-      "hash": "EDDCA14F0E90F5DA5A2337B8DD2B1EB381771400",
-      "levelid": "custom_level_EDDCA14F0E90F5DA5A2337B8DD2B1EB381771400",
-      "customData": {
-        "name": "[Ranked] Schwank - Deimos",
-        "uploader": "Jabob"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Easy"
-        }
-      ]
-    },
-    {
       "songName": "Stardust",
       "levelAuthorName": "Elecast",
       "hash": "E732B9B20B1BB211215D412DD765B92A077B4045",
@@ -542,18 +425,6 @@
         "name": "Camellia - Nasty * Nasty * Spell",
         "uploader": "Joshabi"
       },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Normal"
-        }
-      ]
-    },
-    {
-      "songName": "BATTLE NO.1",
-      "levelAuthorName": "Bitz, HypersonicSharkz & Luck",
-      "hash": "BDEBD0E4B5DF0A8AD592E04D294C8E3DF4248667",
-      "levelid": "custom_level_BDEBD0E4B5DF0A8AD592E04D294C8E3DF4248667",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -755,7 +626,7 @@
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Easy"
+          "name": "Normal"
         }
       ]
     },
@@ -886,21 +757,6 @@
       ]
     },
     {
-      "key": "1FC8F",
-      "hash": "EE440C63A3A2B0E1DFBB7722BB4F4AE8A0E4307A",
-      "levelid": "custom_level_EE440C63A3A2B0E1DFBB7722BB4F4AE8A0E4307A",
-      "customData": {
-        "name": "Camellia - THE MUZZLE FACING (Long muzzled version) -- [Ranked]",
-        "uploader": "Timbo"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Easy"
-        }
-      ]
-    },
-    {
       "key": "1232E",
       "hash": "AA31DCD3F9DA483793922D24F210944178B6CBC2",
       "levelid": "custom_level_AA31DCD3F9DA483793922D24F210944178B6CBC2",
@@ -956,7 +812,7 @@
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Easy"
+          "name": "Hard"
         }
       ]
     },
@@ -1016,7 +872,7 @@
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Normal"
+          "name": "Hard"
         }
       ]
     },
@@ -1031,7 +887,7 @@
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Easy"
+          "name": "Normal"
         }
       ]
     },
@@ -1164,6 +1020,378 @@
         {
           "characteristic": "Standard",
           "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "Insight",
+      "levelAuthorName": "Elecast & Dereknalox123",
+      "hash": "A81E1EBCD80469AC6BC5E1A30950955E44221FD8",
+      "levelid": "custom_level_A81E1EBCD80469AC6BC5E1A30950955E44221FD8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "The 90's Decision",
+      "levelAuthorName": "That_Narwhal",
+      "hash": "42F218850E16F24CBCCB94DEF959889F9AB4663C",
+      "levelid": "custom_level_42F218850E16F24CBCCB94DEF959889F9AB4663C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "I Gotchu",
+      "levelAuthorName": "Phøenix, AkaBaka",
+      "hash": "6A244F12D828B4DF03CC0AEF84BB81232AB0996C",
+      "levelid": "custom_level_6A244F12D828B4DF03CC0AEF84BB81232AB0996C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Levitating",
+      "levelAuthorName": "RFColaf",
+      "hash": "562622BE394F40A657F80B507E9827288EBCFC25",
+      "levelid": "custom_level_562622BE394F40A657F80B507E9827288EBCFC25",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Bad Intentions [v3 Fitbeat]",
+      "levelAuthorName": "Scarladore",
+      "hash": "EDE75F32559B98BF4553E080BD9A773080D1331C",
+      "levelid": "custom_level_EDE75F32559B98BF4553E080BD9A773080D1331C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Shut Up And Dance",
+      "levelAuthorName": "Syndicate, OneSpookyBoi, TheCzar1994",
+      "hash": "D12A468BA97792113BB42515AB919C6AA5C79019",
+      "levelid": "custom_level_D12A468BA97792113BB42515AB919C6AA5C79019",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Spring Thief",
+      "levelAuthorName": "AntiLink & TG90",
+      "hash": "7FCB2AE0881C36611F53C32F0D9BC3A1AA0E9BED",
+      "levelid": "custom_level_7FCB2AE0881C36611F53C32F0D9BC3A1AA0E9BED",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Devil On My Shoulder",
+      "levelAuthorName": "FatBeanzoop",
+      "hash": "6BD8D61CB7451B2532CF6379A607707D406B9BC5",
+      "levelid": "custom_level_6BD8D61CB7451B2532CF6379A607707D406B9BC5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Phony",
+      "levelAuthorName": "Joshabi & Shad",
+      "hash": "80559A7A4AC0F62F27DAF1C59DF67F305250ADFF",
+      "levelid": "custom_level_80559A7A4AC0F62F27DAF1C59DF67F305250ADFF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "FLOWER",
+      "levelAuthorName": "Alice",
+      "hash": "B736B0AA8465561A42C46672FE39AC95F8E413E3",
+      "levelid": "custom_level_B736B0AA8465561A42C46672FE39AC95F8E413E3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Uebok VIP",
+      "levelAuthorName": "Fatalution",
+      "hash": "0437938EE67F7D54D89B42D5DD23F4A01FEAD731",
+      "levelid": "custom_level_0437938EE67F7D54D89B42D5DD23F4A01FEAD731",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Revenant",
+      "levelAuthorName": "Shan_Man",
+      "hash": "38319743FFE8CD96F9858B7D23CE92E63BB3A0D1",
+      "levelid": "custom_level_38319743FFE8CD96F9858B7D23CE92E63BB3A0D1",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "paradox",
+      "levelAuthorName": "Various Mappers",
+      "hash": "0AB508B0A381DADD2AFBBAC1DD45C76E5438CA9A",
+      "levelid": "custom_level_0AB508B0A381DADD2AFBBAC1DD45C76E5438CA9A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "TELL U",
+      "levelAuthorName": "Timbo & SmokeyBacon",
+      "hash": "9EDB7FA076EC5493DF4EAC4B1C134A4F3C4C3EBF",
+      "levelid": "custom_level_9EDB7FA076EC5493DF4EAC4B1C134A4F3C4C3EBF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "About Me",
+      "levelAuthorName": "AntiLink & totalverzockt",
+      "hash": "2EC5DB1E20563B8860A7706C3E1DA1D87408BD44",
+      "levelid": "custom_level_2EC5DB1E20563B8860A7706C3E1DA1D87408BD44",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Cinco",
+      "levelAuthorName": "Timbo",
+      "hash": "C1CB957445C5BD92A8B4FEF3A2F9B99A7F775C0F",
+      "levelid": "custom_level_C1CB957445C5BD92A8B4FEF3A2F9B99A7F775C0F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "The Phoenix",
+      "levelAuthorName": "Bytrius",
+      "hash": "BF2C367D29B133B66DC27F6F8E20467D0EC3301F",
+      "levelid": "custom_level_BF2C367D29B133B66DC27F6F8E20467D0EC3301F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "I Don't Know Why",
+      "levelAuthorName": "General Dumbass",
+      "hash": "1CAE07B3690493E0989E57F782890688D63EC152",
+      "levelid": "custom_level_1CAE07B3690493E0989E57F782890688D63EC152",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "MUKOKU",
+      "levelAuthorName": "chikinbiskit",
+      "hash": "C342989CE2BAE44A6C93341E77B8AF29EA29DF37",
+      "levelid": "custom_level_C342989CE2BAE44A6C93341E77B8AF29EA29DF37",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "The Nights",
+      "levelAuthorName": "Nolanimations",
+      "hash": "45F9480A43DDEA9FF338BF449AD9EAD62F73EB52",
+      "levelid": "custom_level_45F9480A43DDEA9FF338BF449AD9EAD62F73EB52",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "Say So",
+      "levelAuthorName": "Hoppaw",
+      "hash": "4A716D59AB416D73461590D2F43D552EA4AA00F8",
+      "levelid": "custom_level_4A716D59AB416D73461590D2F43D552EA4AA00F8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Stars",
+      "levelAuthorName": "Phøenix",
+      "hash": "AEC394189330909E86BBAEFA630352BF1AD77894",
+      "levelid": "custom_level_AEC394189330909E86BBAEFA630352BF1AD77894",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "The Spoils",
+      "levelAuthorName": "Undeceiver",
+      "hash": "4B6C9BA4E391967427AF8B17C2AC18B329748ED7",
+      "levelid": "custom_level_4B6C9BA4E391967427AF8B17C2AC18B329748ED7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Scream",
+      "levelAuthorName": "Serephor, CMP1111, LaidBackAries",
+      "hash": "ED1A3273B99D5F0B0CD61A1D42CBE02DE11FE0C8",
+      "levelid": "custom_level_ED1A3273B99D5F0B0CD61A1D42CBE02DE11FE0C8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "I GOT YOU ",
+      "levelAuthorName": "Lalahti",
+      "hash": "3278743645F2E14C71A9F6701FDBDAB4D0800F62",
+      "levelid": "custom_level_3278743645F2E14C71A9F6701FDBDAB4D0800F62",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "Feel Alive",
+      "levelAuthorName": "Timbo",
+      "hash": "76FB15ADEFB00B8FAC21F5631FEC3F58C47C5D54",
+      "levelid": "custom_level_76FB15ADEFB00B8FAC21F5631FEC3F58C47C5D54",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Yuck",
+      "levelAuthorName": "August",
+      "hash": "BD44A27D1C94079BFB8E3F3209FD8D69798D6DB8",
+      "levelid": "custom_level_BD44A27D1C94079BFB8E3F3209FD8D69798D6DB8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "STAY",
+      "levelAuthorName": "RFCaps & FatBeanzoop",
+      "hash": "B3D5EBD465D2E0747276B34D26F5A41850558769",
+      "levelid": "custom_level_B3D5EBD465D2E0747276B34D26F5A41850558769",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "let you",
+      "levelAuthorName": "Nebelmonster & August",
+      "hash": "7E8175041C31645DF3092A4995957F3A5A512E7F",
+      "levelid": "custom_level_7E8175041C31645DF3092A4995957F3A5A512E7F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "simulation",
+      "levelAuthorName": "RFCaps",
+      "hash": "95A373ABACF6FC62B38AAAD861DAC3FCFDA74D3F",
+      "levelid": "custom_level_95A373ABACF6FC62B38AAAD861DAC3FCFDA74D3F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "BUBBLE TEA",
+      "levelAuthorName": "nolan121405 vs. Narwhal",
+      "hash": "B572481270BD1F2BD31DCEE91DE1052AD1714480",
+      "levelid": "custom_level_B572481270BD1F2BD31DCEE91DE1052AD1714480",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     }
