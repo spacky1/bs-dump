@@ -3,5 +3,8 @@
 !.gitignore
 !ez_mode.bplist
 !nor_mode.bplist
+!har_mode.bplist
+!x_mode.bplist
+!plus_mode.bplist
 !queue.bplist
 !Camera2 Configs/**
