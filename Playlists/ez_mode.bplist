@@ -44,7 +44,7 @@
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Hard"
+          "name": "Normal"
         }
       ]
     },
@@ -175,33 +175,6 @@
       ]
     },
     {
-      "key": "14427",
-      "hash": "A949BB798E16A81092E54A38B78EB1375F06E49F",
-      "levelid": "custom_level_A949BB798E16A81092E54A38B78EB1375F06E49F",
-      "customData": {
-        "name": "Kingslayer (feat. BABYMETAL) - Bring Me The Horizon",
-        "uploader": "muffn"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Normal"
-        }
-      ]
-    },
-    {
-      "songName": "cardinal",
-      "levelAuthorName": "Phøenix",
-      "hash": "45C07335607FEBDCDD9C4841B5B3C042F19DF52D",
-      "levelid": "custom_level_45C07335607FEBDCDD9C4841B5B3C042F19DF52D",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
-        }
-      ]
-    },
-    {
       "songName": "A Drowning Cry",
       "levelAuthorName": "Fatalution",
       "hash": "8EA907EFEB4FB8774C1397076008B11491B937D0",
@@ -209,7 +182,7 @@
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Expert"
+          "name": "Hard"
         }
       ]
     },
@@ -270,21 +243,6 @@
         {
           "characteristic": "Standard",
           "name": "Normal"
-        }
-      ]
-    },
-    {
-      "key": "126BD",
-      "hash": "B76F546A682122155BE11739438FCAE6CFE2C2CF",
-      "levelid": "custom_level_B76F546A682122155BE11739438FCAE6CFE2C2CF",
-      "customData": {
-        "name": "USAO - XTREME [Ranked]",
-        "uploader": "Timbo"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Easy"
         }
       ]
     },
@@ -460,21 +418,6 @@
       ]
     },
     {
-      "key": "1A1B6",
-      "hash": "45E8D6CBBCD4A86308D2BED4B51F927E40517AEC",
-      "levelid": "custom_level_45E8D6CBBCD4A86308D2BED4B51F927E40517AEC",
-      "customData": {
-        "name": "paradox Camellia's “fallacious” remix -Hanabasami Kyou-",
-        "uploader": "mux"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Normal"
-        }
-      ]
-    },
-    {
       "songName": "Idol",
       "levelAuthorName": "yabje, Rusty & Andy",
       "hash": "8EA6D40002CECB79121F126921BEE431A5A046F5",
@@ -562,18 +505,6 @@
       ]
     },
     {
-      "songName": "All My Love",
-      "levelAuthorName": "Olaf & RFCaps",
-      "hash": "FFEEC65EFC5212B770D6DEED6F9AD766914D7635",
-      "levelid": "custom_level_FFEEC65EFC5212B770D6DEED6F9AD766914D7635",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "songName": "Close Eyes",
       "levelAuthorName": "CitizenFive",
       "hash": "9AFC21EF02764DF6D139190A07BF870A6F02FB20",
@@ -631,18 +562,6 @@
       ]
     },
     {
-      "songName": "Multicolored",
-      "levelAuthorName": "ThySpoon",
-      "hash": "BA3EDDD4447985AAC531491C53D7E0F76FFF8603",
-      "levelid": "custom_level_BA3EDDD4447985AAC531491C53D7E0F76FFF8603",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "key": "3918E",
       "hash": "BDD76B2EFDA7A01FFEEAD7DB3010F072B3BA8B7E",
       "levelid": "custom_level_BDD76B2EFDA7A01FFEEAD7DB3010F072B3BA8B7E",
@@ -664,21 +583,6 @@
       "customData": {
         "name": "Ado - Usseewa",
         "uploader": "EOP_Glacier"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
-      "key": "2817A",
-      "hash": "20AAC7FE985E377D910BA3EC97FCB6FDA9D50FC4",
-      "levelid": "custom_level_20AAC7FE985E377D910BA3EC97FCB6FDA9D50FC4",
-      "customData": {
-        "name": "Crown - Nekomiya Noru",
-        "uploader": "mux"
       },
       "difficulties": [
         {
@@ -793,21 +697,6 @@
       "customData": {
         "name": "Whethan - All In My Head [Saint Punk Remix]",
         "uploader": "Timbo"
-      },
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
-      "key": "1A685",
-      "hash": "D52E5A2E6612485E2256F9AA12C296E05621379C",
-      "levelid": "custom_level_D52E5A2E6612485E2256F9AA12C296E05621379C",
-      "customData": {
-        "name": "[RANKED] Srav3R vs Getty - DUAL BREAKER XX ",
-        "uploader": "ThySpoon"
       },
       "difficulties": [
         {
@@ -1108,18 +997,6 @@
       ]
     },
     {
-      "songName": "Devil On My Shoulder",
-      "levelAuthorName": "FatBeanzoop",
-      "hash": "6BD8D61CB7451B2532CF6379A607707D406B9BC5",
-      "levelid": "custom_level_6BD8D61CB7451B2532CF6379A607707D406B9BC5",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
-        }
-      ]
-    },
-    {
       "songName": "Phony",
       "levelAuthorName": "Joshabi & Shad",
       "hash": "80559A7A4AC0F62F27DAF1C59DF67F305250ADFF",
@@ -1156,18 +1033,6 @@
       ]
     },
     {
-      "songName": "Revenant",
-      "levelAuthorName": "Shan_Man",
-      "hash": "38319743FFE8CD96F9858B7D23CE92E63BB3A0D1",
-      "levelid": "custom_level_38319743FFE8CD96F9858B7D23CE92E63BB3A0D1",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "songName": "paradox",
       "levelAuthorName": "Various Mappers",
       "hash": "0AB508B0A381DADD2AFBBAC1DD45C76E5438CA9A",
@@ -1187,19 +1052,7 @@
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Expert"
-        }
-      ]
-    },
-    {
-      "songName": "About Me",
-      "levelAuthorName": "AntiLink & totalverzockt",
-      "hash": "2EC5DB1E20563B8860A7706C3E1DA1D87408BD44",
-      "levelid": "custom_level_2EC5DB1E20563B8860A7706C3E1DA1D87408BD44",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
+          "name": "Hard"
         }
       ]
     },
@@ -1388,6 +1241,222 @@
       "levelAuthorName": "nolan121405 vs. Narwhal",
       "hash": "B572481270BD1F2BD31DCEE91DE1052AD1714480",
       "levelid": "custom_level_B572481270BD1F2BD31DCEE91DE1052AD1714480",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Toxic",
+      "levelAuthorName": "Emir",
+      "hash": "04A5B1557FAA6FA56453468FA42FE1C1EAF17C67",
+      "levelid": "custom_level_04A5B1557FAA6FA56453468FA42FE1C1EAF17C67",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Odo",
+      "levelAuthorName": "TOFU",
+      "hash": "746E130C6B346C2E91DA049902765EC298742693",
+      "levelid": "custom_level_746E130C6B346C2E91DA049902765EC298742693",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "burbank house",
+      "levelAuthorName": "August",
+      "hash": "AB3CE3BE4DA76D001D5697F9B09C449C3B19854E",
+      "levelid": "custom_level_AB3CE3BE4DA76D001D5697F9B09C449C3B19854E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Upside Down",
+      "levelAuthorName": "WalkingKat",
+      "hash": "9E495ED2D8E278FD32B34287A82E0382FF7F591D",
+      "levelid": "custom_level_9E495ED2D8E278FD32B34287A82E0382FF7F591D",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Awake",
+      "levelAuthorName": "Avexus & BanditByTheStreet",
+      "hash": "572AA55E1D7A7CB3390D5795EC10A2BF7D205A0C",
+      "levelid": "custom_level_572AA55E1D7A7CB3390D5795EC10A2BF7D205A0C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Multicolored",
+      "levelAuthorName": "Romen & Reddek",
+      "hash": "6828BFABD2E97744EFDDF472F777C6A73434F7B5",
+      "levelid": "custom_level_6828BFABD2E97744EFDDF472F777C6A73434F7B5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "All My Love",
+      "levelAuthorName": "Olaf & RFCaps",
+      "hash": "FFEEC65EFC5212B770D6DEED6F9AD766914D7635",
+      "levelid": "custom_level_FFEEC65EFC5212B770D6DEED6F9AD766914D7635",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Revenant",
+      "levelAuthorName": "Shan_Man",
+      "hash": "38319743FFE8CD96F9858B7D23CE92E63BB3A0D1",
+      "levelid": "custom_level_38319743FFE8CD96F9858B7D23CE92E63BB3A0D1",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "MixxioN",
+      "levelAuthorName": "Jabob",
+      "hash": "BEB6F5099BECBE99583088F1EA924AA0118730FF",
+      "levelid": "custom_level_BEB6F5099BECBE99583088F1EA924AA0118730FF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "ARTIFICIAL SUICIDE",
+      "levelAuthorName": "Bytrius",
+      "hash": "3120062F27E3ADD97D500A28F07FFC3957857499",
+      "levelid": "custom_level_3120062F27E3ADD97D500A28F07FFC3957857499",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Unstoppable",
+      "levelAuthorName": "Elecast & SmokeyBacon",
+      "hash": "406FF9A4BCB15E400E2F95C65198C9EA3E590D49",
+      "levelid": "custom_level_406FF9A4BCB15E400E2F95C65198C9EA3E590D49",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "Orbit",
+      "levelAuthorName": "Tranch",
+      "hash": "18EDD433DA1CCA636C750AF20A44B01B45B294C7",
+      "levelid": "custom_level_18EDD433DA1CCA636C750AF20A44B01B45B294C7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "The Grey",
+      "levelAuthorName": "Bytrius",
+      "hash": "0A7EDDD407D6E272CF0AADF26E96850806ABC5DA",
+      "levelid": "custom_level_0A7EDDD407D6E272CF0AADF26E96850806ABC5DA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Cut The Line",
+      "levelAuthorName": "Bytrius",
+      "hash": "D1F22DE9543FF958C4B62D1AC152477492AB9584",
+      "levelid": "custom_level_D1F22DE9543FF958C4B62D1AC152477492AB9584",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Missed Calls",
+      "levelAuthorName": "nolan121405",
+      "hash": "8DE1AC8E7AC076C7635D9D95C00DED8AD0F54FA5",
+      "levelid": "custom_level_8DE1AC8E7AC076C7635D9D95C00DED8AD0F54FA5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Killa",
+      "levelAuthorName": "danrabomb",
+      "hash": "B0FC3B7E425B0077FE248FCAA96FF5721D22024C",
+      "levelid": "custom_level_B0FC3B7E425B0077FE248FCAA96FF5721D22024C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "dashstar*",
+      "levelAuthorName": "Phøenix & Timeweaver",
+      "hash": "EEA403CA0F125633B4E2A22E1DDEAB016A7051A0",
+      "levelid": "custom_level_EEA403CA0F125633B4E2A22E1DDEAB016A7051A0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Deimos",
+      "levelAuthorName": "OneEyed",
+      "hash": "609BE829B78A5CD04852FAC810A884031D8984E8",
+      "levelid": "custom_level_609BE829B78A5CD04852FAC810A884031D8984E8",
       "difficulties": [
         {
           "characteristic": "Standard",
