@@ -1,6 +1,10 @@
 {
   "playlistTitle": "har mode",
   "playlistAuthor": "spacky",
+  "playlistDescription": "puke",
+  "customData": {
+    "syncURL": "https://raw.githubusercontent.com/spacky1/bs-dump/main/Playlists/har_mode.bplist"
+  },
   "songs": [
     {
       "songName": "Thunderstrike",
