@@ -735,18 +735,6 @@
       ]
     },
     {
-      "songName": "All My Love",
-      "levelAuthorName": "Olaf & RFCaps",
-      "hash": "FFEEC65EFC5212B770D6DEED6F9AD766914D7635",
-      "levelid": "custom_level_FFEEC65EFC5212B770D6DEED6F9AD766914D7635",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "Pump It",
       "levelAuthorName": "nitronik.exe",
       "hash": "DDB52108D0EB7F0AC039FF894DEBC95CC56C13F5",
