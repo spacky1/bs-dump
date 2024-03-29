@@ -55,6 +55,18 @@
       ]
     },
     {
+      "songName": "Overcome Me!!!!!!!",
+      "levelAuthorName": "cerret",
+      "hash": "8A5F3B89AC33733CBDE7A113D24E7ED4B663033E",
+      "levelid": "custom_level_8A5F3B89AC33733CBDE7A113D24E7ED4B663033E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "SLIME INCIDENT",
       "levelAuthorName": "Helloiamdaan & Joshabi",
       "hash": "8FFD0778634AE5AAA4EA8E94886AD8957B3A7CA2",
@@ -727,6 +739,18 @@
       ]
     },
     {
+      "songName": "Ether Strike",
+      "levelAuthorName": "harbgy & Aquaflee",
+      "hash": "80B14C7E9A5D8372F37B8B3C06E2513D3D9C8963",
+      "levelid": "custom_level_80B14C7E9A5D8372F37B8B3C06E2513D3D9C8963",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Raving Bounce",
       "levelAuthorName": "cerret, unluckyL, Aquaflee & Tranch",
       "hash": "08BA14EE0A053159F08AE098DD36DF3AE88A35CA",
@@ -975,6 +999,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "fuck this town",
+      "levelAuthorName": "GojiCrafter",
+      "hash": "7294B1F3672187781B24A5BB53C0F08CF3A4385A",
+      "levelid": "custom_level_7294B1F3672187781B24A5BB53C0F08CF3A4385A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -2223,6 +2259,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Bounce",
+      "levelAuthorName": "Fatalution",
+      "hash": "2DDA4054C81530D0CF09980B646A0050CC0BF94C",
+      "levelid": "custom_level_2DDA4054C81530D0CF09980B646A0050CC0BF94C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
