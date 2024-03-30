@@ -7,6 +7,18 @@
   },
   "songs": [
     {
+      "songName": "†:OLPHEUX:†",
+      "levelAuthorName": "Purp1e",
+      "hash": "328657EC27FC70C77E6C5428A55D326EBCAC3B16",
+      "levelid": "custom_level_328657EC27FC70C77E6C5428A55D326EBCAC3B16",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
       "songName": "Darkmoon Dissolve",
       "levelAuthorName": "Shark & Irish",
       "hash": "37BA5A71D7F039AD76A20A03CD3A4FD4B3D4B1D5",
@@ -63,6 +75,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "LORELEI",
+      "levelAuthorName": "Nolanimations, cerret, Gabriel & Marsh",
+      "hash": "B1D3FA6D5305837DF59B5E629A412DEBC68BBB46",
+      "levelid": "custom_level_B1D3FA6D5305837DF59B5E629A412DEBC68BBB46",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
         }
       ]
     },
@@ -131,6 +155,18 @@
       "levelAuthorName": "Bytrius",
       "hash": "3120062F27E3ADD97D500A28F07FFC3957857499",
       "levelid": "custom_level_3120062F27E3ADD97D500A28F07FFC3957857499",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "21st Century Humor But It's A Rave Song",
+      "levelAuthorName": "miitchel",
+      "hash": "5C6D84C52B7B1B387CA62D9217E99D9303D2E716",
+      "levelid": "custom_level_5C6D84C52B7B1B387CA62D9217E99D9303D2E716",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -451,6 +487,18 @@
       ]
     },
     {
+      "songName": "NULCTRL",
+      "levelAuthorName": "Marsh",
+      "hash": "B3D6CAB952EF9B37125532112C83F468DB8FBAD8",
+      "levelid": "custom_level_B3D6CAB952EF9B37125532112C83F468DB8FBAD8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "A Drowning Cry",
       "levelAuthorName": "Fatalution",
       "hash": "8EA907EFEB4FB8774C1397076008B11491B937D0",
@@ -739,18 +787,6 @@
       ]
     },
     {
-      "songName": "21st Century Humor But It's A Rave Song",
-      "levelAuthorName": "miitchel",
-      "hash": "5C6D84C52B7B1B387CA62D9217E99D9303D2E716",
-      "levelid": "custom_level_5C6D84C52B7B1B387CA62D9217E99D9303D2E716",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Normal"
-        }
-      ]
-    },
-    {
       "songName": "simulation",
       "levelAuthorName": "RFCaps",
       "hash": "95A373ABACF6FC62B38AAAD861DAC3FCFDA74D3F",
@@ -859,6 +895,18 @@
       ]
     },
     {
+      "songName": "Tek It",
+      "levelAuthorName": "Dailyy",
+      "hash": "992DDDD54BC5BDBFC478E5C6DE507F3D9A90FAC4",
+      "levelid": "custom_level_992DDDD54BC5BDBFC478E5C6DE507F3D9A90FAC4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Shut Up And Dance",
       "levelAuthorName": "Syndicate, OneSpookyBoi, TheCzar1994",
       "hash": "D12A468BA97792113BB42515AB919C6AA5C79019",
@@ -915,6 +963,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Gilded Lily",
+      "levelAuthorName": "Dailyy",
+      "hash": "7240204BB4D981DC51E378D7712EDB136167183E",
+      "levelid": "custom_level_7240204BB4D981DC51E378D7712EDB136167183E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -1155,6 +1215,18 @@
         {
           "characteristic": "Standard",
           "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "Please Don't Go Away Or I Will Cry My Ass Off",
+      "levelAuthorName": "Spinvvy",
+      "hash": "8F70017B752EA563BE84EAF24A06AEF9AF1596EE",
+      "levelid": "custom_level_8F70017B752EA563BE84EAF24A06AEF9AF1596EE",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
