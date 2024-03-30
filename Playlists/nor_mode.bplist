@@ -79,14 +79,14 @@
       ]
     },
     {
-      "songName": "Long Times",
-      "levelAuthorName": "Teuflum & xScaramouche",
-      "hash": "BCEA96043773B95362844EC20BA5149F51B38F70",
-      "levelid": "custom_level_BCEA96043773B95362844EC20BA5149F51B38F70",
+      "songName": "Destroy, Destroy, Destroy The Happy End",
+      "levelAuthorName": "Marsh & Gabriel",
+      "hash": "6E2568045C6CED5ED91F7BCCFD15E7127314D22C",
+      "levelid": "custom_level_6E2568045C6CED5ED91F7BCCFD15E7127314D22C",
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Hard"
+          "name": "Expert"
         }
       ]
     },
@@ -271,6 +271,18 @@
       ]
     },
     {
+      "songName": "Freefall",
+      "levelAuthorName": "dibl & ItsVasili",
+      "hash": "117FE773C1A503FB47CB634442A27CB74F11F2BE",
+      "levelid": "custom_level_117FE773C1A503FB47CB634442A27CB74F11F2BE",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Phony",
       "levelAuthorName": "Joshabi & Shad",
       "hash": "80559A7A4AC0F62F27DAF1C59DF67F305250ADFF",
@@ -399,6 +411,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "stasis",
+      "levelAuthorName": "Jabob",
+      "hash": "A9C5490C35091281B6795E33D56E97535F1FA5B3",
+      "levelid": "custom_level_A9C5490C35091281B6795E33D56E97535F1FA5B3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -739,6 +763,18 @@
       ]
     },
     {
+      "songName": "T+ VS SHARK",
+      "levelAuthorName": "ThySpoon",
+      "hash": "1C33B5EE2705BBF2413083E4E0C8106D5DDD3C1C",
+      "levelid": "custom_level_1C33B5EE2705BBF2413083E4E0C8106D5DDD3C1C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Ether Strike",
       "levelAuthorName": "harbgy & Aquaflee",
       "hash": "80B14C7E9A5D8372F37B8B3C06E2513D3D9C8963",
@@ -799,6 +835,18 @@
       ]
     },
     {
+      "songName": "Lotus",
+      "levelAuthorName": "Checkthepan",
+      "hash": "487219D2A9B4694DB8BA2A2AFFDE87BA1415C733",
+      "levelid": "custom_level_487219D2A9B4694DB8BA2A2AFFDE87BA1415C733",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Aegleseeker",
       "levelAuthorName": "Aimedhades16 & Bitz",
       "hash": "7FFC6CD2419E896545D131C31BB8FEE96C9DA9D9",
@@ -827,6 +875,18 @@
       "levelAuthorName": "Emilia",
       "hash": "889F0371058EB1D6F9E8F74B14464D478D13D506",
       "levelid": "custom_level_889F0371058EB1D6F9E8F74B14464D478D13D506",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "NULCTRL",
+      "levelAuthorName": "Marsh",
+      "hash": "B3D6CAB952EF9B37125532112C83F468DB8FBAD8",
+      "levelid": "custom_level_B3D6CAB952EF9B37125532112C83F468DB8FBAD8",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1111,6 +1171,18 @@
       ]
     },
     {
+      "songName": "†:OLPHEUX:†",
+      "levelAuthorName": "Purp1e",
+      "hash": "328657EC27FC70C77E6C5428A55D326EBCAC3B16",
+      "levelid": "custom_level_328657EC27FC70C77E6C5428A55D326EBCAC3B16",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
       "songName": "Chariot",
       "levelAuthorName": "Timbo",
       "hash": "AA31DCD3F9DA483793922D24F210944178B6CBC2",
@@ -1203,6 +1275,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "The World Ends Now",
+      "levelAuthorName": "Spectral",
+      "hash": "928076E88D999943586040B7B41E6C48696D5433",
+      "levelid": "custom_level_928076E88D999943586040B7B41E6C48696D5433",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -1771,6 +1855,18 @@
       ]
     },
     {
+      "songName": "Oblivion",
+      "levelAuthorName": "Timeweaver",
+      "hash": "E799B25C9D5CBC6092B44CB97B4B83B45FD6B353",
+      "levelid": "custom_level_E799B25C9D5CBC6092B44CB97B4B83B45FD6B353",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "STAY",
       "levelAuthorName": "RFCaps & FatBeanzoop",
       "hash": "B3D5EBD465D2E0747276B34D26F5A41850558769",
@@ -1879,18 +1975,6 @@
       ]
     },
     {
-      "songName": "†:OLPHEUX:†",
-      "levelAuthorName": "Purp1e",
-      "hash": "328657EC27FC70C77E6C5428A55D326EBCAC3B16",
-      "levelid": "custom_level_328657EC27FC70C77E6C5428A55D326EBCAC3B16",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Easy"
-        }
-      ]
-    },
-    {
       "songName": "A Drowning Cry",
       "levelAuthorName": "Loopymtb",
       "hash": "54FCCFCA863220377A4A612856BC1FEBBF43A55F",
@@ -1975,6 +2059,18 @@
       ]
     },
     {
+      "songName": "Long Times",
+      "levelAuthorName": "Teuflum & xScaramouche",
+      "hash": "BCEA96043773B95362844EC20BA5149F51B38F70",
+      "levelid": "custom_level_BCEA96043773B95362844EC20BA5149F51B38F70",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
       "songName": "Like This",
       "levelAuthorName": "Timbo",
       "hash": "F80CD127C6CD01E8C3B57801CDE6BBFC9298BA24",
@@ -2054,7 +2150,7 @@
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Easy"
+          "name": "Normal"
         }
       ]
     },
@@ -2079,18 +2175,6 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Destroy, Destroy, Destroy The Happy End",
-      "levelAuthorName": "Marsh & Gabriel",
-      "hash": "6E2568045C6CED5ED91F7BCCFD15E7127314D22C",
-      "levelid": "custom_level_6E2568045C6CED5ED91F7BCCFD15E7127314D22C",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
         }
       ]
     },
@@ -2263,6 +2347,18 @@
       ]
     },
     {
+      "songName": "Tek It",
+      "levelAuthorName": "Dailyy",
+      "hash": "992DDDD54BC5BDBFC478E5C6DE507F3D9A90FAC4",
+      "levelid": "custom_level_992DDDD54BC5BDBFC478E5C6DE507F3D9A90FAC4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Bounce",
       "levelAuthorName": "Fatalution",
       "hash": "2DDA4054C81530D0CF09980B646A0050CC0BF94C",
@@ -2271,6 +2367,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Please Don't Go Away Or I Will Cry My Ass Off",
+      "levelAuthorName": "Spinvvy",
+      "hash": "8F70017B752EA563BE84EAF24A06AEF9AF1596EE",
+      "levelid": "custom_level_8F70017B752EA563BE84EAF24A06AEF9AF1596EE",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
