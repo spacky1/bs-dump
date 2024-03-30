@@ -7,30 +7,6 @@
   },
   "songs": [
     {
-      "songName": "Deimos",
-      "levelAuthorName": "Jabob, Narwhal, & Bullet",
-      "hash": "EDDCA14F0E90F5DA5A2337B8DD2B1EB381771400",
-      "levelid": "custom_level_EDDCA14F0E90F5DA5A2337B8DD2B1EB381771400",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Ultima Weapon",
-      "levelAuthorName": "TheHeyDJPodcast ft. Bitz",
-      "hash": "D31726A59B54171C3F15DB32F6176F2B0EAFD814",
-      "levelid": "custom_level_D31726A59B54171C3F15DB32F6176F2B0EAFD814",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
-        }
-      ]
-    },
-    {
       "songName": "Spin Eternally",
       "levelAuthorName": "Nolanimations",
       "hash": "C0CB89A82AA9E43113417572397B8F9BD4C2F236",
@@ -71,6 +47,30 @@
       "levelAuthorName": "Jabob",
       "hash": "BEB6F5099BECBE99583088F1EA924AA0118730FF",
       "levelid": "custom_level_BEB6F5099BECBE99583088F1EA924AA0118730FF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Möbius",
+      "levelAuthorName": "Timbo, abcbadq, Narwhal",
+      "hash": "ACB8443A8CDB20B9F74CBCAE977FBD3924737786",
+      "levelid": "custom_level_ACB8443A8CDB20B9F74CBCAE977FBD3924737786",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "stasis",
+      "levelAuthorName": "Jabob",
+      "hash": "A9C5490C35091281B6795E33D56E97535F1FA5B3",
+      "levelid": "custom_level_A9C5490C35091281B6795E33D56E97535F1FA5B3",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -127,6 +127,18 @@
       ]
     },
     {
+      "songName": "+ERABY+E CONNEC+10N",
+      "levelAuthorName": "RetrX",
+      "hash": "DB3ED97E0C7EB5D95F18E10C61F298CDDCD6560A",
+      "levelid": "custom_level_DB3ED97E0C7EB5D95F18E10C61F298CDDCD6560A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "GHOST",
       "levelAuthorName": "Nolanimations",
       "hash": "1D518A9485396C8D10DB65C563823783CA77A3CE",
@@ -135,6 +147,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Nibelungen",
+      "levelAuthorName": "ComplexFrequency",
+      "hash": "62128DFDD39DB6A2CC380C254031A9D4367B87A1",
+      "levelid": "custom_level_62128DFDD39DB6A2CC380C254031A9D4367B87A1",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -211,10 +235,46 @@
       ]
     },
     {
+      "songName": "Freefall",
+      "levelAuthorName": "dibl & ItsVasili",
+      "hash": "117FE773C1A503FB47CB634442A27CB74F11F2BE",
+      "levelid": "custom_level_117FE773C1A503FB47CB634442A27CB74F11F2BE",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "RPG",
+      "levelAuthorName": "ComplexFrequency, ThySpoon & Fnyt",
+      "hash": "1EC5412DF0B2EAAD909BFF4A682BBD55682442DA",
+      "levelid": "custom_level_1EC5412DF0B2EAAD909BFF4A682BBD55682442DA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "UNO",
       "levelAuthorName": "Schwank vs. Narwhal",
       "hash": "E8496DC530318BE6311BA5F080794F6AF452E7C0",
       "levelid": "custom_level_E8496DC530318BE6311BA5F080794F6AF452E7C0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Ill",
+      "levelAuthorName": "ThySpoon & Fvrwvrd",
+      "hash": "BDEDCCEC6C2F59A55F9D44DE5A54F490D72EC8F4",
+      "levelid": "custom_level_BDEDCCEC6C2F59A55F9D44DE5A54F490D72EC8F4",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -235,6 +295,30 @@
       ]
     },
     {
+      "songName": "Mystery Circles Ultra / U.U.F.O.",
+      "levelAuthorName": "cerret & Nolanimations",
+      "hash": "74DA5649F0C327C6D9E092D5CBAD1204E1855559",
+      "levelid": "custom_level_74DA5649F0C327C6D9E092D5CBAD1204E1855559",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Unlimited Hyperlink",
+      "levelAuthorName": "Timbo",
+      "hash": "95C582421E53F7DB35CEC37D812D7A03269AD878",
+      "levelid": "custom_level_95C582421E53F7DB35CEC37D812D7A03269AD878",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Le Virus",
       "levelAuthorName": "Rusty, miitchel, Nolan & yabje",
       "hash": "DCD1E4D12A8AF8A82FC6102948D9F1657D23F898",
@@ -243,6 +327,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Ultima Weapon",
+      "levelAuthorName": "TheHeyDJPodcast ft. Bitz",
+      "hash": "D31726A59B54171C3F15DB32F6176F2B0EAFD814",
+      "levelid": "custom_level_D31726A59B54171C3F15DB32F6176F2B0EAFD814",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -263,6 +359,18 @@
       "levelAuthorName": "Scarladore",
       "hash": "70947EC1ABE377337D33ACA2CA50BB8124D13543",
       "levelid": "custom_level_70947EC1ABE377337D33ACA2CA50BB8124D13543",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "HINODE",
+      "levelAuthorName": "Avexus & Maunchy",
+      "hash": "EB46EF9EDC87DBE601A354F82D1CAA895558FFA0",
+      "levelid": "custom_level_EB46EF9EDC87DBE601A354F82D1CAA895558FFA0",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -343,10 +451,34 @@
       ]
     },
     {
+      "songName": "T+ VS SHARK",
+      "levelAuthorName": "Shark & Elecast",
+      "hash": "0080B7154FFCB08B6D4E9253C46C7484F69DBA94",
+      "levelid": "custom_level_0080B7154FFCB08B6D4E9253C46C7484F69DBA94",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "THE WORLD REVOLVING",
       "levelAuthorName": "Nolanimations",
       "hash": "00F03A5748E97CB4799D59A7CE9822095668EFCA",
       "levelid": "custom_level_00F03A5748E97CB4799D59A7CE9822095668EFCA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Blue Zenith",
+      "levelAuthorName": "Joshabi & Aquaflee",
+      "hash": "55FBB3FC76D7536E41A040183CB8936EBF8550B1",
+      "levelid": "custom_level_55FBB3FC76D7536E41A040183CB8936EBF8550B1",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -379,10 +511,34 @@
       ]
     },
     {
+      "songName": "Palace of Melancholia",
+      "levelAuthorName": "Jabob & Joshabi",
+      "hash": "D67AFB36CE5B39040C206AB227F23872FFD7FE19",
+      "levelid": "custom_level_D67AFB36CE5B39040C206AB227F23872FFD7FE19",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "paradox",
       "levelAuthorName": "yabje",
       "hash": "1CEC2294ACE0E972B6CD23BACA9232725F1EE7F0",
       "levelid": "custom_level_1CEC2294ACE0E972B6CD23BACA9232725F1EE7F0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Werewolf Howls",
+      "levelAuthorName": "Joshabi",
+      "hash": "7700300FCB726AD2AAE82B4614035620315D2829",
+      "levelid": "custom_level_7700300FCB726AD2AAE82B4614035620315D2829",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -427,6 +583,18 @@
       ]
     },
     {
+      "songName": "Yotsuya-san ni Yoroshiku",
+      "levelAuthorName": "CoolingCloset",
+      "hash": "666EEAC0F3EEE2278DCB971AC1D27421A0335801",
+      "levelid": "custom_level_666EEAC0F3EEE2278DCB971AC1D27421A0335801",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "DUAL BREAKER XX",
       "levelAuthorName": "ThySpoon & ThyYeet",
       "hash": "D52E5A2E6612485E2256F9AA12C296E05621379C",
@@ -447,6 +615,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Last Wish",
+      "levelAuthorName": "BSWC Team",
+      "hash": "C86336B3CA84CD03BC3995FADFD7CFDDE2FD00C0",
+      "levelid": "custom_level_C86336B3CA84CD03BC3995FADFD7CFDDE2FD00C0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -483,6 +663,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Old School Sound",
+      "levelAuthorName": "ThySpoon",
+      "hash": "6B1B8A70D5F35DFAD659075854A447E673742FA7",
+      "levelid": "custom_level_6B1B8A70D5F35DFAD659075854A447E673742FA7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -651,6 +843,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Aegleseeker",
+      "levelAuthorName": "Aimedhades16 & Bitz",
+      "hash": "7FFC6CD2419E896545D131C31BB8FEE96C9DA9D9",
+      "levelid": "custom_level_7FFC6CD2419E896545D131C31BB8FEE96C9DA9D9",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -847,6 +1051,18 @@
       ]
     },
     {
+      "songName": "Megaton Killer",
+      "levelAuthorName": "cerret & Aquaflee",
+      "hash": "FFCE30DA1F023BB3480B6A323F8DDF6498496373",
+      "levelid": "custom_level_FFCE30DA1F023BB3480B6A323F8DDF6498496373",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Deception",
       "levelAuthorName": "cerret",
       "hash": "08D67C25E377D20136E839B2BFF51CC6E79611A8",
@@ -855,6 +1071,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Deimos",
+      "levelAuthorName": "OneEyed",
+      "hash": "609BE829B78A5CD04852FAC810A884031D8984E8",
+      "levelid": "custom_level_609BE829B78A5CD04852FAC810A884031D8984E8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -975,6 +1203,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Megalovania",
+      "levelAuthorName": "Joshabi & Olaf",
+      "hash": "A2EE3D6E6C82B89B10B9395BEBF47CF05F316B10",
+      "levelid": "custom_level_A2EE3D6E6C82B89B10B9395BEBF47CF05F316B10",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -1507,18 +1747,6 @@
       ]
     },
     {
-      "songName": "Destroy, Destroy, Destroy The Happy End",
-      "levelAuthorName": "Marsh & Gabriel",
-      "hash": "6E2568045C6CED5ED91F7BCCFD15E7127314D22C",
-      "levelid": "custom_level_6E2568045C6CED5ED91F7BCCFD15E7127314D22C",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
-        }
-      ]
-    },
-    {
       "songName": "fuck this town",
       "levelAuthorName": "GojiCrafter",
       "hash": "7294B1F3672187781B24A5BB53C0F08CF3A4385A",
@@ -1559,6 +1787,18 @@
       "levelAuthorName": "SmokeyBacon",
       "hash": "72514529CB3ADA7C6C596FEE675E948B5040F851",
       "levelid": "custom_level_72514529CB3ADA7C6C596FEE675E948B5040F851",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Oblivion",
+      "levelAuthorName": "Timeweaver",
+      "hash": "E799B25C9D5CBC6092B44CB97B4B83B45FD6B353",
+      "levelid": "custom_level_E799B25C9D5CBC6092B44CB97B4B83B45FD6B353",
       "difficulties": [
         {
           "characteristic": "Standard",
