@@ -115,6 +115,18 @@
       ]
     },
     {
+      "songName": "Twisted Drop Party",
+      "levelAuthorName": "Marsh",
+      "hash": "B140A4C10F931792A6F3B81CA51946EBBF4E0586",
+      "levelid": "custom_level_B140A4C10F931792A6F3B81CA51946EBBF4E0586",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "THE BADDEST",
       "levelAuthorName": "Darkrealm7",
       "hash": "58B8E5C6910F72CB21DD74DB1D8D43D9D97326C4",
@@ -179,6 +191,42 @@
       "levelAuthorName": "Shan_Man",
       "hash": "38319743FFE8CD96F9858B7D23CE92E63BB3A0D1",
       "levelid": "custom_level_38319743FFE8CD96F9858B7D23CE92E63BB3A0D1",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "mystique as iris",
+      "levelAuthorName": "take_nyan",
+      "hash": "1DEE1BCA9E1D9EDA6182DA31FA4CF65D91FE8B15",
+      "levelid": "custom_level_1DEE1BCA9E1D9EDA6182DA31FA4CF65D91FE8B15",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "The 89's Momentum",
+      "levelAuthorName": "yabje",
+      "hash": "E892864E9B4D708F0797C6F51B002F402A440DDE",
+      "levelid": "custom_level_E892864E9B4D708F0797C6F51B002F402A440DDE",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "31Hz",
+      "levelAuthorName": "Raydz",
+      "hash": "0849471FE6B5D6FED8018C9D26A54F2AF042FEF4",
+      "levelid": "custom_level_0849471FE6B5D6FED8018C9D26A54F2AF042FEF4",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -259,6 +307,18 @@
       ]
     },
     {
+      "songName": "RATATA",
+      "levelAuthorName": "Hener & Harper",
+      "hash": "C6C9AD7EB5B07E95CFAD176AF29D8AA33147F90E",
+      "levelid": "custom_level_C6C9AD7EB5B07E95CFAD176AF29D8AA33147F90E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "eden",
       "levelAuthorName": "slamsyk",
       "hash": "64688EE557A6C0916D2108AA3B39DD79C8468DB3",
@@ -279,6 +339,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "52 Hearts",
+      "levelAuthorName": "Nolanimations & Swifter",
+      "hash": "3ED2FA294CA1A8DCB6BF36793F130BD1B5D81149",
+      "levelid": "custom_level_3ED2FA294CA1A8DCB6BF36793F130BD1B5D81149",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -359,6 +431,30 @@
       "levelAuthorName": "Alice",
       "hash": "B736B0AA8465561A42C46672FE39AC95F8E413E3",
       "levelid": "custom_level_B736B0AA8465561A42C46672FE39AC95F8E413E3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Go Down",
+      "levelAuthorName": "Gabriel",
+      "hash": "402FB3EE310C53B30B4CA5325B6928AFC6E71EBF",
+      "levelid": "custom_level_402FB3EE310C53B30B4CA5325B6928AFC6E71EBF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Natural Light",
+      "levelAuthorName": "nasafrasa",
+      "hash": "C2700DE77246A6E064C4EE73F8CCC64CA03A2586",
+      "levelid": "custom_level_C2700DE77246A6E064C4EE73F8CCC64CA03A2586",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -487,6 +583,18 @@
       ]
     },
     {
+      "songName": "Hentai",
+      "levelAuthorName": "Alice",
+      "hash": "9A85926A2E47F6FD8CF8A0DE58354CAF5FA19DEE",
+      "levelid": "custom_level_9A85926A2E47F6FD8CF8A0DE58354CAF5FA19DEE",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "NULCTRL",
       "levelAuthorName": "Marsh",
       "hash": "B3D6CAB952EF9B37125532112C83F468DB8FBAD8",
@@ -583,6 +691,18 @@
       ]
     },
     {
+      "songName": "VORACITY",
+      "levelAuthorName": "Joshabi & Bitz",
+      "hash": "78B222785FA5798BA4D1E9C531F0AB98A393EAF2",
+      "levelid": "custom_level_78B222785FA5798BA4D1E9C531F0AB98A393EAF2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
       "songName": "Bad Things",
       "levelAuthorName": "Bytrius",
       "hash": "F3F707A6BB61054C2C11124B0390FAAEB685FA58",
@@ -663,6 +783,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Emotional Prism",
+      "levelAuthorName": "P90KILLR",
+      "hash": "4193E13401248A58E5343D5F07AAFC593C266B9F",
+      "levelid": "custom_level_4193E13401248A58E5343D5F07AAFC593C266B9F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -787,6 +919,30 @@
       ]
     },
     {
+      "songName": "Cheerleader",
+      "levelAuthorName": "Scorefam, BanditByTheStreet, Lekrkoekj",
+      "hash": "A0B141BEC85A7314C06DA4152B8F8CFCE9F69956",
+      "levelid": "custom_level_A0B141BEC85A7314C06DA4152B8F8CFCE9F69956",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Setsuna no Chikai",
+      "levelAuthorName": "Joshabi",
+      "hash": "ACD74A2011201E85773C671FA2E6CA4C8643433C",
+      "levelid": "custom_level_ACD74A2011201E85773C671FA2E6CA4C8643433C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "simulation",
       "levelAuthorName": "RFCaps",
       "hash": "95A373ABACF6FC62B38AAAD861DAC3FCFDA74D3F",
@@ -827,6 +983,18 @@
       "levelAuthorName": "Spinvertigoo",
       "hash": "B560B0C8223F8FE77DBF457988829FFD26B83432",
       "levelid": "custom_level_B560B0C8223F8FE77DBF457988829FFD26B83432",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "『82.99 F.M』",
+      "levelAuthorName": "P90KILLR",
+      "hash": "E1DE8922FE8BAD53E80912EF20ED2CF977A1DC64",
+      "levelid": "custom_level_E1DE8922FE8BAD53E80912EF20ED2CF977A1DC64",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1003,6 +1171,18 @@
       ]
     },
     {
+      "songName": "Ganbare",
+      "levelAuthorName": "P90KILLR",
+      "hash": "14F6C2E1B653E23E7AAB74807634228BD20C63C5",
+      "levelid": "custom_level_14F6C2E1B653E23E7AAB74807634228BD20C63C5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "dashstar*",
       "levelAuthorName": "Phøenix & Timeweaver",
       "hash": "EEA403CA0F125633B4E2A22E1DDEAB016A7051A0",
@@ -1011,6 +1191,30 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Attention",
+      "levelAuthorName": "tocxx, eurnkung",
+      "hash": "62A7E52DC90593DF7445D9BEC19E0A76DBB7A9BD",
+      "levelid": "custom_level_62A7E52DC90593DF7445D9BEC19E0A76DBB7A9BD",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "HER",
+      "levelAuthorName": "Spinvvy",
+      "hash": "54532F625C9CDC1F172352C36D4E0A6648682E20",
+      "levelid": "custom_level_54532F625C9CDC1F172352C36D4E0A6648682E20",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -1083,6 +1287,18 @@
         {
           "characteristic": "Standard",
           "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "Nerdy",
+      "levelAuthorName": "tocxx",
+      "hash": "53D63590F2D3E6148B1DB14D5C63ACDC411149E4",
+      "levelid": "custom_level_53D63590F2D3E6148B1DB14D5C63ACDC411149E4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -1219,6 +1435,18 @@
       ]
     },
     {
+      "songName": "N3XTAGE",
+      "levelAuthorName": "Avexus",
+      "hash": "18CB63CC6A2F97D81BCC2E5CA9184EE18B1F48E4",
+      "levelid": "custom_level_18CB63CC6A2F97D81BCC2E5CA9184EE18B1F48E4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
       "songName": "Please Don't Go Away Or I Will Cry My Ass Off",
       "levelAuthorName": "Spinvvy",
       "hash": "8F70017B752EA563BE84EAF24A06AEF9AF1596EE",
@@ -1271,6 +1499,18 @@
       "levelAuthorName": "TOFU",
       "hash": "84BCFF4756AC66BF1746824B0B221EB1E6A4AFF2",
       "levelid": "custom_level_84BCFF4756AC66BF1746824B0B221EB1E6A4AFF2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Grief Seed",
+      "levelAuthorName": "shad",
+      "hash": "91A9DD4CA20864F03227993A5FA8489FF62EE715",
+      "levelid": "custom_level_91A9DD4CA20864F03227993A5FA8489FF62EE715",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1335,6 +1575,18 @@
         {
           "characteristic": "Standard",
           "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "Ditto",
+      "levelAuthorName": "eurnkung, tocxx",
+      "hash": "090010BF378697BD8EA8112626B023B23C198A8A",
+      "levelid": "custom_level_090010BF378697BD8EA8112626B023B23C198A8A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
