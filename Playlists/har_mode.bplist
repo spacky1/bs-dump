@@ -283,6 +283,18 @@
       ]
     },
     {
+      "songName": "Moskau",
+      "levelAuthorName": "RetrX",
+      "hash": "515913F554EB6160421718772EDB4E8A0C42B7E6",
+      "levelid": "custom_level_515913F554EB6160421718772EDB4E8A0C42B7E6",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Here We Go",
       "levelAuthorName": "Astrella",
       "hash": "4A6EE299D15FE5A2E1FEA295991DAC1A89F4FD0F",
@@ -3839,18 +3851,6 @@
       "levelAuthorName": "Timbo & SmokeyBacon",
       "hash": "9EDB7FA076EC5493DF4EAC4B1C134A4F3C4C3EBF",
       "levelid": "custom_level_9EDB7FA076EC5493DF4EAC4B1C134A4F3C4C3EBF",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Moskau",
-      "levelAuthorName": "RetrX",
-      "hash": "515913F554EB6160421718772EDB4E8A0C42B7E6",
-      "levelid": "custom_level_515913F554EB6160421718772EDB4E8A0C42B7E6",
       "difficulties": [
         {
           "characteristic": "Standard",
