@@ -403,6 +403,30 @@
       ]
     },
     {
+      "songName": "Haru Hisagi",
+      "levelAuthorName": "CookedChili & yabje",
+      "hash": "A8863E1316020AA940256B517BEA1FCCF2F680FB",
+      "levelid": "custom_level_A8863E1316020AA940256B517BEA1FCCF2F680FB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Bustin",
+      "levelAuthorName": "CyanSnow & Teuflum",
+      "hash": "E54F82BA5BE9C5F773AB2DDF90FD20B69887D90F",
+      "levelid": "custom_level_E54F82BA5BE9C5F773AB2DDF90FD20B69887D90F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "burbank house",
       "levelAuthorName": "August",
       "hash": "AB3CE3BE4DA76D001D5697F9B09C449C3B19854E",
@@ -531,6 +555,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Yuunagi, bou, Hanamadoi",
+      "levelAuthorName": "Emiru",
+      "hash": "0F6734E965CAACB03F16F7D1C383ACE98D6CBF54",
+      "levelid": "custom_level_0F6734E965CAACB03F16F7D1C383ACE98D6CBF54",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -691,6 +727,18 @@
       ]
     },
     {
+      "songName": "Paws and Play",
+      "levelAuthorName": "CyanSnow",
+      "hash": "6B571C3594426B088E73FDB12C1E81DDB9076631",
+      "levelid": "custom_level_6B571C3594426B088E73FDB12C1E81DDB9076631",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "NULCTRL",
       "levelAuthorName": "Marsh",
       "hash": "B3D6CAB952EF9B37125532112C83F468DB8FBAD8",
@@ -819,6 +867,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Happy Place",
+      "levelAuthorName": "Melon",
+      "hash": "671F348CC8E7A21737186BB6F57801FE7B943F3B",
+      "levelid": "custom_level_671F348CC8E7A21737186BB6F57801FE7B943F3B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -1115,6 +1175,18 @@
       "levelAuthorName": "EOP Glacier",
       "hash": "F354FF4795EE4035B918DB57C70E55799A7A5C67",
       "levelid": "custom_level_F354FF4795EE4035B918DB57C70E55799A7A5C67",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "I'm Here (Guy Arthur Remix)",
+      "levelAuthorName": "Remie",
+      "hash": "041D90DEBAC376F81A12506F1814ABEAC6D1FFE7",
+      "levelid": "custom_level_041D90DEBAC376F81A12506F1814ABEAC6D1FFE7",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1531,6 +1603,18 @@
       ]
     },
     {
+      "songName": "ready to die",
+      "levelAuthorName": "Spinvvy",
+      "hash": "407954E09E6D1A48FC172E1D298122FC9393562A",
+      "levelid": "custom_level_407954E09E6D1A48FC172E1D298122FC9393562A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Ping! 2",
       "levelAuthorName": "GojiCrafter",
       "hash": "4C44E1A9C0B17962749EC4B745634BB652199C60",
@@ -1599,6 +1683,18 @@
         {
           "characteristic": "Standard",
           "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "VOICE",
+      "levelAuthorName": "Alice",
+      "hash": "6E4B0927F7CE722F2BD36081DEA7DE9A98E059BF",
+      "levelid": "custom_level_6E4B0927F7CE722F2BD36081DEA7DE9A98E059BF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
