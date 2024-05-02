@@ -271,6 +271,18 @@
       ]
     },
     {
+      "songName": "Moskau",
+      "levelAuthorName": "RetrX",
+      "hash": "515913F554EB6160421718772EDB4E8A0C42B7E6",
+      "levelid": "custom_level_515913F554EB6160421718772EDB4E8A0C42B7E6",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Knight Rider",
       "levelAuthorName": "Nolanimations, Timbo",
       "hash": "E22E733D1DFC92373BA5AB954BA37AB3C39D4562",
@@ -343,6 +355,18 @@
       ]
     },
     {
+      "songName": "Firehazard",
+      "levelAuthorName": "Joshabi",
+      "hash": "522D0727D30469E09522D193438EC3698B757693",
+      "levelid": "custom_level_522D0727D30469E09522D193438EC3698B757693",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "The 90's Decision",
       "levelAuthorName": "That_Narwhal",
       "hash": "42F218850E16F24CBCCB94DEF959889F9AB4663C",
@@ -399,6 +423,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Stronger",
+      "levelAuthorName": "SmokeyBacon",
+      "hash": "631E89888CE6FE86BC1D8372DEC8D3B26FE6811E",
+      "levelid": "custom_level_631E89888CE6FE86BC1D8372DEC8D3B26FE6811E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -531,6 +567,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Zombified",
+      "levelAuthorName": "Bytrius",
+      "hash": "1FB8D26EF00049D75F8F15B315C8146B7978EF52",
+      "levelid": "custom_level_1FB8D26EF00049D75F8F15B315C8146B7978EF52",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -1099,6 +1147,18 @@
       ]
     },
     {
+      "songName": "Ashura-chan",
+      "levelAuthorName": "TOFU",
+      "hash": "9E18DAE43318635849554B984933627FD7615720",
+      "levelid": "custom_level_9E18DAE43318635849554B984933627FD7615720",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Happy Place",
       "levelAuthorName": "Melon",
       "hash": "671F348CC8E7A21737186BB6F57801FE7B943F3B",
@@ -1119,6 +1179,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Beautiful Madness",
+      "levelAuthorName": "SmokeyBacon",
+      "hash": "BBFA08522B13A5615A6DAD5144E35887CFA7E33E",
+      "levelid": "custom_level_BBFA08522B13A5615A6DAD5144E35887CFA7E33E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -1399,6 +1471,18 @@
       ]
     },
     {
+      "songName": "Climax",
+      "levelAuthorName": "Timbo",
+      "hash": "FD34B0279836820254C31552C5753291ACBCBB95",
+      "levelid": "custom_level_FD34B0279836820254C31552C5753291ACBCBB95",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
       "songName": "The Grey",
       "levelAuthorName": "Bytrius",
       "hash": "0A7EDDD407D6E272CF0AADF26E96850806ABC5DA",
@@ -1635,6 +1719,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "ANTIFRAGILE",
+      "levelAuthorName": "tocxx",
+      "hash": "6F3E69A67EBF1291FF2E729B1C68DB25E452F647",
+      "levelid": "custom_level_6F3E69A67EBF1291FF2E729B1C68DB25E452F647",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -2371,6 +2467,18 @@
       ]
     },
     {
+      "songName": "From The Start",
+      "levelAuthorName": "August",
+      "hash": "DFD88183E2C763BF905C16119A6EA0BBB0C092CA",
+      "levelid": "custom_level_DFD88183E2C763BF905C16119A6EA0BBB0C092CA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Yoru ni Kakeru",
       "levelAuthorName": "chikinbiskit",
       "hash": "79AFBC844DFFBF8ED6A42ECBAEF1963DAD093221",
@@ -2387,6 +2495,18 @@
       "levelAuthorName": "Nolanimations",
       "hash": "45F9480A43DDEA9FF338BF449AD9EAD62F73EB52",
       "levelid": "custom_level_45F9480A43DDEA9FF338BF449AD9EAD62F73EB52",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "Dandelions",
+      "levelAuthorName": "Sync",
+      "hash": "6AE7603F5BCF19D216DF10925C5CB603FA60EFFF",
+      "levelid": "custom_level_6AE7603F5BCF19D216DF10925C5CB603FA60EFFF",
       "difficulties": [
         {
           "characteristic": "Standard",
