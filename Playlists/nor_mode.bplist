@@ -4183,18 +4183,6 @@
       ]
     },
     {
-      "songName": "Excessive Funeral",
-      "levelAuthorName": "Voidless",
-      "hash": "7FC4A4111E4B151C3426B880DAAA88B1507E94A0",
-      "levelid": "custom_level_7FC4A4111E4B151C3426B880DAAA88B1507E94A0",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "songName": "Thought Machine",
       "levelAuthorName": "Spinvvy",
       "hash": "BCDAE4B03A1987FEFF94F15653BB379E4083BE01",
