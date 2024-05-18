@@ -19,6 +19,18 @@
       ]
     },
     {
+      "songName": "Finorza",
+      "levelAuthorName": "Joshabi",
+      "hash": "6B5C9DF083559C04C0BAE7CE4CA87EFA79CC7394",
+      "levelid": "custom_level_6B5C9DF083559C04C0BAE7CE4CA87EFA79CC7394",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "CALAMITY RHAPSODY",
       "levelAuthorName": "Cratornugget",
       "hash": "FAEC3B7EF37931477DD664FCA5E8EB1CC607CEB5",
@@ -211,18 +223,6 @@
       ]
     },
     {
-      "songName": "Dans la mer de son",
-      "levelAuthorName": "RetrX",
-      "hash": "C00FB8421CFC323D3B24EDB0317644D0B15327C8",
-      "levelid": "custom_level_C00FB8421CFC323D3B24EDB0317644D0B15327C8",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "BIKE",
       "levelAuthorName": "Chromia",
       "hash": "B5479CE281FB29D41A2198F561283F295849C7AA",
@@ -367,18 +367,6 @@
       ]
     },
     {
-      "songName": "Enigma",
-      "levelAuthorName": "miitchel & Alice",
-      "hash": "BDE6A1F8FC7008247443CF3F810BBD8E910DD839",
-      "levelid": "custom_level_BDE6A1F8FC7008247443CF3F810BBD8E910DD839",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
-        }
-      ]
-    },
-    {
       "songName": "*Feels Seasickness...*",
       "levelAuthorName": "Marsh",
       "hash": "8C329DA1B440D4CEC45F99425B9795FA3D3A2C8C",
@@ -387,30 +375,6 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
-        }
-      ]
-    },
-    {
-      "songName": "The 91's Conundrum",
-      "levelAuthorName": "yabje & Dereknalox123",
-      "hash": "8DFCD3B7133098A6405C54DAC73315CE6386F3EF",
-      "levelid": "custom_level_8DFCD3B7133098A6405C54DAC73315CE6386F3EF",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
-      "songName": "Memories consume....... like opening the wound. I'm picking me apart again....",
-      "levelAuthorName": "Aquaflee",
-      "hash": "7657B950C2BEB6A4DC2B802C917F45EDCBDA2518",
-      "levelid": "custom_level_7657B950C2BEB6A4DC2B802C917F45EDCBDA2518",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
         }
       ]
     },
@@ -439,14 +403,14 @@
       ]
     },
     {
-      "songName": "SCREW // owo // SCREW",
-      "levelAuthorName": "ThySpoon",
-      "hash": "BA220888BB848D07BDFE3C49A4960E487C63BE82",
-      "levelid": "custom_level_BA220888BB848D07BDFE3C49A4960E487C63BE82",
+      "songName": "The 91's Conundrum",
+      "levelAuthorName": "yabje & Dereknalox123",
+      "hash": "A9D0817E3D984C90D28A02CC646F68D5C316FD9A",
+      "levelid": "custom_level_A9D0817E3D984C90D28A02CC646F68D5C316FD9A",
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Expert"
+          "name": "Hard"
         }
       ]
     },
@@ -763,6 +727,18 @@
       ]
     },
     {
+      "songName": "Back of the Macca's",
+      "levelAuthorName": "Skeelie, Alice, xScaramouche",
+      "hash": "BB78D6425CB4340E0B3D21CD3F0BAA85D9031DB5",
+      "levelid": "custom_level_BB78D6425CB4340E0B3D21CD3F0BAA85D9031DB5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Kill 'Em All",
       "levelAuthorName": "Marsh",
       "hash": "36DA98D2D7A3038BD309B5C9D37E0EC5DA4AF037",
@@ -799,18 +775,6 @@
       ]
     },
     {
-      "songName": "Ghost",
-      "levelAuthorName": "Elecast",
-      "hash": "FA9DBE68029EF4A38768BCF5B71E4041332766EB",
-      "levelid": "custom_level_FA9DBE68029EF4A38768BCF5B71E4041332766EB",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "Freefall",
       "levelAuthorName": "dibl & ItsVasili",
       "hash": "117FE773C1A503FB47CB634442A27CB74F11F2BE",
@@ -835,14 +799,14 @@
       ]
     },
     {
-      "songName": "Friendly Gigant Fire",
-      "levelAuthorName": "oegoe & yabje",
-      "hash": "DF656E2EB55F45FB30648A23315FFFF0392968A8",
-      "levelid": "custom_level_DF656E2EB55F45FB30648A23315FFFF0392968A8",
+      "songName": "dnd",
+      "levelAuthorName": "harbgy",
+      "hash": "D6B49B0F8483DC0E660B8927B9EA240F2B4AF897",
+      "levelid": "custom_level_D6B49B0F8483DC0E660B8927B9EA240F2B4AF897",
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Hard"
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -907,18 +871,6 @@
       ]
     },
     {
-      "songName": "This Is the Dead, and I Reached the Deathless.",
-      "levelAuthorName": "Astrella & FatBeanzoop",
-      "hash": "BD92C5760B6D03664A7083FA93CC6708310E6E2A",
-      "levelid": "custom_level_BD92C5760B6D03664A7083FA93CC6708310E6E2A",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "songName": "stasis",
       "levelAuthorName": "Jabob",
       "hash": "A9C5490C35091281B6795E33D56E97535F1FA5B3",
@@ -927,42 +879,6 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
-        }
-      ]
-    },
-    {
-      "songName": "Be Better",
-      "levelAuthorName": "JRE_McNuggies & Taragon123",
-      "hash": "F8A813ED730930AC072A3BE975146CCABFCB3510",
-      "levelid": "custom_level_F8A813ED730930AC072A3BE975146CCABFCB3510",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "KillerToy",
-      "levelAuthorName": "Jabob",
-      "hash": "9E3CD9B0C5559167E31E6894C14E391AEA937991",
-      "levelid": "custom_level_9E3CD9B0C5559167E31E6894C14E391AEA937991",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
-      "songName": "Bad Intentions [v3 Fitbeat]",
-      "levelAuthorName": "Scarladore",
-      "hash": "EDE75F32559B98BF4553E080BD9A773080D1331C",
-      "levelid": "custom_level_EDE75F32559B98BF4553E080BD9A773080D1331C",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
         }
       ]
     },
@@ -991,42 +907,6 @@
       ]
     },
     {
-      "songName": "Ping! 2",
-      "levelAuthorName": "GojiCrafter",
-      "hash": "4C44E1A9C0B17962749EC4B745634BB652199C60",
-      "levelid": "custom_level_4C44E1A9C0B17962749EC4B745634BB652199C60",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Desperate",
-      "levelAuthorName": "ThySpoon",
-      "hash": "1FC8115B71DF4CA0999947F6257A39ECF84AD781",
-      "levelid": "custom_level_1FC8115B71DF4CA0999947F6257A39ECF84AD781",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Silentphobia",
-      "levelAuthorName": "fraies",
-      "hash": "50194DFCA62912C6BA2D752B35452194A4DA1F9B",
-      "levelid": "custom_level_50194DFCA62912C6BA2D752B35452194A4DA1F9B",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "songName": "Last Wish",
       "levelAuthorName": "BSWC Team",
       "hash": "C86336B3CA84CD03BC3995FADFD7CFDDE2FD00C0",
@@ -1035,18 +915,6 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
-        }
-      ]
-    },
-    {
-      "songName": "The Rolling",
-      "levelAuthorName": "Timbo & nitronik.exe",
-      "hash": "37E67E49A967E55A60180BCB3F26ACCECE43D291",
-      "levelid": "custom_level_37E67E49A967E55A60180BCB3F26ACCECE43D291",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
         }
       ]
     },
@@ -1087,18 +955,6 @@
       ]
     },
     {
-      "songName": "Onslaught",
-      "levelAuthorName": "Timbo & Alice",
-      "hash": "35C176D9FBF70161CDA8B6FDDC5B778003F78D80",
-      "levelid": "custom_level_35C176D9FBF70161CDA8B6FDDC5B778003F78D80",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
-        }
-      ]
-    },
-    {
       "songName": "citrus",
       "levelAuthorName": "Mystikmol",
       "hash": "5B43D06B431328D75CBE3D247FAC448E727321D8",
@@ -1107,18 +963,6 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
-        }
-      ]
-    },
-    {
-      "songName": "Cure For Me",
-      "levelAuthorName": "Groovy",
-      "hash": "EA7B13580B437D88F06747A27EC8727D563548E4",
-      "levelid": "custom_level_EA7B13580B437D88F06747A27EC8727D563548E4",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
         }
       ]
     },
@@ -1191,6 +1035,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Feel The Same",
+      "levelAuthorName": "Timeweaver",
+      "hash": "125080FEF5A3446CA1285ADF881D60E7E2B4ADBD",
+      "levelid": "custom_level_125080FEF5A3446CA1285ADF881D60E7E2B4ADBD",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -1347,6 +1203,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "XTREME",
+      "levelAuthorName": "Timbo",
+      "hash": "B76F546A682122155BE11739438FCAE6CFE2C2CF",
+      "levelid": "custom_level_B76F546A682122155BE11739438FCAE6CFE2C2CF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -1759,6 +1627,18 @@
       ]
     },
     {
+      "songName": "To Your Beat",
+      "levelAuthorName": "Alice & Checkthepan",
+      "hash": "C3D51781B0B2C661469758DF42CE6D5B21CD71A1",
+      "levelid": "custom_level_C3D51781B0B2C661469758DF42CE6D5B21CD71A1",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Clip it Bro",
       "levelAuthorName": "Timbo & abcbadq",
       "hash": "EE0D6AE04DF858C20A12B6E817C6E2BD23336196",
@@ -1963,22 +1843,10 @@
       ]
     },
     {
-      "songName": "Zhuzhzhalka76",
-      "levelAuthorName": "yabje, Irish & fqrb",
-      "hash": "5D663D78102B837FA4198673A178B88D10FD1F05",
-      "levelid": "custom_level_5D663D78102B837FA4198673A178B88D10FD1F05",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
-      "songName": "REANIMATE",
-      "levelAuthorName": "cerret & Nolanimations",
-      "hash": "20003569447E4024720FD3FBB32CE5183EC06D31",
-      "levelid": "custom_level_20003569447E4024720FD3FBB32CE5183EC06D31",
+      "songName": "Furachi na Kassai",
+      "levelAuthorName": "ThySpoon",
+      "hash": "1F6E5A3A930038ED7A11410752D871316FFD8728",
+      "levelid": "custom_level_1F6E5A3A930038ED7A11410752D871316FFD8728",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1987,10 +1855,10 @@
       ]
     },
     {
-      "songName": "Furachi na Kassai",
-      "levelAuthorName": "ThySpoon",
-      "hash": "1F6E5A3A930038ED7A11410752D871316FFD8728",
-      "levelid": "custom_level_1F6E5A3A930038ED7A11410752D871316FFD8728",
+      "songName": "Ping! 2",
+      "levelAuthorName": "GojiCrafter",
+      "hash": "4C44E1A9C0B17962749EC4B745634BB652199C60",
+      "levelid": "custom_level_4C44E1A9C0B17962749EC4B745634BB652199C60",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -2047,18 +1915,6 @@
       ]
     },
     {
-      "songName": "Pumpin' Junkies",
-      "levelAuthorName": "Atomosophere & Timbo",
-      "hash": "5F83D6361673EA9CE338E25E0813BA3099498FF1",
-      "levelid": "custom_level_5F83D6361673EA9CE338E25E0813BA3099498FF1",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "songName": "Good bye, Merry-Go-Round.",
       "levelAuthorName": "Anodize",
       "hash": "90A877CBEDD3355C5E55ACC47CF4776E87C2F521",
@@ -2079,6 +1935,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Sesh The Seven Seas VIP",
+      "levelAuthorName": "Bytrius & Phøenix",
+      "hash": "AC7054A2F0E419B45F202D5FFB497CB41EC2116C",
+      "levelid": "custom_level_AC7054A2F0E419B45F202D5FFB497CB41EC2116C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -2155,18 +2023,6 @@
       ]
     },
     {
-      "songName": "Vicious Heroism",
-      "levelAuthorName": "ComplexFrequency",
-      "hash": "7296582B7DF0475DD25DBEC1BFA1DB274AB044E6",
-      "levelid": "custom_level_7296582B7DF0475DD25DBEC1BFA1DB274AB044E6",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Normal"
-        }
-      ]
-    },
-    {
       "songName": "Six Forty Seven",
       "levelAuthorName": "Reddek",
       "hash": "7D84C24E961E92D02F5FB3FBB60956A256E03074",
@@ -2215,6 +2071,54 @@
       ]
     },
     {
+      "songName": "Summer Grass, a Shadow Silhouette of the Passing Days",
+      "levelAuthorName": "XAce1337manX",
+      "hash": "52B916DB712619D2294D22D660A0DF63059F6C64",
+      "levelid": "custom_level_52B916DB712619D2294D22D660A0DF63059F6C64",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "GOTH BITCH DUB",
+      "levelAuthorName": "Spinvvy, Frost, Chaimzy, & TinyPawb",
+      "hash": "3D56CA1ABEF81D41EC92E9B00CED6BC8C534DE2B",
+      "levelid": "custom_level_3D56CA1ABEF81D41EC92E9B00CED6BC8C534DE2B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Undefined",
+      "levelAuthorName": "Kival Evan",
+      "hash": "13B13D87184FF07DFC4AA8DE514F05D1982FA98D",
+      "levelid": "custom_level_13B13D87184FF07DFC4AA8DE514F05D1982FA98D",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "ANALYS",
+      "levelAuthorName": "Reaxt",
+      "hash": "F6DBD83B699872E2E42C2FC90337EF0AC2AB8F30",
+      "levelid": "custom_level_F6DBD83B699872E2E42C2FC90337EF0AC2AB8F30",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Chandelier",
       "levelAuthorName": "OlbmaPhlee",
       "hash": "09E71AB77B106B2E54E1E8F7071CCD7BADAE394F",
@@ -2259,18 +2163,6 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "let you",
-      "levelAuthorName": "Nebelmonster & August",
-      "hash": "7E8175041C31645DF3092A4995957F3A5A512E7F",
-      "levelid": "custom_level_7E8175041C31645DF3092A4995957F3A5A512E7F",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
         }
       ]
     },
@@ -2347,18 +2239,6 @@
       ]
     },
     {
-      "songName": "Finorza",
-      "levelAuthorName": "Joshabi",
-      "hash": "6B5C9DF083559C04C0BAE7CE4CA87EFA79CC7394",
-      "levelid": "custom_level_6B5C9DF083559C04C0BAE7CE4CA87EFA79CC7394",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "songName": "Monster",
       "levelAuthorName": "Joshabi",
       "hash": "F25A96CB96A59D82F2E5A2ECAD3721B4F1991103",
@@ -2387,6 +2267,18 @@
       "levelAuthorName": "yabje, Rusty & Andy",
       "hash": "8EA6D40002CECB79121F126921BEE431A5A046F5",
       "levelid": "custom_level_8EA6D40002CECB79121F126921BEE431A5A046F5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Disappearing Now",
+      "levelAuthorName": "Dirty Alex & Zyxi",
+      "hash": "D218DCA170DB77EB0B7AF20208C178678D5183FD",
+      "levelid": "custom_level_D218DCA170DB77EB0B7AF20208C178678D5183FD",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -2451,6 +2343,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Shut Up And Dance",
+      "levelAuthorName": "Syndicate, OneSpookyBoi, TheCzar1994",
+      "hash": "D12A468BA97792113BB42515AB919C6AA5C79019",
+      "levelid": "custom_level_D12A468BA97792113BB42515AB919C6AA5C79019",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -2551,18 +2455,6 @@
       ]
     },
     {
-      "songName": "Halibo",
-      "levelAuthorName": "Exeiron",
-      "hash": "D092BDF986B07C41300A16D5CA34309AF074431E",
-      "levelid": "custom_level_D092BDF986B07C41300A16D5CA34309AF074431E",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "songName": "Odo",
       "levelAuthorName": "TOFU",
       "hash": "746E130C6B346C2E91DA049902765EC298742693",
@@ -2599,10 +2491,10 @@
       ]
     },
     {
-      "songName": "My War",
-      "levelAuthorName": "Alice",
-      "hash": "7DF05BEEBE378E3202E6DB2C2EE975A111924F62",
-      "levelid": "custom_level_7DF05BEEBE378E3202E6DB2C2EE975A111924F62",
+      "songName": "Nobody",
+      "levelAuthorName": "nitronik.exe",
+      "hash": "F18C5AAB6E8F65BFCA68FFBFCE0710173C0AF627",
+      "levelid": "custom_level_F18C5AAB6E8F65BFCA68FFBFCE0710173C0AF627",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -2611,14 +2503,14 @@
       ]
     },
     {
-      "songName": "Cycle Hit",
-      "levelAuthorName": "abcbadq & Joshabi",
-      "hash": "AB545725E837496295BB5C0321F63044D77A958C",
-      "levelid": "custom_level_AB545725E837496295BB5C0321F63044D77A958C",
+      "songName": "My War",
+      "levelAuthorName": "Alice",
+      "hash": "7DF05BEEBE378E3202E6DB2C2EE975A111924F62",
+      "levelid": "custom_level_7DF05BEEBE378E3202E6DB2C2EE975A111924F62",
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Hard"
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -2719,18 +2611,6 @@
       ]
     },
     {
-      "songName": "Fresh!",
-      "levelAuthorName": "Jabob",
-      "hash": "EA55E256AE89AE72A60763CEB5379560B962773B",
-      "levelid": "custom_level_EA55E256AE89AE72A60763CEB5379560B962773B",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "songName": "Uebok VIP",
       "levelAuthorName": "Fatalution",
       "hash": "0437938EE67F7D54D89B42D5DD23F4A01FEAD731",
@@ -2771,6 +2651,30 @@
       "levelAuthorName": "Fatalution",
       "hash": "3BBDB41216A9A39F61502FD17D473F5A2012209B",
       "levelid": "custom_level_3BBDB41216A9A39F61502FD17D473F5A2012209B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "IN THE PLACE",
+      "levelAuthorName": "Avexus, Spinvvy & Rxerti",
+      "hash": "4FB02925F3B886592942CCB5891B8AF139886B6C",
+      "levelid": "custom_level_4FB02925F3B886592942CCB5891B8AF139886B6C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Accelerate",
+      "levelAuthorName": "Phøenix",
+      "hash": "8985A1AB42EB33F4BBB5422C12E6EC864FEED6C4",
+      "levelid": "custom_level_8985A1AB42EB33F4BBB5422C12E6EC864FEED6C4",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -2847,6 +2751,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Galaxy",
+      "levelAuthorName": "Shan_Man",
+      "hash": "6F90D56F7B19ACA2F8E20ABF1B215D2CCE9DE522",
+      "levelid": "custom_level_6F90D56F7B19ACA2F8E20ABF1B215D2CCE9DE522",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -2955,6 +2871,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "disco light",
+      "levelAuthorName": "Various Mappers",
+      "hash": "2337E9C03A2BAF32CB6BC2E5127172B772869FFA",
+      "levelid": "custom_level_2337E9C03A2BAF32CB6BC2E5127172B772869FFA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -3403,6 +3331,18 @@
       ]
     },
     {
+      "songName": "Viva La Vida",
+      "levelAuthorName": "MadChase, Joshabi",
+      "hash": "2CF8F671BF714E04382032A6E97A9003F420529F",
+      "levelid": "custom_level_2CF8F671BF714E04382032A6E97A9003F420529F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "fissa x13",
       "levelAuthorName": "Uragirimono",
       "hash": "4C9644A554B7FDE37A059B0336EF98FF9F3D0F00",
@@ -3571,18 +3511,6 @@
       ]
     },
     {
-      "songName": "Back of the Macca's",
-      "levelAuthorName": "Skeelie, Alice, xScaramouche",
-      "hash": "BB78D6425CB4340E0B3D21CD3F0BAA85D9031DB5",
-      "levelid": "custom_level_BB78D6425CB4340E0B3D21CD3F0BAA85D9031DB5",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "songName": "Oblivion",
       "levelAuthorName": "Timeweaver",
       "hash": "E799B25C9D5CBC6092B44CB97B4B83B45FD6B353",
@@ -3663,18 +3591,6 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
-        }
-      ]
-    },
-    {
-      "songName": "XTREME",
-      "levelAuthorName": "Timbo",
-      "hash": "B76F546A682122155BE11739438FCAE6CFE2C2CF",
-      "levelid": "custom_level_B76F546A682122155BE11739438FCAE6CFE2C2CF",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Normal"
         }
       ]
     },
@@ -3811,18 +3727,6 @@
       ]
     },
     {
-      "songName": "IN THE PLACE",
-      "levelAuthorName": "Avexus, Spinvvy & Rxerti",
-      "hash": "4FB02925F3B886592942CCB5891B8AF139886B6C",
-      "levelid": "custom_level_4FB02925F3B886592942CCB5891B8AF139886B6C",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "songName": "Ginevra",
       "levelAuthorName": "Gabriel",
       "hash": "E4BF54F4512B5AC2D338631BE172EB603B18B562",
@@ -3939,6 +3843,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Bad Intentions [v3 Fitbeat]",
+      "levelAuthorName": "Scarladore",
+      "hash": "EDE75F32559B98BF4553E080BD9A773080D1331C",
+      "levelid": "custom_level_EDE75F32559B98BF4553E080BD9A773080D1331C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -4135,10 +4051,34 @@
       ]
     },
     {
+      "songName": "Ghost",
+      "levelAuthorName": "Elecast",
+      "hash": "FA9DBE68029EF4A38768BCF5B71E4041332766EB",
+      "levelid": "custom_level_FA9DBE68029EF4A38768BCF5B71E4041332766EB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "La Lune",
       "levelAuthorName": "RetrX",
       "hash": "83E1D8AA66131D904A7D573AA022E26AA4A92190",
       "levelid": "custom_level_83E1D8AA66131D904A7D573AA022E26AA4A92190",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Everything Black",
+      "levelAuthorName": "nolan121405 & SlimyBlob",
+      "hash": "02BC91C8A4115AC588CDEDA852B2EBA5D8BF3CBB",
+      "levelid": "custom_level_02BC91C8A4115AC588CDEDA852B2EBA5D8BF3CBB",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -4179,18 +4119,6 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
-        }
-      ]
-    },
-    {
-      "songName": "Thought Machine",
-      "levelAuthorName": "Spinvvy",
-      "hash": "BCDAE4B03A1987FEFF94F15653BB379E4083BE01",
-      "levelid": "custom_level_BCDAE4B03A1987FEFF94F15653BB379E4083BE01",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
         }
       ]
     },
@@ -4311,6 +4239,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Shelter",
+      "levelAuthorName": "Phøenix, Scorefamm & Endy_",
+      "hash": "9151855EAC810DF769C29DACA47050E000E9B838",
+      "levelid": "custom_level_9151855EAC810DF769C29DACA47050E000E9B838",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -4447,10 +4387,10 @@
       ]
     },
     {
-      "songName": "Summer Grass, a Shadow Silhouette of the Passing Days",
-      "levelAuthorName": "XAce1337manX",
-      "hash": "52B916DB712619D2294D22D660A0DF63059F6C64",
-      "levelid": "custom_level_52B916DB712619D2294D22D660A0DF63059F6C64",
+      "songName": "Desperate",
+      "levelAuthorName": "ThySpoon",
+      "hash": "1FC8115B71DF4CA0999947F6257A39ECF84AD781",
+      "levelid": "custom_level_1FC8115B71DF4CA0999947F6257A39ECF84AD781",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -4575,6 +4515,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "From Here",
+      "levelAuthorName": "Phøenix",
+      "hash": "F8248B7750E2F159D8DDF91B819E62B814AD5013",
+      "levelid": "custom_level_F8248B7750E2F159D8DDF91B819E62B814AD5013",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
