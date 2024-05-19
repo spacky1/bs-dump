@@ -31,6 +31,18 @@
       ]
     },
     {
+      "songName": "finorza",
+      "levelAuthorName": "Bizzy",
+      "hash": "6E0A396BA6B9EB66963C3D3D1FEFA74705C44EBC",
+      "levelid": "custom_level_6E0A396BA6B9EB66963C3D3D1FEFA74705C44EBC",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Goodbye",
       "levelAuthorName": "Cobayo & IsraGRFK",
       "hash": "75DAE20C02C460B960358846EAB97DAB5A8FECA1",
@@ -171,18 +183,6 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "finorza",
-      "levelAuthorName": "GalaxyMaster",
-      "hash": "2B20F8DCEC8B9A35D293F17BD32144A15411D83A",
-      "levelid": "custom_level_2B20F8DCEC8B9A35D293F17BD32144A15411D83A",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
         }
       ]
     },
