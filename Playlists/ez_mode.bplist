@@ -115,6 +115,18 @@
       ]
     },
     {
+      "songName": "Cherry Blossoms Explode Across the Dying Horizon",
+      "levelAuthorName": "shad",
+      "hash": "C655D414EAAE5D5F1D3EF817C5CC1FE9EA99EF11",
+      "levelid": "custom_level_C655D414EAAE5D5F1D3EF817C5CC1FE9EA99EF11",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Thought Machine",
       "levelAuthorName": "Spinvvy",
       "hash": "BCDAE4B03A1987FEFF94F15653BB379E4083BE01",
@@ -147,18 +159,6 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
-        }
-      ]
-    },
-    {
-      "songName": "Nutella",
-      "levelAuthorName": "AntiLink",
-      "hash": "D8C789D89FD5AFDFEA86EA11C70FB469205C01EA",
-      "levelid": "custom_level_D8C789D89FD5AFDFEA86EA11C70FB469205C01EA",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
         }
       ]
     },
@@ -231,6 +231,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Vibe Check [Fitbeat]",
+      "levelAuthorName": "Scarladore",
+      "hash": "70947EC1ABE377337D33ACA2CA50BB8124D13543",
+      "levelid": "custom_level_70947EC1ABE377337D33ACA2CA50BB8124D13543",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -347,6 +359,30 @@
       "levelAuthorName": "Elecast & SmokeyBacon",
       "hash": "406FF9A4BCB15E400E2F95C65198C9EA3E590D49",
       "levelid": "custom_level_406FF9A4BCB15E400E2F95C65198C9EA3E590D49",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Still in my heart",
+      "levelAuthorName": "That_Narwhal",
+      "hash": "F2CE1E7CBE7C629658F735C803CECEE7C56FF9D0",
+      "levelid": "custom_level_F2CE1E7CBE7C629658F735C803CECEE7C56FF9D0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Someone Special",
+      "levelAuthorName": "kizuflux & Pixelguy",
+      "hash": "C27CEDCAF2C8573A0541BF942BBFFE066EB2EA1F",
+      "levelid": "custom_level_C27CEDCAF2C8573A0541BF942BBFFE066EB2EA1F",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -571,6 +607,18 @@
       ]
     },
     {
+      "songName": "Genius",
+      "levelAuthorName": "OneSpookyBoi",
+      "hash": "793902494FEB05A6F95D7089857321D1BE6F9A14",
+      "levelid": "custom_level_793902494FEB05A6F95D7089857321D1BE6F9A14",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "My War",
       "levelAuthorName": "Alice",
       "hash": "7DF05BEEBE378E3202E6DB2C2EE975A111924F62",
@@ -787,6 +835,18 @@
       ]
     },
     {
+      "songName": "CTRL + ALT + DEL [Fitbeat]",
+      "levelAuthorName": "Scarladore",
+      "hash": "D1F90935FFC6628F82CA14E690F52C42950609F0",
+      "levelid": "custom_level_D1F90935FFC6628F82CA14E690F52C42950609F0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Yuunagi, bou, Hanamadoi",
       "levelAuthorName": "Emiru",
       "hash": "0F6734E965CAACB03F16F7D1C383ACE98D6CBF54",
@@ -895,6 +955,18 @@
       ]
     },
     {
+      "songName": "Flares",
+      "levelAuthorName": "Joetastic & nasafrasa",
+      "hash": "24D014FB9A1F0B06267DCB6AC7783F1E643AC2C8",
+      "levelid": "custom_level_24D014FB9A1F0B06267DCB6AC7783F1E643AC2C8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Bimbo Limbo",
       "levelAuthorName": "Jabob & Elecast",
       "hash": "3E347523DD147F14B557EE45930E7BE1B875EFA4",
@@ -903,6 +975,18 @@
         {
           "characteristic": "Standard",
           "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Dance Past Midnight",
+      "levelAuthorName": "shad",
+      "hash": "8004DF1AEFC7D44396612DE7A0A7F6E10DBCC0C4",
+      "levelid": "custom_level_8004DF1AEFC7D44396612DE7A0A7F6E10DBCC0C4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -1055,6 +1139,18 @@
       "levelAuthorName": "SlimyBlob",
       "hash": "6CE2ED864DC48306DC8BC53090974A1882C1844D",
       "levelid": "custom_level_6CE2ED864DC48306DC8BC53090974A1882C1844D",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Nobody",
+      "levelAuthorName": "Phøenix",
+      "hash": "8856D0B3B1D787E01BBD31EF34685A476FBC0F8A",
+      "levelid": "custom_level_8856D0B3B1D787E01BBD31EF34685A476FBC0F8A",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1723,6 +1819,30 @@
       ]
     },
     {
+      "songName": "Immortal",
+      "levelAuthorName": "Timeweaver, AkaBaka, Pixelguy",
+      "hash": "63E46FC07EA6ECA10A8538DEB8BDF92D2E11F38C",
+      "levelid": "custom_level_63E46FC07EA6ECA10A8538DEB8BDF92D2E11F38C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Wildstar",
+      "levelAuthorName": "DaftMaple",
+      "hash": "D37D3B189E55D714306C8E338E3F3F030495E0DF",
+      "levelid": "custom_level_D37D3B189E55D714306C8E338E3F3F030495E0DF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "simulation",
       "levelAuthorName": "RFCaps",
       "hash": "95A373ABACF6FC62B38AAAD861DAC3FCFDA74D3F",
@@ -1783,6 +1903,18 @@
       ]
     },
     {
+      "songName": "Don't You Dare",
+      "levelAuthorName": "Timbo",
+      "hash": "A8C0871563948792D8D3D8E6BEC6D33BA0F0D75E",
+      "levelid": "custom_level_A8C0871563948792D8D3D8E6BEC6D33BA0F0D75E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Odo",
       "levelAuthorName": "TOFU",
       "hash": "746E130C6B346C2E91DA049902765EC298742693",
@@ -1799,6 +1931,18 @@
       "levelAuthorName": "ThySpoon",
       "hash": "E51BF25C2A61A60A1C3F6E3B941C8AA6F0481231",
       "levelid": "custom_level_E51BF25C2A61A60A1C3F6E3B941C8AA6F0481231",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Good",
+      "levelAuthorName": "Spinvvy",
+      "hash": "A638EA118DA3EEB00FA1742BA5FFD081C197C10E",
+      "levelid": "custom_level_A638EA118DA3EEB00FA1742BA5FFD081C197C10E",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1871,6 +2015,18 @@
       "levelAuthorName": "Fatalution",
       "hash": "2DDA4054C81530D0CF09980B646A0050CC0BF94C",
       "levelid": "custom_level_2DDA4054C81530D0CF09980B646A0050CC0BF94C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Dangerous",
+      "levelAuthorName": "DaftMaple & Alice",
+      "hash": "6587ACE60622A995289FF3B5A835DCC04831E355",
+      "levelid": "custom_level_6587ACE60622A995289FF3B5A835DCC04831E355",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -2351,6 +2507,18 @@
       "levelAuthorName": "tocxx",
       "hash": "53D63590F2D3E6148B1DB14D5C63ACDC411149E4",
       "levelid": "custom_level_53D63590F2D3E6148B1DB14D5C63ACDC411149E4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Orbit",
+      "levelAuthorName": "EerieWolf",
+      "hash": "F63063A9CC8B365A68307F2201AB7739B7F692E9",
+      "levelid": "custom_level_F63063A9CC8B365A68307F2201AB7739B7F692E9",
       "difficulties": [
         {
           "characteristic": "Standard",
