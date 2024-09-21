@@ -259,6 +259,18 @@
       ]
     },
     {
+      "songName": "Villain",
+      "levelAuthorName": "Pleo",
+      "hash": "35626AD2D9C9792A99966E8BC3C65817458EEF8D",
+      "levelid": "custom_level_35626AD2D9C9792A99966E8BC3C65817458EEF8D",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "ARTIFICIAL SUICIDE",
       "levelAuthorName": "Bytrius",
       "hash": "3120062F27E3ADD97D500A28F07FFC3957857499",
@@ -367,6 +379,18 @@
       ]
     },
     {
+      "songName": "Witch Trial",
+      "levelAuthorName": "winteredge & spacky",
+      "hash": "72FA2EABCA3261C68FBC98AE6EAFD3C2D5536E97",
+      "levelid": "custom_level_72FA2EABCA3261C68FBC98AE6EAFD3C2D5536E97",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
       "songName": "Still in my heart",
       "levelAuthorName": "That_Narwhal",
       "hash": "F2CE1E7CBE7C629658F735C803CECEE7C56FF9D0",
@@ -403,6 +427,18 @@
       ]
     },
     {
+      "songName": "Black Berserker",
+      "levelAuthorName": "ZeCube",
+      "hash": "DB4E316B1FF0FC39338A4A267DBF88C8E0BD2CE7",
+      "levelid": "custom_level_DB4E316B1FF0FC39338A4A267DBF88C8E0BD2CE7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
       "songName": "Additional Memory",
       "levelAuthorName": "Joshabi",
       "hash": "699BE1D240CC0E814812B000FA2444E2B0165469",
@@ -423,6 +459,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Maybe",
+      "levelAuthorName": "spacky",
+      "hash": "AE267A7FBAD5082C2897D2842256116B4135B07F",
+      "levelid": "custom_level_AE267A7FBAD5082C2897D2842256116B4135B07F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -1207,6 +1255,18 @@
       ]
     },
     {
+      "songName": "Chucky vs. The Giant Tortoise",
+      "levelAuthorName": "xSuicidalxPUPPY",
+      "hash": "D476AA23DDB0E41CF5D0D0F6594A0CD6E4F54E79",
+      "levelid": "custom_level_D476AA23DDB0E41CF5D0D0F6594A0CD6E4F54E79",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "N3XTAGE",
       "levelAuthorName": "Avexus",
       "hash": "18CB63CC6A2F97D81BCC2E5CA9184EE18B1F48E4",
@@ -1399,6 +1459,18 @@
       ]
     },
     {
+      "songName": "Locked Out Of Heaven",
+      "levelAuthorName": "watr",
+      "hash": "52F41515967A08ADB43571BD8A7CD776754CA688",
+      "levelid": "custom_level_52F41515967A08ADB43571BD8A7CD776754CA688",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Falling",
       "levelAuthorName": "Teuflum",
       "hash": "2DDDD6672560CB2C1D4C689FF31B5EA58EF1641E",
@@ -1467,6 +1539,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Digital Friends",
+      "levelAuthorName": "Spinvvy",
+      "hash": "EA9B249944C77638A3EA5D9D98B2B5EC3F4AEEF9",
+      "levelid": "custom_level_EA9B249944C77638A3EA5D9D98B2B5EC3F4AEEF9",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -1547,6 +1631,18 @@
       "levelAuthorName": "P90KILLR",
       "hash": "4193E13401248A58E5343D5F07AAFC593C266B9F",
       "levelid": "custom_level_4193E13401248A58E5343D5F07AAFC593C266B9F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Yours",
+      "levelAuthorName": "LunarByte",
+      "hash": "84B1C91D2956BA154C73A777FFA33F8C9FEAEA20",
+      "levelid": "custom_level_84B1C91D2956BA154C73A777FFA33F8C9FEAEA20",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1879,6 +1975,18 @@
       ]
     },
     {
+      "songName": "Surface",
+      "levelAuthorName": "Phøenix",
+      "hash": "4A92BEC2C9DD914ACDE51D472D3B524FE93BFA68",
+      "levelid": "custom_level_4A92BEC2C9DD914ACDE51D472D3B524FE93BFA68",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Baptize",
       "levelAuthorName": "Dirty Alex & SmokeyBacon",
       "hash": "7BBF24A965C2B950EB9CBB381EAE9C2C34E008C2",
@@ -2023,10 +2131,34 @@
       ]
     },
     {
+      "songName": "Heart",
+      "levelAuthorName": "LiamSimpsRyuu",
+      "hash": "CAE2FF72EE5AC94F597D516583D61B106550A089",
+      "levelid": "custom_level_CAE2FF72EE5AC94F597D516583D61B106550A089",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Dangerous",
       "levelAuthorName": "DaftMaple & Alice",
       "hash": "6587ACE60622A995289FF3B5A835DCC04831E355",
       "levelid": "custom_level_6587ACE60622A995289FF3B5A835DCC04831E355",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "BACKBONE",
+      "levelAuthorName": "ImChloe",
+      "hash": "DE765954F4754662C3BEC37A010D8401AB6EDD22",
+      "levelid": "custom_level_DE765954F4754662C3BEC37A010D8401AB6EDD22",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -2327,6 +2459,18 @@
       "levelAuthorName": "Phøenix & Spinny",
       "hash": "3A6101540FBF008C3D73128F049397598CDA1443",
       "levelid": "custom_level_3A6101540FBF008C3D73128F049397598CDA1443",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "The Lovecats",
+      "levelAuthorName": "Suzie Scum",
+      "hash": "E936798AE7A9A0C714EE3834323862CE14636BEB",
+      "levelid": "custom_level_E936798AE7A9A0C714EE3834323862CE14636BEB",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -2703,6 +2847,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "the way things go",
+      "levelAuthorName": "fqrb",
+      "hash": "0FCAFD25EEF349B9893C0A9DAEFB570F7DAFA504",
+      "levelid": "custom_level_0FCAFD25EEF349B9893C0A9DAEFB570F7DAFA504",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
