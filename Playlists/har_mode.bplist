@@ -475,6 +475,18 @@
       ]
     },
     {
+      "songName": "Xronièr",
+      "levelAuthorName": "GalaxyMaster",
+      "hash": "B5AEC40C638960ACE813147084B579DA3311B7FC",
+      "levelid": "custom_level_B5AEC40C638960ACE813147084B579DA3311B7FC",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "GHOST",
       "levelAuthorName": "Nolanimations",
       "hash": "1D518A9485396C8D10DB65C563823783CA77A3CE",
@@ -1063,6 +1075,18 @@
       ]
     },
     {
+      "songName": "Surface",
+      "levelAuthorName": "Phøenix",
+      "hash": "4A92BEC2C9DD914ACDE51D472D3B524FE93BFA68",
+      "levelid": "custom_level_4A92BEC2C9DD914ACDE51D472D3B524FE93BFA68",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "zeke didn't \"invent dariacore\", i did",
       "levelAuthorName": "WalkingKat, Luck, HypersonicSharkz",
       "hash": "5FA8D06C5F54ACB9BEE108E722722BD7A981A376",
@@ -1527,6 +1551,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "DESTRUCTION 3,2,1",
+      "levelAuthorName": "Helloiamdaan, Bitz & Aquaflee",
+      "hash": "48098A896C712252CB4A47B3253A10661DE58D4F",
+      "levelid": "custom_level_48098A896C712252CB4A47B3253A10661DE58D4F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -2307,6 +2343,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "When I use it",
+      "levelAuthorName": "Astrella & Timbo",
+      "hash": "425BC94DEDA8D13939904483B131255F5B6D48F0",
+      "levelid": "custom_level_425BC94DEDA8D13939904483B131255F5B6D48F0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -3163,6 +3211,18 @@
       ]
     },
     {
+      "songName": "Heart",
+      "levelAuthorName": "LiamSimpsRyuu",
+      "hash": "CAE2FF72EE5AC94F597D516583D61B106550A089",
+      "levelid": "custom_level_CAE2FF72EE5AC94F597D516583D61B106550A089",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Fantasie-Celeritas",
       "levelAuthorName": "ComplexFrequency",
       "hash": "C1FEB4B11B788A108B63C55A59C8E1EC54C2A78D",
@@ -3255,6 +3315,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Toymatic Parade",
+      "levelAuthorName": "cerret",
+      "hash": "1AB633C075210C9AEABDBECA34843D88AE4714E0",
+      "levelid": "custom_level_1AB633C075210C9AEABDBECA34843D88AE4714E0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -3503,6 +3575,30 @@
       "levelAuthorName": "Alice",
       "hash": "8495AAAF608E55FB5777DB01961C6A1E0DD44F28",
       "levelid": "custom_level_8495AAAF608E55FB5777DB01961C6A1E0DD44F28",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Trance Dance Anarchy",
+      "levelAuthorName": "Yaomin",
+      "hash": "32F8CE033B4AA48798A65A5E5B4DA45B6D7A38F7",
+      "levelid": "custom_level_32F8CE033B4AA48798A65A5E5B4DA45B6D7A38F7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Blossom",
+      "levelAuthorName": "Specture7",
+      "hash": "BB410D3F94FA930AE872BE66C3021CABBA052059",
+      "levelid": "custom_level_BB410D3F94FA930AE872BE66C3021CABBA052059",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -3823,6 +3919,18 @@
       ]
     },
     {
+      "songName": "Maybe",
+      "levelAuthorName": "spacky",
+      "hash": "AE267A7FBAD5082C2897D2842256116B4135B07F",
+      "levelid": "custom_level_AE267A7FBAD5082C2897D2842256116B4135B07F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Just Don't Mind",
       "levelAuthorName": "Jaack & Joshabi",
       "hash": "9BDEBDDD9CD1A3664C8C14EFDBFCE493B6617ACD",
@@ -4015,6 +4123,18 @@
       ]
     },
     {
+      "songName": "Black Berserker",
+      "levelAuthorName": "ZeCube",
+      "hash": "DB4E316B1FF0FC39338A4A267DBF88C8E0BD2CE7",
+      "levelid": "custom_level_DB4E316B1FF0FC39338A4A267DBF88C8E0BD2CE7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Nana",
       "levelAuthorName": "Skeelie",
       "hash": "F897EBEED22C678F9758EABEFB9E9C032A8E371C",
@@ -4131,6 +4251,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Sad Girl Sex",
+      "levelAuthorName": "Alice",
+      "hash": "9DFE5E3E4CFBD6EFE23B8C5A80B5A6E7EAF6244B",
+      "levelid": "custom_level_9DFE5E3E4CFBD6EFE23B8C5A80B5A6E7EAF6244B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -4427,6 +4559,18 @@
       "levelAuthorName": "Timbo",
       "hash": "A8C0871563948792D8D3D8E6BEC6D33BA0F0D75E",
       "levelid": "custom_level_A8C0871563948792D8D3D8E6BEC6D33BA0F0D75E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Yours",
+      "levelAuthorName": "LunarByte",
+      "hash": "84B1C91D2956BA154C73A777FFA33F8C9FEAEA20",
+      "levelid": "custom_level_84B1C91D2956BA154C73A777FFA33F8C9FEAEA20",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -4991,6 +5135,18 @@
       "levelAuthorName": "Elecast",
       "hash": "3D992F7CAD9B5BE1917599D150B3985A2CBE87C1",
       "levelid": "custom_level_3D992F7CAD9B5BE1917599D150B3985A2CBE87C1",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Witch Trial",
+      "levelAuthorName": "winteredge & spacky",
+      "hash": "72FA2EABCA3261C68FBC98AE6EAFD3C2D5536E97",
+      "levelid": "custom_level_72FA2EABCA3261C68FBC98AE6EAFD3C2D5536E97",
       "difficulties": [
         {
           "characteristic": "Standard",
