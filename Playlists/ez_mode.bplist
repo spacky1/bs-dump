@@ -739,6 +739,18 @@
       ]
     },
     {
+      "songName": "Sad Girl Sex",
+      "levelAuthorName": "Alice",
+      "hash": "9DFE5E3E4CFBD6EFE23B8C5A80B5A6E7EAF6244B",
+      "levelid": "custom_level_9DFE5E3E4CFBD6EFE23B8C5A80B5A6E7EAF6244B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "52 Hearts",
       "levelAuthorName": "Nolanimations & Swifter",
       "hash": "3ED2FA294CA1A8DCB6BF36793F130BD1B5D81149",
@@ -963,6 +975,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Duality",
+      "levelAuthorName": "Undeceiver & BanditByTheStreet & Bunnie",
+      "hash": "E52A4B83B9E6B02F10C4BBB87CEB648EDE3370B2",
+      "levelid": "custom_level_E52A4B83B9E6B02F10C4BBB87CEB648EDE3370B2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -1987,6 +2011,18 @@
       ]
     },
     {
+      "songName": "Your Soul",
+      "levelAuthorName": "Kinz",
+      "hash": "78142F3AFF7EA03A08964B955B8D871DE0706263",
+      "levelid": "custom_level_78142F3AFF7EA03A08964B955B8D871DE0706263",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Baptize",
       "levelAuthorName": "Dirty Alex & SmokeyBacon",
       "hash": "7BBF24A965C2B950EB9CBB381EAE9C2C34E008C2",
@@ -2259,6 +2295,18 @@
         {
           "characteristic": "Standard",
           "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Cake By The Ocean",
+      "levelAuthorName": "Koreami",
+      "hash": "2CB2F496EF6E33A09A56D301923ADE73B9A53C3D",
+      "levelid": "custom_level_2CB2F496EF6E33A09A56D301923ADE73B9A53C3D",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -2591,6 +2639,18 @@
       "levelAuthorName": "nolan121405 & Fatalution",
       "hash": "7653789A0B421DC634FE6446B4880FED90EEEC14",
       "levelid": "custom_level_7653789A0B421DC634FE6446B4880FED90EEEC14",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Halzion",
+      "levelAuthorName": "chikinbiskit",
+      "hash": "1FD2E5B76588CEA3C3EBB7A8F0602169ED5CCABF",
+      "levelid": "custom_level_1FD2E5B76588CEA3C3EBB7A8F0602169ED5CCABF",
       "difficulties": [
         {
           "characteristic": "Standard",
