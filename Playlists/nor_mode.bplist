@@ -127,6 +127,18 @@
       ]
     },
     {
+      "songName": "Hoshikuzu distancia",
+      "levelAuthorName": "shrado & Bitz",
+      "hash": "754C2606436DAA4EE58D917A56EB23FCC12328F6",
+      "levelid": "custom_level_754C2606436DAA4EE58D917A56EB23FCC12328F6",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Carry Me Away",
       "levelAuthorName": "harbgy & Edmard",
       "hash": "2CA56CF8089DF51C424668B98F6E2236969F4232",
@@ -179,6 +191,18 @@
       "levelAuthorName": "Jabob, Daan, & lobster",
       "hash": "B666A3E654179B794828E726FC80B506FDEB523F",
       "levelid": "custom_level_B666A3E654179B794828E726FC80B506FDEB523F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Final-Boss-Chan",
+      "levelAuthorName": "Darkrealm7",
+      "hash": "C3EDF58BE6CC345996B89B951A2804FC07C100D2",
+      "levelid": "custom_level_C3EDF58BE6CC345996B89B951A2804FC07C100D2",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -307,6 +331,18 @@
       ]
     },
     {
+      "songName": "Drenched in Air",
+      "levelAuthorName": "RZzach",
+      "hash": "8F170DB92830692502C444FE0FFC12A86ED36081",
+      "levelid": "custom_level_8F170DB92830692502C444FE0FFC12A86ED36081",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "21st Century Humor But It's A Rave Song",
       "levelAuthorName": "miitchel",
       "hash": "5C6D84C52B7B1B387CA62D9217E99D9303D2E716",
@@ -427,18 +463,6 @@
       ]
     },
     {
-      "songName": "The 91's Conundrum",
-      "levelAuthorName": "yabje & Dereknalox123",
-      "hash": "A9D0817E3D984C90D28A02CC646F68D5C316FD9A",
-      "levelid": "custom_level_A9D0817E3D984C90D28A02CC646F68D5C316FD9A",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "songName": "Bomb The Rave",
       "levelAuthorName": "Irish, Bitz, Gordon, & HypersonicSharkz",
       "hash": "13389D76E061E44612B92009E84A54C2718FCA50",
@@ -511,6 +535,18 @@
       ]
     },
     {
+      "songName": "The 91's Conundrum",
+      "levelAuthorName": "yabje & Dereknalox123",
+      "hash": "F2B389D290C76AFDB42C155C2E04EE250852326B",
+      "levelid": "custom_level_F2B389D290C76AFDB42C155C2E04EE250852326B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "SLIME INCIDENT",
       "levelAuthorName": "Helloiamdaan & Joshabi",
       "hash": "8FFD0778634AE5AAA4EA8E94886AD8957B3A7CA2",
@@ -539,6 +575,18 @@
       "levelAuthorName": "SmokeyBacon",
       "hash": "631E89888CE6FE86BC1D8372DEC8D3B26FE6811E",
       "levelid": "custom_level_631E89888CE6FE86BC1D8372DEC8D3B26FE6811E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Tribal Trial",
+      "levelAuthorName": "CoolingCloset & Nolanimations",
+      "hash": "3C37D1264FC2754051B4045AC84909CDF0703D62",
+      "levelid": "custom_level_3C37D1264FC2754051B4045AC84909CDF0703D62",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -603,6 +651,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "message within the rift",
+      "levelAuthorName": "Elecast & Dereknalox123",
+      "hash": "9B0DB9EB1FF4B0BD03D0555AC96CC5B116BCCE09",
+      "levelid": "custom_level_9B0DB9EB1FF4B0BD03D0555AC96CC5B116BCCE09",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -1663,6 +1723,18 @@
       ]
     },
     {
+      "songName": "#1f1e33",
+      "levelAuthorName": "SlimyBlob",
+      "hash": "1662D4C5D15385436C1E9F99BAA0BB96833B41BE",
+      "levelid": "custom_level_1662D4C5D15385436C1E9F99BAA0BB96833B41BE",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "SHOOTING STAR",
       "levelAuthorName": "tocxx",
       "hash": "7EE497752E7D3B911F5C8E6B416493A339B07B67",
@@ -2151,6 +2223,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "BREAKME",
+      "levelAuthorName": "DiscoBaIIerz, DaftMaple & yabje",
+      "hash": "9B8C200FC39F5D40EFCC14DB491E6471FB2A922E",
+      "levelid": "custom_level_9B8C200FC39F5D40EFCC14DB491E6471FB2A922E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -4149,8 +4233,8 @@
     {
       "songName": "Frozen One",
       "levelAuthorName": "Olaf",
-      "hash": "12DC3FD7A9222BC580090FF427039EEE7F288E5D",
-      "levelid": "custom_level_12DC3FD7A9222BC580090FF427039EEE7F288E5D",
+      "hash": "6432E64AA7B30ABCD45326DFB8546359C80A3E18",
+      "levelid": "custom_level_6432E64AA7B30ABCD45326DFB8546359C80A3E18",
       "difficulties": [
         {
           "characteristic": "Standard",
