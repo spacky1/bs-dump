@@ -3475,6 +3475,18 @@
       ]
     },
     {
+      "songName": "Novablast",
+      "levelAuthorName": "Bitz, Cokeinjector, Luck & Sync",
+      "hash": "C3CFED196F96B161C0862EC387E0EE9241CD5B48",
+      "levelid": "custom_level_C3CFED196F96B161C0862EC387E0EE9241CD5B48",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "V.A.N",
       "levelAuthorName": "Bytrius",
       "hash": "B16D9D7F01A6A8DF9C458B726A8B360E4CA8FE72",
