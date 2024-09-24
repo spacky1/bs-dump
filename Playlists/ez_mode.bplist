@@ -801,8 +801,8 @@
     {
       "songName": "Frozen One",
       "levelAuthorName": "Olaf",
-      "hash": "12DC3FD7A9222BC580090FF427039EEE7F288E5D",
-      "levelid": "custom_level_12DC3FD7A9222BC580090FF427039EEE7F288E5D",
+      "hash": "6432E64AA7B30ABCD45326DFB8546359C80A3E18",
+      "levelid": "custom_level_6432E64AA7B30ABCD45326DFB8546359C80A3E18",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1878,6 +1878,18 @@
         }
       ]
     },
+    {
+      "songName": "message within the rift",
+      "levelAuthorName": "Elecast & Dereknalox123",
+      "hash": "9B0DB9EB1FF4B0BD03D0555AC96CC5B116BCCE09",
+      "levelid": "custom_level_9B0DB9EB1FF4B0BD03D0555AC96CC5B116BCCE09",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    }
     {
       "songName": "One More",
       "levelAuthorName": "DaftMaple",
