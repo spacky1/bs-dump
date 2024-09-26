@@ -139,6 +139,18 @@
       ]
     },
     {
+      "songName": "white girl manifestation type beat",
+      "levelAuthorName": "RetrX & WalkingKat",
+      "hash": "DD13B3A2F055B94247188FD031FBB4623FC38417",
+      "levelid": "custom_level_DD13B3A2F055B94247188FD031FBB4623FC38417",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "SUPER;JAPAN",
       "levelAuthorName": "abcbadq",
       "hash": "C825450FEADA2737909B414D4E6F4B199C6CFE9A",
@@ -1519,6 +1531,18 @@
       ]
     },
     {
+      "songName": "Decoy",
+      "levelAuthorName": "Jabob & Bitz",
+      "hash": "0E9ED79F9431B117A3E162E9B45A602A4F43994B",
+      "levelid": "custom_level_0E9ED79F9431B117A3E162E9B45A602A4F43994B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "SEITEN NO TERIYAKI NO DENSETSU",
       "levelAuthorName": "muffn & Nolanimations",
       "hash": "113EA9A78EC563FC134CA21C46584D0616A45326",
@@ -2042,6 +2066,18 @@
       "difficulties": [
         {
           "characteristic": "Lawless",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Deity Mode",
+      "levelAuthorName": "Elecast",
+      "hash": "6B17BC2E54BA629FBECFD5728A684E95E8682B0A",
+      "levelid": "custom_level_6B17BC2E54BA629FBECFD5728A684E95E8682B0A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
           "name": "ExpertPlus"
         }
       ]
