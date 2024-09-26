@@ -979,6 +979,18 @@
       ]
     },
     {
+      "songName": "Chrome Vox",
+      "levelAuthorName": "DaftMaple",
+      "hash": "485E942CC04B249DF03EA0094380883838948776",
+      "levelid": "custom_level_485E942CC04B249DF03EA0094380883838948776",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "TON578",
       "levelAuthorName": "Voidless",
       "hash": "BD6C9B6B02A9B5310CC89D04CB2930CC3CCA84FD",
@@ -1011,6 +1023,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Decoy",
+      "levelAuthorName": "Jabob & Bitz",
+      "hash": "0E9ED79F9431B117A3E162E9B45A602A4F43994B",
+      "levelid": "custom_level_0E9ED79F9431B117A3E162E9B45A602A4F43994B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -1659,6 +1683,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "LOL OK",
+      "levelAuthorName": "Spinvvy, EerieWolf & BanditByTheStreet",
+      "hash": "F58BC5689008D8753E12842F8663BAED2FF5568E",
+      "levelid": "custom_level_F58BC5689008D8753E12842F8663BAED2FF5568E",
+      "difficulties": [
+        {
+          "characteristic": "Lawless",
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -2323,6 +2359,18 @@
       ]
     },
     {
+      "songName": "sAtElLites",
+      "levelAuthorName": "Hener",
+      "hash": "D828C6EE72D7A97A4C463444E3BE5FBF34793212",
+      "levelid": "custom_level_D828C6EE72D7A97A4C463444E3BE5FBF34793212",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "VANDALIZED AI",
       "levelAuthorName": "cerret & Qwasyx",
       "hash": "90814658A7875B7ED95F516E54172BEFE3C1DD1B",
@@ -2643,6 +2691,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "white girl manifestation type beat",
+      "levelAuthorName": "RetrX & WalkingKat",
+      "hash": "DD13B3A2F055B94247188FD031FBB4623FC38417",
+      "levelid": "custom_level_DD13B3A2F055B94247188FD031FBB4623FC38417",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -5003,6 +5063,18 @@
       "levelAuthorName": "Teuflum",
       "hash": "E62893B648F7A704D620CE8AD0EAF0B5D50E0E48",
       "levelid": "custom_level_E62893B648F7A704D620CE8AD0EAF0B5D50E0E48",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Deity Mode",
+      "levelAuthorName": "Elecast",
+      "hash": "6B17BC2E54BA629FBECFD5728A684E95E8682B0A",
+      "levelid": "custom_level_6B17BC2E54BA629FBECFD5728A684E95E8682B0A",
       "difficulties": [
         {
           "characteristic": "Standard",
