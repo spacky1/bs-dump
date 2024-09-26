@@ -1351,6 +1351,18 @@
       ]
     },
     {
+      "songName": "LOL OK",
+      "levelAuthorName": "Spinvvy, EerieWolf & BanditByTheStreet",
+      "hash": "F58BC5689008D8753E12842F8663BAED2FF5568E",
+      "levelid": "custom_level_F58BC5689008D8753E12842F8663BAED2FF5568E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Fork Funeral",
       "levelAuthorName": "Avexus",
       "hash": "06BF099F9387B18F9A8FD09F725C3356C556B514",
@@ -1671,6 +1683,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "1:15",
+      "levelAuthorName": "Bitz, Tranch, WalkingKat & Astellic",
+      "hash": "D8B1CBDC9372127293F4DE6F4B8840D1D28FBDDB",
+      "levelid": "custom_level_D8B1CBDC9372127293F4DE6F4B8840D1D28FBDDB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
