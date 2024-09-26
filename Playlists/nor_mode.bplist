@@ -223,6 +223,18 @@
       ]
     },
     {
+      "songName": "Decoy",
+      "levelAuthorName": "Jabob & Bitz",
+      "hash": "0E9ED79F9431B117A3E162E9B45A602A4F43994B",
+      "levelid": "custom_level_0E9ED79F9431B117A3E162E9B45A602A4F43994B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Eviternity",
       "levelAuthorName": "sofmoh",
       "hash": "EB0B6B8CC71A7B232467D4D9F613040257CBE127",
@@ -279,6 +291,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Chrome Vox",
+      "levelAuthorName": "DaftMaple",
+      "hash": "485E942CC04B249DF03EA0094380883838948776",
+      "levelid": "custom_level_485E942CC04B249DF03EA0094380883838948776",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -2251,6 +2275,18 @@
       ]
     },
     {
+      "songName": "sAtElLites",
+      "levelAuthorName": "Hener",
+      "hash": "D828C6EE72D7A97A4C463444E3BE5FBF34793212",
+      "levelid": "custom_level_D828C6EE72D7A97A4C463444E3BE5FBF34793212",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Six Forty Seven",
       "levelAuthorName": "Reddek",
       "hash": "7D84C24E961E92D02F5FB3FBB60956A256E03074",
@@ -3107,6 +3143,18 @@
       "levelAuthorName": "Bytrius",
       "hash": "06EC28A1C3B43714169924330807592E0C2D9576",
       "levelid": "custom_level_06EC28A1C3B43714169924330807592E0C2D9576",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "LOL OK",
+      "levelAuthorName": "Spinvvy, EerieWolf & BanditByTheStreet",
+      "hash": "F58BC5689008D8753E12842F8663BAED2FF5568E",
+      "levelid": "custom_level_F58BC5689008D8753E12842F8663BAED2FF5568E",
       "difficulties": [
         {
           "characteristic": "Standard",
