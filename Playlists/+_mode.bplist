@@ -31,6 +31,30 @@
       ]
     },
     {
+      "songName": "Nhelv",
+      "levelAuthorName": "Aimedhades16",
+      "hash": "A7CDF9CC5C09EA68CAE52C6BEF4075DE5E352BBB",
+      "levelid": "custom_level_A7CDF9CC5C09EA68CAE52C6BEF4075DE5E352BBB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "We Could Get More Machinegun Psystyle! (And More Genre Switches)",
+      "levelAuthorName": "Aimedhades16",
+      "hash": "C131091073DF6EC5B6F24649C5CD20BA224056E9",
+      "levelid": "custom_level_C131091073DF6EC5B6F24649C5CD20BA224056E9",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Dual Doom Deathmatch",
       "levelAuthorName": "Blackjack",
       "hash": "2712A515D8FEFB9C06CD0F8FB7021E7D5DA3F2D1",
@@ -107,6 +131,18 @@
       "levelAuthorName": "ComplexFrequency",
       "hash": "C7A7589C843F0206C3E339ABB8C11FBEFFA8D5DE",
       "levelid": "custom_level_C7A7589C843F0206C3E339ABB8C11FBEFFA8D5DE",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Catastrophe Of This Miserable World",
+      "levelAuthorName": "abcbadq",
+      "hash": "D555B8705052646FE28942F0AC6CC2C86F410D4A",
+      "levelid": "custom_level_D555B8705052646FE28942F0AC6CC2C86F410D4A",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -223,6 +259,18 @@
       ]
     },
     {
+      "songName": "Yukiotoko",
+      "levelAuthorName": "Schwank",
+      "hash": "7082493D4AD18990582F7E1B119877614F0C4FE9",
+      "levelid": "custom_level_7082493D4AD18990582F7E1B119877614F0C4FE9",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Kill Kill Kill Kill Kill",
       "levelAuthorName": "WDG_Mid",
       "hash": "67554A784744D6DDCD09E24FA66747497AB836CF",
@@ -331,6 +379,18 @@
       ]
     },
     {
+      "songName": "STIGMA",
+      "levelAuthorName": "ptotpa",
+      "hash": "1F0ED3555A8D2C0796F360A112158B91C6660821",
+      "levelid": "custom_level_1F0ED3555A8D2C0796F360A112158B91C6660821",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Senseless Massacre",
       "levelAuthorName": "Astrella, Bitz & Slayx",
       "hash": "7D1B32996BD65828ECA68258D41CE154C4C64E57",
@@ -351,6 +411,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "*Feels Seasickness..*",
+      "levelAuthorName": "ptotpa",
+      "hash": "AB68D68B736D4D508C37D842027C838ADF733705",
+      "levelid": "custom_level_AB68D68B736D4D508C37D842027C838ADF733705",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -583,6 +655,18 @@
       ]
     },
     {
+      "songName": "A Cybernetic-Superluminal-Apocalyptic Post-War Divination",
+      "levelAuthorName": "abcbadq",
+      "hash": "FF476F27D55D0ACA6C7B37387C2C948EA6389F28",
+      "levelid": "custom_level_FF476F27D55D0ACA6C7B37387C2C948EA6389F28",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "U-0",
       "levelAuthorName": "Cobayo",
       "hash": "53C7C648BE3C87931E9C5A352008033806CE5810",
@@ -719,6 +803,18 @@
       "levelAuthorName": "AlphaComplex",
       "hash": "9F79EC899E5E2D0005C1A9948414EF4B4FDCCAC0",
       "levelid": "custom_level_9F79EC899E5E2D0005C1A9948414EF4B4FDCCAC0",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Looking for Edge of Ground",
+      "levelAuthorName": "Aimedhades16 & ptotpa",
+      "hash": "17C96E769DB72714731A55A620BB2B025FF61E28",
+      "levelid": "custom_level_17C96E769DB72714731A55A620BB2B025FF61E28",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1279,6 +1375,18 @@
       ]
     },
     {
+      "songName": "Funky Madness",
+      "levelAuthorName": "riisi",
+      "hash": "8610008150C122C0BA08271CD830E928A1B3ED32",
+      "levelid": "custom_level_8610008150C122C0BA08271CD830E928A1B3ED32",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "werewolf howls.",
       "levelAuthorName": "Aquaflee",
       "hash": "2744200D688BA9FD9477729E96CAED006C5097FA",
@@ -1391,6 +1499,18 @@
       "levelAuthorName": "dibl",
       "hash": "7DD57F0582775906CB0B480D5758C428AC8D0FEA",
       "levelid": "custom_level_7DD57F0582775906CB0B480D5758C428AC8D0FEA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "TRANS RIOT MUSIC",
+      "levelAuthorName": "ob1cb",
+      "hash": "6D60F92729049F486981BFEE79DB8D3C769346F2",
+      "levelid": "custom_level_6D60F92729049F486981BFEE79DB8D3C769346F2",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1531,6 +1651,18 @@
       ]
     },
     {
+      "songName": "Tojita Sekai",
+      "levelAuthorName": "abcbadq",
+      "hash": "49932D84945ED32EA53C6D248192851EA4CC1037",
+      "levelid": "custom_level_49932D84945ED32EA53C6D248192851EA4CC1037",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Puppet Nightmare",
       "levelAuthorName": "Aquaflee & cerret",
       "hash": "7CB15FD75C587CA18FF50FD38CBEB5C2EAA59F4A",
@@ -1583,6 +1715,18 @@
       "levelAuthorName": "riisi",
       "hash": "6D7F1D6CDF0FAC2EA12A14AE45A550C0DBE0606E",
       "levelid": "custom_level_6D7F1D6CDF0FAC2EA12A14AE45A550C0DBE0606E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Lunaticon",
+      "levelAuthorName": "Tseska & Nolanimations",
+      "hash": "16D0D422DC9A1023B1F1EA52515C14F033DA148A",
+      "levelid": "custom_level_16D0D422DC9A1023B1F1EA52515C14F033DA148A",
       "difficulties": [
         {
           "characteristic": "Standard",
