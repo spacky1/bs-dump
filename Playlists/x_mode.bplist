@@ -55,18 +55,6 @@
       ]
     },
     {
-      "songName": "Freedom Dive",
-      "levelAuthorName": "Bytrius",
-      "hash": "F27AE01330A01DE0A97AD0EA431663D854822E2F",
-      "levelid": "custom_level_F27AE01330A01DE0A97AD0EA431663D854822E2F",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "Flowering Night Fever",
       "levelAuthorName": "dibl",
       "hash": "A8424C1DBB2C03D63B50091A50537DA40132D780",
@@ -511,18 +499,6 @@
       ]
     },
     {
-      "songName": "Extra Credit on the Chromosome Test! VICTORY ROYALE​!​!​!",
-      "levelAuthorName": "shrado",
-      "hash": "BC1EC36D7A78658C0870FB9529F848C034A3D43E",
-      "levelid": "custom_level_BC1EC36D7A78658C0870FB9529F848C034A3D43E",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "Collapse Of Ego",
       "levelAuthorName": "Helloiamdaan",
       "hash": "28547D0245F0FEF153A5F4C96BB3B4F91A9D0AB8",
@@ -659,6 +635,18 @@
       "levelAuthorName": "ComplexFrequency",
       "hash": "D5EBC9C4E38A700AB971C6256AE3A175C63B5B1D",
       "levelid": "custom_level_D5EBC9C4E38A700AB971C6256AE3A175C63B5B1D",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Extra Credit on the Chromosome Test! VICTORY ROYALE!!!",
+      "levelAuthorName": "lobster & FatBeanzoop",
+      "hash": "2E887F6CD0FA896A890D2FB8D023A17DB47F0EA9",
+      "levelid": "custom_level_2E887F6CD0FA896A890D2FB8D023A17DB47F0EA9",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -3131,18 +3119,6 @@
       "levelAuthorName": "Timbo & nitronik.exe",
       "hash": "37E67E49A967E55A60180BCB3F26ACCECE43D291",
       "levelid": "custom_level_37E67E49A967E55A60180BCB3F26ACCECE43D291",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Recollection",
-      "levelAuthorName": "muffn & ExUnReal",
-      "hash": "68B26B53BC3E1B5999770DB7B6C4358251717521",
-      "levelid": "custom_level_68B26B53BC3E1B5999770DB7B6C4358251717521",
       "difficulties": [
         {
           "characteristic": "Standard",
