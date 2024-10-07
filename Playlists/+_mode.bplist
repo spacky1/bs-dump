@@ -1363,18 +1363,6 @@
       ]
     },
     {
-      "songName": "Novablast",
-      "levelAuthorName": "Bitz, Cokeinjector, Luck & Sync",
-      "hash": "C3CFED196F96B161C0862EC387E0EE9241CD5B48",
-      "levelid": "custom_level_C3CFED196F96B161C0862EC387E0EE9241CD5B48",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "Gruequix",
       "levelAuthorName": "okazu",
       "hash": "A9EF7F902AED7E90FDC21A649DA93583E8B6A42B",
@@ -1463,18 +1451,6 @@
       "levelAuthorName": "Aimedhades16",
       "hash": "0517D5023268AEA0DCF21DDEFDA5BC1112872D04",
       "levelid": "custom_level_0517D5023268AEA0DCF21DDEFDA5BC1112872D04",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Valhalla:0",
-      "levelAuthorName": "Aquaflee",
-      "hash": "824ADA2A29C0D5FEE9ACEB7CB18C395D2ADA2EDA",
-      "levelid": "custom_level_824ADA2A29C0D5FEE9ACEB7CB18C395D2ADA2EDA",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1724,9 +1700,9 @@
     },
     {
       "songName": "Palace of Melancholia",
-      "levelAuthorName": "Jabob & Joshabi",
-      "hash": "D67AFB36CE5B39040C206AB227F23872FFD7FE19",
-      "levelid": "custom_level_D67AFB36CE5B39040C206AB227F23872FFD7FE19",
+      "levelAuthorName": "abcbadq & Joshabi",
+      "hash": "0B5343BC615D4609F5B29E3FA5DC77D9E46DFAF2",
+      "levelid": "custom_level_0B5343BC615D4609F5B29E3FA5DC77D9E46DFAF2",
       "difficulties": [
         {
           "characteristic": "Standard",
