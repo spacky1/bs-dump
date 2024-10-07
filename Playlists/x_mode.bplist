@@ -31,6 +31,18 @@
       ]
     },
     {
+      "songName": "Novablast",
+      "levelAuthorName": "Bitz, Cokeinjector, Luck & Sync",
+      "hash": "C3CFED196F96B161C0862EC387E0EE9241CD5B48",
+      "levelid": "custom_level_C3CFED196F96B161C0862EC387E0EE9241CD5B48",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Eviternity",
       "levelAuthorName": "AlphaComplex",
       "hash": "9F79EC899E5E2D0005C1A9948414EF4B4FDCCAC0",
@@ -215,6 +227,18 @@
       "levelAuthorName": "Jabob",
       "hash": "100AC296E058409C9347176B1F9806F9E98BFA06",
       "levelid": "custom_level_100AC296E058409C9347176B1F9806F9E98BFA06",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Valhalla:0",
+      "levelAuthorName": "Aquaflee",
+      "hash": "824ADA2A29C0D5FEE9ACEB7CB18C395D2ADA2EDA",
+      "levelid": "custom_level_824ADA2A29C0D5FEE9ACEB7CB18C395D2ADA2EDA",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1927,18 +1951,6 @@
       ]
     },
     {
-      "songName": "Valhalla:0",
-      "levelAuthorName": "That_Narwhal",
-      "hash": "115D10630CA566010E6548ED0A6DF0CA3267A3F9",
-      "levelid": "custom_level_115D10630CA566010E6548ED0A6DF0CA3267A3F9",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "We Could Get More Machinegun Psystyle!",
       "levelAuthorName": "Joshabi",
       "hash": "E8C2C2EB2B46C6C4F59800A14740D32DA342E0FD",
@@ -3603,18 +3615,6 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Novablast",
-      "levelAuthorName": "Bitz, Cokeinjector, Luck & Sync",
-      "hash": "C3CFED196F96B161C0862EC387E0EE9241CD5B48",
-      "levelid": "custom_level_C3CFED196F96B161C0862EC387E0EE9241CD5B48",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
         }
       ]
     },
