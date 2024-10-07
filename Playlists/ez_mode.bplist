@@ -271,6 +271,18 @@
       ]
     },
     {
+      "songName": "Bubbly",
+      "levelAuthorName": "RFColaf",
+      "hash": "AC88BCB7A7CD6A6BE9F68A9342576431B2C84B16",
+      "levelid": "custom_level_AC88BCB7A7CD6A6BE9F68A9342576431B2C84B16",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "ARTIFICIAL SUICIDE",
       "levelAuthorName": "Bytrius",
       "hash": "3120062F27E3ADD97D500A28F07FFC3957857499",
@@ -1591,6 +1603,18 @@
       ]
     },
     {
+      "songName": "Umbra",
+      "levelAuthorName": "Spinvvy",
+      "hash": "D409F11A72ECC58CA8552E08076831374479FDB7",
+      "levelid": "custom_level_D409F11A72ECC58CA8552E08076831374479FDB7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "The Prince",
       "levelAuthorName": "Maunchy",
       "hash": "D2B02C80EA38ABFDEEE3A6609F451FCC94B676E9",
@@ -1791,6 +1815,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Rave Angel",
+      "levelAuthorName": "Alice",
+      "hash": "54B7A442A0413AA48752236EF388B592D41B4E03",
+      "levelid": "custom_level_54B7A442A0413AA48752236EF388B592D41B4E03",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
