@@ -1867,18 +1867,6 @@
       ]
     },
     {
-      "songName": "Climax",
-      "levelAuthorName": "Timbo",
-      "hash": "FD34B0279836820254C31552C5753291ACBCBB95",
-      "levelid": "custom_level_FD34B0279836820254C31552C5753291ACBCBB95",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Easy"
-        }
-      ]
-    },
-    {
       "songName": "The Grey",
       "levelAuthorName": "Bytrius",
       "hash": "0A7EDDD407D6E272CF0AADF26E96850806ABC5DA",
