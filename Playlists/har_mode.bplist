@@ -763,6 +763,18 @@
       ]
     },
     {
+      "songName": "Abstruse Dilemma",
+      "levelAuthorName": "yabje",
+      "hash": "CFF3F82F88D9BDD727462E818FB1F786AA7ECB96",
+      "levelid": "custom_level_CFF3F82F88D9BDD727462E818FB1F786AA7ECB96",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Final-Boss-Chan",
       "levelAuthorName": "Darkrealm7",
       "hash": "C3EDF58BE6CC345996B89B951A2804FC07C100D2",
@@ -2467,6 +2479,18 @@
       ]
     },
     {
+      "songName": "Blows Up Everything",
+      "levelAuthorName": "Irish",
+      "hash": "3B2005183B2AC76C2A65F34540EBB6FD293DDB38",
+      "levelid": "custom_level_3B2005183B2AC76C2A65F34540EBB6FD293DDB38",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "XTREME",
       "levelAuthorName": "Timbo",
       "hash": "B76F546A682122155BE11739438FCAE6CFE2C2CF",
@@ -2571,6 +2595,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Haunted Device",
+      "levelAuthorName": "Purp1e & yabje",
+      "hash": "77CDAD526ECA3EE8571355207CE642A3C367D17F",
+      "levelid": "custom_level_77CDAD526ECA3EE8571355207CE642A3C367D17F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -4003,6 +4039,18 @@
       ]
     },
     {
+      "songName": "How to Be a Heartbreaker",
+      "levelAuthorName": "CoolingCloset",
+      "hash": "2D39FC1277C16E3185D5E1E39D38F2F7C2A147C2",
+      "levelid": "custom_level_2D39FC1277C16E3185D5E1E39D38F2F7C2A147C2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Fresh!",
       "levelAuthorName": "Jabob",
       "hash": "EA55E256AE89AE72A60763CEB5379560B962773B",
@@ -4055,6 +4103,18 @@
       "levelAuthorName": "Shark & ThySpoon",
       "hash": "85D1885E8D0290965AC49FBE0EC1CD44DED758F5",
       "levelid": "custom_level_85D1885E8D0290965AC49FBE0EC1CD44DED758F5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "So Sorry",
+      "levelAuthorName": "Timeweaver",
+      "hash": "D4F950DC003865460F6D203F4DB76461DE890A2E",
+      "levelid": "custom_level_D4F950DC003865460F6D203F4DB76461DE890A2E",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -5515,18 +5575,6 @@
       ]
     },
     {
-      "songName": "New World",
-      "levelAuthorName": "Timbo & SmokeyBacon",
-      "hash": "4B153BFC6AAA2BC0B00301EF5F7468D3D3D89084",
-      "levelid": "custom_level_4B153BFC6AAA2BC0B00301EF5F7468D3D3D89084",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "Yoru ni Kakeru",
       "levelAuthorName": "chikinbiskit",
       "hash": "79AFBC844DFFBF8ED6A42ECBAEF1963DAD093221",
@@ -5643,6 +5691,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Chucky vs. The Giant Tortoise",
+      "levelAuthorName": "xSuicidalxPUPPY",
+      "hash": "D476AA23DDB0E41CF5D0D0F6594A0CD6E4F54E79",
+      "levelid": "custom_level_D476AA23DDB0E41CF5D0D0F6594A0CD6E4F54E79",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
