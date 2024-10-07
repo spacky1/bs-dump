@@ -19,6 +19,18 @@
       ]
     },
     {
+      "songName": "Gaviscon",
+      "levelAuthorName": "fraies & Oddloop",
+      "hash": "CBDB59BEA5F0A91CF9266A73E8CEC2FF4033DC1B",
+      "levelid": "custom_level_CBDB59BEA5F0A91CF9266A73E8CEC2FF4033DC1B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Eviternity",
       "levelAuthorName": "AlphaComplex",
       "hash": "9F79EC899E5E2D0005C1A9948414EF4B4FDCCAC0",
@@ -39,6 +51,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Extra Credit on the Extratone Test! VICTORY ROYALE!!!",
+      "levelAuthorName": "Paper_Core",
+      "hash": "9DF8A0037F703204A3F0B52D57DB2F5B3FC8AED5",
+      "levelid": "custom_level_9DF8A0037F703204A3F0B52D57DB2F5B3FC8AED5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -79,10 +103,46 @@
       ]
     },
     {
+      "songName": "ANALYS",
+      "levelAuthorName": "RetrX",
+      "hash": "61FD5B17CBA13ABE1E76591121E1AC7FE8A5F425",
+      "levelid": "custom_level_61FD5B17CBA13ABE1E76591121E1AC7FE8A5F425",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "HYPER ULTRA JACKPOT (The Swamp Spat It Out)",
       "levelAuthorName": "Aquaflee & Helloiamdaan",
       "hash": "24612A89A9258BCC2A118B7DE6DF8E70676E4393",
       "levelid": "custom_level_24612A89A9258BCC2A118B7DE6DF8E70676E4393",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Abstruse Dilemma",
+      "levelAuthorName": "yabje",
+      "hash": "CFF3F82F88D9BDD727462E818FB1F786AA7ECB96",
+      "levelid": "custom_level_CFF3F82F88D9BDD727462E818FB1F786AA7ECB96",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Weeaboo Spookfest II",
+      "levelAuthorName": "Bitz, Luck, Joshabi & Aquaflee",
+      "hash": "B3A1950F5974DB1CCAB5C09C500AB3CBB77980C0",
+      "levelid": "custom_level_B3A1950F5974DB1CCAB5C09C500AB3CBB77980C0",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1627,6 +1687,18 @@
       ]
     },
     {
+      "songName": "Haunted Device",
+      "levelAuthorName": "Purp1e & yabje",
+      "hash": "77CDAD526ECA3EE8571355207CE642A3C367D17F",
+      "levelid": "custom_level_77CDAD526ECA3EE8571355207CE642A3C367D17F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Toxic Violet Cubes",
       "levelAuthorName": "BSWC Team",
       "hash": "00DB999DD09E123C963B909B731E5D8AA0FA8B82",
@@ -1871,6 +1943,18 @@
       "levelAuthorName": "Joshabi",
       "hash": "E8C2C2EB2B46C6C4F59800A14740D32DA342E0FD",
       "levelid": "custom_level_E8C2C2EB2B46C6C4F59800A14740D32DA342E0FD",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Primitive Vibes",
+      "levelAuthorName": "Spectral",
+      "hash": "3A84B984EDDB7AD45951124C933FF1AE362B940C",
+      "levelid": "custom_level_3A84B984EDDB7AD45951124C933FF1AE362B940C",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -2267,6 +2351,18 @@
       "levelAuthorName": "Jabob",
       "hash": "EA55E256AE89AE72A60763CEB5379560B962773B",
       "levelid": "custom_level_EA55E256AE89AE72A60763CEB5379560B962773B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "buggin'",
+      "levelAuthorName": "Freaky Mapping",
+      "hash": "65417275CDE54B6F0E8A63A1915969A6107BD1AC",
+      "levelid": "custom_level_65417275CDE54B6F0E8A63A1915969A6107BD1AC",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -3091,6 +3187,18 @@
       ]
     },
     {
+      "songName": "Phosphorescence",
+      "levelAuthorName": "unluckyL & WalkingKat",
+      "hash": "0ACE9C8D04B2666478E5CF2BF9A2C44AFBDE4939",
+      "levelid": "custom_level_0ACE9C8D04B2666478E5CF2BF9A2C44AFBDE4939",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "paradox",
       "levelAuthorName": "Various Mappers",
       "hash": "0AB508B0A381DADD2AFBBAC1DD45C76E5438CA9A",
@@ -3427,6 +3535,18 @@
       ]
     },
     {
+      "songName": "How to Be a Heartbreaker",
+      "levelAuthorName": "CoolingCloset",
+      "hash": "2D39FC1277C16E3185D5E1E39D38F2F7C2A147C2",
+      "levelid": "custom_level_2D39FC1277C16E3185D5E1E39D38F2F7C2A147C2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "NOVAGROUND",
       "levelAuthorName": "shrado & abcbadq",
       "hash": "D9FA4E43AF8777116C60CFE2C473D13153754379",
@@ -3623,6 +3743,18 @@
       "levelAuthorName": "Shan_Man & Bitz",
       "hash": "914086D2DB5EFA80EFA7EEC6735DE627ABC55777",
       "levelid": "custom_level_914086D2DB5EFA80EFA7EEC6735DE627ABC55777",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Saucy",
+      "levelAuthorName": "Cobayo",
+      "hash": "D15DCA03D9B30C8D1DDC8208F94469B079AFF0B0",
+      "levelid": "custom_level_D15DCA03D9B30C8D1DDC8208F94469B079AFF0B0",
       "difficulties": [
         {
           "characteristic": "Standard",
