@@ -19,6 +19,18 @@
       ]
     },
     {
+      "songName": "buggin'",
+      "levelAuthorName": "Freaky Mapping",
+      "hash": "174649A8821014F0DAEF29839F29F7433C8EC78B",
+      "levelid": "custom_level_174649A8821014F0DAEF29839F29F7433C8EC78B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "BUCK WILD",
       "levelAuthorName": "Aimedhades16",
       "hash": "41ED5F784DD15586E7D2874789C5FECF20D69D5A",
@@ -79,10 +91,34 @@
       ]
     },
     {
+      "songName": "Count down 321",
+      "levelAuthorName": "GalaxyMaster vs. The Senate",
+      "hash": "AD603B145C4A53DC6ACEED0BB76303989F0E0761",
+      "levelid": "custom_level_AD603B145C4A53DC6ACEED0BB76303989F0E0761",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Excuse My Rudeness, But Could You Please RIP?",
       "levelAuthorName": "Wizzled & ptotpa",
       "hash": "D3DDFDB62E171041195DC70C0C755961530D36C5",
       "levelid": "custom_level_D3DDFDB62E171041195DC70C0C755961530D36C5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Splatter Party",
+      "levelAuthorName": "Jabob vs. Complex",
+      "hash": "AB8B750A06857B43CB2AF04625F44DCBB0FA5494",
+      "levelid": "custom_level_AB8B750A06857B43CB2AF04625F44DCBB0FA5494",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -235,10 +271,34 @@
       ]
     },
     {
+      "songName": "Vertex Gamma",
+      "levelAuthorName": "RetrX",
+      "hash": "2D35945C343F64907E84CEDF6302BD450C19D36A",
+      "levelid": "custom_level_2D35945C343F64907E84CEDF6302BD450C19D36A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "nieuwe tune",
       "levelAuthorName": "Stupidity-101",
       "hash": "187BEA15DE6BD730123917F889C2690A1500433C",
       "levelid": "custom_level_187BEA15DE6BD730123917F889C2690A1500433C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Dimension Wars",
+      "levelAuthorName": "Hades, Daan, Josh & Aqua",
+      "hash": "D3D52F3B4B58E7D1FE16752AF769A6C5CE3BA701",
+      "levelid": "custom_level_D3D52F3B4B58E7D1FE16752AF769A6C5CE3BA701",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -375,6 +435,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "buggin'",
+      "levelAuthorName": "Freaky Mapping",
+      "hash": "174649A8821014F0DAEF29839F29F7433C8EC78B",
+      "levelid": "custom_level_174649A8821014F0DAEF29839F29F7433C8EC78B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -1243,18 +1315,6 @@
       ]
     },
     {
-      "songName": "Gaviscon",
-      "levelAuthorName": "fraies & Oddloop",
-      "hash": "CBDB59BEA5F0A91CF9266A73E8CEC2FF4033DC1B",
-      "levelid": "custom_level_CBDB59BEA5F0A91CF9266A73E8CEC2FF4033DC1B",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "Pineapple Pricess",
       "levelAuthorName": "Astrella",
       "hash": "12A73D49D78EFB7C75DE2D6ACAA0A713DC74C17E",
@@ -1351,30 +1411,6 @@
       ]
     },
     {
-      "songName": "ANALYS",
-      "levelAuthorName": "RetrX",
-      "hash": "61FD5B17CBA13ABE1E76591121E1AC7FE8A5F425",
-      "levelid": "custom_level_61FD5B17CBA13ABE1E76591121E1AC7FE8A5F425",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Weeaboo Spookfest II",
-      "levelAuthorName": "Bitz, Luck, Joshabi & Aquaflee",
-      "hash": "B3A1950F5974DB1CCAB5C09C500AB3CBB77980C0",
-      "levelid": "custom_level_B3A1950F5974DB1CCAB5C09C500AB3CBB77980C0",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "Funky Madness",
       "levelAuthorName": "riisi",
       "hash": "8610008150C122C0BA08271CD830E928A1B3ED32",
@@ -1418,6 +1454,18 @@
       "difficulties": [
         {
           "characteristic": "Lawless",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "'5 O'",
+      "levelAuthorName": "Aimedhades16",
+      "hash": "0517D5023268AEA0DCF21DDEFDA5BC1112872D04",
+      "levelid": "custom_level_0517D5023268AEA0DCF21DDEFDA5BC1112872D04",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
           "name": "ExpertPlus"
         }
       ]
@@ -1519,6 +1567,18 @@
       ]
     },
     {
+      "songName": "ANOMALY",
+      "levelAuthorName": "dibl",
+      "hash": "B0932626D4D983F7AD1BF3ADE951068C48AEF6B8",
+      "levelid": "custom_level_B0932626D4D983F7AD1BF3ADE951068C48AEF6B8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Break",
       "levelAuthorName": "Souk & Oddloop",
       "hash": "6A5AEA3CE9A7A9F120EBD4DEEA377B4A54640BFB",
@@ -1591,10 +1651,34 @@
       ]
     },
     {
+      "songName": "Nightmare City",
+      "levelAuthorName": "Joshabi & Aimedhades16",
+      "hash": "198510CF12C7B1E227FBE7AB1A9039B5CFE9EE96",
+      "levelid": "custom_level_198510CF12C7B1E227FBE7AB1A9039B5CFE9EE96",
+      "difficulties": [
+        {
+          "characteristic": "Lawless",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "MariannE",
       "levelAuthorName": "Emir & Zana",
       "hash": "C977F4E977BD7342F825C2C465EF6CD0FCE79EA2",
       "levelid": "custom_level_C977F4E977BD7342F825C2C465EF6CD0FCE79EA2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "WHAT THE CAT!?",
+      "levelAuthorName": "A Jhintleman",
+      "hash": "9557A98F16CD82D7B44633EC52D03826FD79EBFE",
+      "levelid": "custom_level_9557A98F16CD82D7B44633EC52D03826FD79EBFE",
       "difficulties": [
         {
           "characteristic": "Standard",
