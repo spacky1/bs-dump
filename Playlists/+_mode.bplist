@@ -7,6 +7,18 @@
   },
   "songs": [
     {
+      "songName": "Meteoric Impact",
+      "levelAuthorName": "RetrX",
+      "hash": "BD34C3F3F04ACDACD6E5874C4C6291B500D664AF",
+      "levelid": "custom_level_BD34C3F3F04ACDACD6E5874C4C6291B500D664AF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "#1f1e33",
       "levelAuthorName": "A Jhintleman",
       "hash": "13BCCBADAF415147986F2D808D5AFA6F3B638045",
@@ -131,6 +143,18 @@
       "levelAuthorName": "Helloiamdaan, Bitz & Aquaflee",
       "hash": "48098A896C712252CB4A47B3253A10661DE58D4F",
       "levelid": "custom_level_48098A896C712252CB4A47B3253A10661DE58D4F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Simulated Reality",
+      "levelAuthorName": "Bitz, Joshabi & WalkingKat",
+      "hash": "E1AE67C98F1953FC34D7EC00F9C22A862EB1BA56",
+      "levelid": "custom_level_E1AE67C98F1953FC34D7EC00F9C22A862EB1BA56",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -279,6 +303,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Yokatta",
+      "levelAuthorName": "abcbadq",
+      "hash": "08B268877DB9C3DD5EE23E424A7EDC91B239A327",
+      "levelid": "custom_level_08B268877DB9C3DD5EE23E424A7EDC91B239A327",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
         }
       ]
     },
@@ -467,6 +503,30 @@
       "levelAuthorName": "Astrella, Bitz & Slayx",
       "hash": "7D1B32996BD65828ECA68258D41CE154C4C64E57",
       "levelid": "custom_level_7D1B32996BD65828ECA68258D41CE154C4C64E57",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "ΩΩPARTS",
+      "levelAuthorName": "Aimedhades16",
+      "hash": "38522FF17E9FD5EFDD4FA6AEE0C1138533C9B428",
+      "levelid": "custom_level_38522FF17E9FD5EFDD4FA6AEE0C1138533C9B428",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "TremENDouS",
+      "levelAuthorName": "GalaxyMaster",
+      "hash": "DD146CE164B341AFA8DAEC8E45FC4EC0F740FAD7",
+      "levelid": "custom_level_DD146CE164B341AFA8DAEC8E45FC4EC0F740FAD7",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -811,6 +871,18 @@
       ]
     },
     {
+      "songName": "Yokatta",
+      "levelAuthorName": "abcbadq",
+      "hash": "08B268877DB9C3DD5EE23E424A7EDC91B239A327",
+      "levelid": "custom_level_08B268877DB9C3DD5EE23E424A7EDC91B239A327",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Möbius",
       "levelAuthorName": "Sands",
       "hash": "7341F4A2209C1F7D95E0FE64DBFDBDAFB7994099",
@@ -895,6 +967,18 @@
       ]
     },
     {
+      "songName": "No Fear, No Despair, With All My Hearts",
+      "levelAuthorName": "Aquaflee",
+      "hash": "C85FAACD3066B10F3E1798E297BAE267E9A34FA1",
+      "levelid": "custom_level_C85FAACD3066B10F3E1798E297BAE267E9A34FA1",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Blue Zenith",
       "levelAuthorName": "Duckydesu",
       "hash": "0909C15516A6D8D12383E8DCF966CDB9845306DF",
@@ -947,6 +1031,18 @@
       "levelAuthorName": "Bitz & Joshabi",
       "hash": "4C9E62D645AFA18FE7FE5F0908D365F4DC6524F3",
       "levelid": "custom_level_4C9E62D645AFA18FE7FE5F0908D365F4DC6524F3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Nostalgic Blood of the Strife",
+      "levelAuthorName": "yabje & Nolanimations",
+      "hash": "B4EEE9EB2E42620ED550F9660AF082907070E3DD",
+      "levelid": "custom_level_B4EEE9EB2E42620ED550F9660AF082907070E3DD",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1307,6 +1403,18 @@
       "levelAuthorName": "dentalstonk",
       "hash": "2BDC7C19DC3FE84E30CBF8DD5BE5D812C566C5C8",
       "levelid": "custom_level_2BDC7C19DC3FE84E30CBF8DD5BE5D812C566C5C8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Poison Mushroom",
+      "levelAuthorName": "RetrX",
+      "hash": "FE6097C274EAB36A8FF23B64966D13C4B0DD58FF",
+      "levelid": "custom_level_FE6097C274EAB36A8FF23B64966D13C4B0DD58FF",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1711,6 +1819,18 @@
       ]
     },
     {
+      "songName": "PISSCORD",
+      "levelAuthorName": "ob1cb & Anodize",
+      "hash": "91758A101730A2333850A9F007B0ED1DC2069DE9",
+      "levelid": "custom_level_91758A101730A2333850A9F007B0ED1DC2069DE9",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Tojita Sekai",
       "levelAuthorName": "abcbadq",
       "hash": "49932D84945ED32EA53C6D248192851EA4CC1037",
@@ -1727,6 +1847,18 @@
       "levelAuthorName": "Aquaflee & cerret",
       "hash": "7CB15FD75C587CA18FF50FD38CBEB5C2EAA59F4A",
       "levelid": "custom_level_7CB15FD75C587CA18FF50FD38CBEB5C2EAA59F4A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "+ERABY+E CONNEC+10N",
+      "levelAuthorName": "Petersome",
+      "hash": "B87D25D052EE59CABBA86B45ACD42C10B957844F",
+      "levelid": "custom_level_B87D25D052EE59CABBA86B45ACD42C10B957844F",
       "difficulties": [
         {
           "characteristic": "Standard",
