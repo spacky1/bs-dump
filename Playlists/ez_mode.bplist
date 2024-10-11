@@ -427,6 +427,18 @@
       ]
     },
     {
+      "songName": "Domestic Drastic",
+      "levelAuthorName": "Acubens, Dr_Marc",
+      "hash": "E7D6CF1CE7B04C80C10C5AE5EE468DB73C7AE5E5",
+      "levelid": "custom_level_E7D6CF1CE7B04C80C10C5AE5EE468DB73C7AE5E5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "The Taste",
       "levelAuthorName": "General Dumbass",
       "hash": "32F35B4CC6A2E9DB721FEBF6975CD7A7416ABCD0",
@@ -763,6 +775,18 @@
       ]
     },
     {
+      "songName": "Dance Class",
+      "levelAuthorName": "VoltageO",
+      "hash": "6A9620E3A0E7A3EE156D783DE46CF799A24F4F8A",
+      "levelid": "custom_level_6A9620E3A0E7A3EE156D783DE46CF799A24F4F8A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "52 Hearts",
       "levelAuthorName": "Nolanimations & Swifter",
       "hash": "3ED2FA294CA1A8DCB6BF36793F130BD1B5D81149",
@@ -883,6 +907,18 @@
       ]
     },
     {
+      "songName": "SOS",
+      "levelAuthorName": "Jonas_0_0",
+      "hash": "2EA0DDEA38DDF294A7BD2D42C456C7070B645D5B",
+      "levelid": "custom_level_2EA0DDEA38DDF294A7BD2D42C456C7070B645D5B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "FLOWER",
       "levelAuthorName": "Alice",
       "hash": "B736B0AA8465561A42C46672FE39AC95F8E413E3",
@@ -931,6 +967,18 @@
       ]
     },
     {
+      "songName": "DARE",
+      "levelAuthorName": "DeeDee",
+      "hash": "1634E2358E3ECCCCD16E0BAC6848380714C54CF7",
+      "levelid": "custom_level_1634E2358E3ECCCCD16E0BAC6848380714C54CF7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Monster",
       "levelAuthorName": "Joshabi",
       "hash": "F25A96CB96A59D82F2E5A2ECAD3721B4F1991103",
@@ -963,6 +1011,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Chopper",
+      "levelAuthorName": "Feco",
+      "hash": "C77D7D717C9CAC47EE167FDD1FE843F987174C19",
+      "levelid": "custom_level_C77D7D717C9CAC47EE167FDD1FE843F987174C19",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -1219,6 +1279,30 @@
       ]
     },
     {
+      "songName": "from the sea, to the stars",
+      "levelAuthorName": "Phøenix & nasafrasa",
+      "hash": "33A53895A94A437F229E86F0CC3E67D8F8496CDE",
+      "levelid": "custom_level_33A53895A94A437F229E86F0CC3E67D8F8496CDE",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "L.L.L",
+      "levelAuthorName": "Joshabi",
+      "hash": "1BBA6B7B6FACE9E2CEA8762F3A5082A3EC2C4854",
+      "levelid": "custom_level_1BBA6B7B6FACE9E2CEA8762F3A5082A3EC2C4854",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
       "songName": "I'd Rather Burn",
       "levelAuthorName": "SlimyBlob",
       "hash": "6CE2ED864DC48306DC8BC53090974A1882C1844D",
@@ -1411,6 +1495,18 @@
       ]
     },
     {
+      "songName": "The Negative",
+      "levelAuthorName": "Bytrius",
+      "hash": "BE7097BDD283496D28C22A1D621F13B0CCD53C59",
+      "levelid": "custom_level_BE7097BDD283496D28C22A1D621F13B0CCD53C59",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Happy Place",
       "levelAuthorName": "Melon",
       "hash": "671F348CC8E7A21737186BB6F57801FE7B943F3B",
@@ -1443,6 +1539,30 @@
         {
           "characteristic": "Standard",
           "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Halo Theme Mjolnir Mix (ft. Steve Vai)",
+      "levelAuthorName": "SneakySpeckMan",
+      "hash": "D7DFEF5B0A2C0B2DBE1178812F56CA01DFC6BE68",
+      "levelid": "custom_level_D7DFEF5B0A2C0B2DBE1178812F56CA01DFC6BE68",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Kobayashi Maru",
+      "levelAuthorName": "Tranch",
+      "hash": "C33F75A235709F2E72EFEBC0872FBA3FB3DDB96D",
+      "levelid": "custom_level_C33F75A235709F2E72EFEBC0872FBA3FB3DDB96D",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -1563,6 +1683,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Oyasumi",
+      "levelAuthorName": "Alice",
+      "hash": "8B7FC7B898AECE2967690846DA7889048C0880FF",
+      "levelid": "custom_level_8B7FC7B898AECE2967690846DA7889048C0880FF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -2119,6 +2251,18 @@
       ]
     },
     {
+      "songName": "The Title Track",
+      "levelAuthorName": "harbgy",
+      "hash": "B90D1FFD137C8F2DB90D95780FD7A8DE3D35E3EB",
+      "levelid": "custom_level_B90D1FFD137C8F2DB90D95780FD7A8DE3D35E3EB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
       "songName": "Odo",
       "levelAuthorName": "TOFU",
       "hash": "746E130C6B346C2E91DA049902765EC298742693",
@@ -2275,6 +2419,18 @@
       ]
     },
     {
+      "songName": "Los! Los! Los!",
+      "levelAuthorName": "CoolingCloset",
+      "hash": "F3BD378DFE91F4371B976493C95936878D65448E",
+      "levelid": "custom_level_F3BD378DFE91F4371B976493C95936878D65448E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
       "songName": "Butterfly Wing",
       "levelAuthorName": "symphonic & Elecast",
       "hash": "BDD76B2EFDA7A01FFEEAD7DB3010F072B3BA8B7E",
@@ -2423,6 +2579,18 @@
       "levelAuthorName": "Teuflum",
       "hash": "6F95B1ECBB5861B68BDEB6951EE3D5D1680AA8B3",
       "levelid": "custom_level_6F95B1ECBB5861B68BDEB6951EE3D5D1680AA8B3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "What You Know",
+      "levelAuthorName": "Taddus",
+      "hash": "CF1C53499B3F238935B150FC781DF0C214E33CB1",
+      "levelid": "custom_level_CF1C53499B3F238935B150FC781DF0C214E33CB1",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -2947,6 +3115,18 @@
       ]
     },
     {
+      "songName": "Don't Need You",
+      "levelAuthorName": "oegoe",
+      "hash": "7145B6D7FD3E7635D3C85375706B33A7D303AC6C",
+      "levelid": "custom_level_7145B6D7FD3E7635D3C85375706B33A7D303AC6C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
       "songName": "Antithesis",
       "levelAuthorName": "EOP Glacier",
       "hash": "E370C49C81AC28F2BF58160A03AA48355E016F89",
@@ -2999,6 +3179,30 @@
       "levelAuthorName": "TOFU",
       "hash": "84BCFF4756AC66BF1746824B0B221EB1E6A4AFF2",
       "levelid": "custom_level_84BCFF4756AC66BF1746824B0B221EB1E6A4AFF2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Tell Me You Know",
+      "levelAuthorName": "Tranch",
+      "hash": "78082B07E9B93388F62A9DF3480942DC866C5183",
+      "levelid": "custom_level_78082B07E9B93388F62A9DF3480942DC866C5183",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Solid Ground",
+      "levelAuthorName": "Phøenix",
+      "hash": "EA532620629CD6B2A0405B7A08CF4E80D8A688CF",
+      "levelid": "custom_level_EA532620629CD6B2A0405B7A08CF4E80D8A688CF",
       "difficulties": [
         {
           "characteristic": "Standard",
