@@ -307,6 +307,18 @@
       ]
     },
     {
+      "songName": "Nostalgic Blood of the Strife",
+      "levelAuthorName": "yabje & Nolanimations",
+      "hash": "B4EEE9EB2E42620ED550F9660AF082907070E3DD",
+      "levelid": "custom_level_B4EEE9EB2E42620ED550F9660AF082907070E3DD",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "eden",
       "levelAuthorName": "slamsyk",
       "hash": "64688EE557A6C0916D2108AA3B39DD79C8468DB3",
@@ -591,6 +603,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Need Your Love",
+      "levelAuthorName": "Avexus",
+      "hash": "C0FC2D76A4531098E24D0F5B8C4941FF24241F1D",
+      "levelid": "custom_level_C0FC2D76A4531098E24D0F5B8C4941FF24241F1D",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -895,6 +919,18 @@
       ]
     },
     {
+      "songName": "Chopper",
+      "levelAuthorName": "Feco",
+      "hash": "C77D7D717C9CAC47EE167FDD1FE843F987174C19",
+      "levelid": "custom_level_C77D7D717C9CAC47EE167FDD1FE843F987174C19",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "All My Love",
       "levelAuthorName": "Olaf & RFCaps",
       "hash": "FFEEC65EFC5212B770D6DEED6F9AD766914D7635",
@@ -1023,6 +1059,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Space Ghost Coast to Coast [Fitbeat]",
+      "levelAuthorName": "Scarladore",
+      "hash": "8B4CFB9390F5869413234D7B973048E4E7DC8427",
+      "levelid": "custom_level_8B4CFB9390F5869413234D7B973048E4E7DC8427",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -1351,6 +1399,18 @@
       ]
     },
     {
+      "songName": "Domestic Drastic",
+      "levelAuthorName": "Acubens, Dr_Marc",
+      "hash": "E7D6CF1CE7B04C80C10C5AE5EE468DB73C7AE5E5",
+      "levelid": "custom_level_E7D6CF1CE7B04C80C10C5AE5EE468DB73C7AE5E5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Devil On My Shoulder",
       "levelAuthorName": "FatBeanzoop",
       "hash": "6BD8D61CB7451B2532CF6379A607707D406B9BC5",
@@ -1579,6 +1639,18 @@
       ]
     },
     {
+      "songName": "The Title Track",
+      "levelAuthorName": "harbgy",
+      "hash": "B90D1FFD137C8F2DB90D95780FD7A8DE3D35E3EB",
+      "levelid": "custom_level_B90D1FFD137C8F2DB90D95780FD7A8DE3D35E3EB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Ether Strike",
       "levelAuthorName": "harbgy & Aquaflee",
       "hash": "80B14C7E9A5D8372F37B8B3C06E2513D3D9C8963",
@@ -1623,6 +1695,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "L.L.L",
+      "levelAuthorName": "Joshabi",
+      "hash": "1BBA6B7B6FACE9E2CEA8762F3A5082A3EC2C4854",
+      "levelid": "custom_level_1BBA6B7B6FACE9E2CEA8762F3A5082A3EC2C4854",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -1735,6 +1819,18 @@
       ]
     },
     {
+      "songName": "Welcome to the Mosh Pit",
+      "levelAuthorName": "TheWildDash & ThySpoon",
+      "hash": "8E840D8E6106479B7DCDEC051D3BAFD2A016530E",
+      "levelid": "custom_level_8E840D8E6106479B7DCDEC051D3BAFD2A016530E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Guitar to Kodoku to Aoi Hoshi",
       "levelAuthorName": "CookedChili & Rusty",
       "hash": "B716CC0FD1C67F7E3A7A6F68B18FF34246FD2D93",
@@ -1787,6 +1883,18 @@
       "levelAuthorName": "Teuflum & muffn",
       "hash": "5868546DD2A98E6F0BC288A83506EB766113A9EB",
       "levelid": "custom_level_5868546DD2A98E6F0BC288A83506EB766113A9EB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Flashes",
+      "levelAuthorName": "Aquaflee & unluckyL",
+      "hash": "C8371A16FC65ADC496A4C4C91341497AC66A0565",
+      "levelid": "custom_level_C8371A16FC65ADC496A4C4C91341497AC66A0565",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1903,6 +2011,18 @@
       ]
     },
     {
+      "songName": "Kobayashi Maru",
+      "levelAuthorName": "Tranch",
+      "hash": "C33F75A235709F2E72EFEBC0872FBA3FB3DDB96D",
+      "levelid": "custom_level_C33F75A235709F2E72EFEBC0872FBA3FB3DDB96D",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Still in my heart",
       "levelAuthorName": "That_Narwhal",
       "hash": "F2CE1E7CBE7C629658F735C803CECEE7C56FF9D0",
@@ -1931,6 +2051,18 @@
       "levelAuthorName": "ETAN",
       "hash": "601F29BDEE0F10A29F1AD1520BD296930C7AD3D4",
       "levelid": "custom_level_601F29BDEE0F10A29F1AD1520BD296930C7AD3D4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "The Negative",
+      "levelAuthorName": "Bytrius",
+      "hash": "BE7097BDD283496D28C22A1D621F13B0CCD53C59",
+      "levelid": "custom_level_BE7097BDD283496D28C22A1D621F13B0CCD53C59",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -2539,6 +2671,30 @@
       ]
     },
     {
+      "songName": "DARE",
+      "levelAuthorName": "DeeDee",
+      "hash": "1634E2358E3ECCCCD16E0BAC6848380714C54CF7",
+      "levelid": "custom_level_1634E2358E3ECCCCD16E0BAC6848380714C54CF7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "SOS",
+      "levelAuthorName": "Jonas_0_0",
+      "hash": "2EA0DDEA38DDF294A7BD2D42C456C7070B645D5B",
+      "levelid": "custom_level_2EA0DDEA38DDF294A7BD2D42C456C7070B645D5B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "RELOADED",
       "levelAuthorName": "CoolingCloset",
       "hash": "701587CE2D1E502F8352C3CFD0627C1844B0FF0A",
@@ -2639,6 +2795,18 @@
       "levelAuthorName": "Dirty Alex & Zyxi",
       "hash": "D218DCA170DB77EB0B7AF20208C178678D5183FD",
       "levelid": "custom_level_D218DCA170DB77EB0B7AF20208C178678D5183FD",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Don't Need You",
+      "levelAuthorName": "oegoe",
+      "hash": "7145B6D7FD3E7635D3C85375706B33A7D303AC6C",
+      "levelid": "custom_level_7145B6D7FD3E7635D3C85375706B33A7D303AC6C",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -2971,6 +3139,18 @@
       ]
     },
     {
+      "songName": "VIVIDVELOCITY",
+      "levelAuthorName": "Specture7, JamPot13 & Nolanimations",
+      "hash": "27DFEDFADCA2F793F3497446344F227F58D4FA45",
+      "levelid": "custom_level_27DFEDFADCA2F793F3497446344F227F58D4FA45",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Uebok VIP",
       "levelAuthorName": "Fatalution",
       "hash": "0437938EE67F7D54D89B42D5DD23F4A01FEAD731",
@@ -3047,6 +3227,18 @@
       "levelAuthorName": "Specture7",
       "hash": "BB410D3F94FA930AE872BE66C3021CABBA052059",
       "levelid": "custom_level_BB410D3F94FA930AE872BE66C3021CABBA052059",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Mimi's Delivery Service",
+      "levelAuthorName": "Tranch",
+      "hash": "C1395AEEBCF035065446E2D77A0ADAB7AFB62C6C",
+      "levelid": "custom_level_C1395AEEBCF035065446E2D77A0ADAB7AFB62C6C",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -3271,6 +3463,18 @@
       ]
     },
     {
+      "songName": "What You Know",
+      "levelAuthorName": "Taddus",
+      "hash": "CF1C53499B3F238935B150FC781DF0C214E33CB1",
+      "levelid": "custom_level_CF1C53499B3F238935B150FC781DF0C214E33CB1",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Scratch",
       "levelAuthorName": "CyanSnow",
       "hash": "4DFAF66B4A2E78E1B87D7A83634EE322AFD270C5",
@@ -3351,6 +3555,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Oyasumi",
+      "levelAuthorName": "Alice",
+      "hash": "8B7FC7B898AECE2967690846DA7889048C0880FF",
+      "levelid": "custom_level_8B7FC7B898AECE2967690846DA7889048C0880FF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -3459,6 +3675,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Halo Theme Mjolnir Mix (ft. Steve Vai)",
+      "levelAuthorName": "SneakySpeckMan",
+      "hash": "D7DFEF5B0A2C0B2DBE1178812F56CA01DFC6BE68",
+      "levelid": "custom_level_D7DFEF5B0A2C0B2DBE1178812F56CA01DFC6BE68",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -3943,6 +4171,18 @@
       ]
     },
     {
+      "songName": "Solid Ground",
+      "levelAuthorName": "Phøenix",
+      "hash": "EA532620629CD6B2A0405B7A08CF4E80D8A688CF",
+      "levelid": "custom_level_EA532620629CD6B2A0405B7A08CF4E80D8A688CF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Oblivion",
       "levelAuthorName": "Timeweaver",
       "hash": "E799B25C9D5CBC6092B44CB97B4B83B45FD6B353",
@@ -4079,6 +4319,18 @@
       "levelAuthorName": "Timeweaver",
       "hash": "E26E222F25CE375CBB023DA1FB2E2D322D04F058",
       "levelid": "custom_level_E26E222F25CE375CBB023DA1FB2E2D322D04F058",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "from the sea, to the stars",
+      "levelAuthorName": "Phøenix & nasafrasa",
+      "hash": "33A53895A94A437F229E86F0CC3E67D8F8496CDE",
+      "levelid": "custom_level_33A53895A94A437F229E86F0CC3E67D8F8496CDE",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -4387,6 +4639,18 @@
       ]
     },
     {
+      "songName": "Tell Me You Know",
+      "levelAuthorName": "Tranch",
+      "hash": "78082B07E9B93388F62A9DF3480942DC866C5183",
+      "levelid": "custom_level_78082B07E9B93388F62A9DF3480942DC866C5183",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Like This",
       "levelAuthorName": "Timbo",
       "hash": "F80CD127C6CD01E8C3B57801CDE6BBFC9298BA24",
@@ -4455,6 +4719,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Los! Los! Los!",
+      "levelAuthorName": "CoolingCloset",
+      "hash": "F3BD378DFE91F4371B976493C95936878D65448E",
+      "levelid": "custom_level_F3BD378DFE91F4371B976493C95936878D65448E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
