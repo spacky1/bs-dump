@@ -499,18 +499,6 @@
       ]
     },
     {
-      "songName": "Senseless Massacre",
-      "levelAuthorName": "Astrella, Bitz & Slayx",
-      "hash": "AFCF9A14DAF7995D52EDAA8209684A1297CDFDD6",
-      "levelid": "custom_level_AFCF9A14DAF7995D52EDAA8209684A1297CDFDD6",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "ΩΩPARTS",
       "levelAuthorName": "Aimedhades16",
       "hash": "38522FF17E9FD5EFDD4FA6AEE0C1138533C9B428",
@@ -543,6 +531,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Senseless Massacre",
+      "levelAuthorName": "Astrella, Bitz & Slayx",
+      "hash": "AFCF9A14DAF7995D52EDAA8209684A1297CDFDD6",
+      "levelid": "custom_level_AFCF9A14DAF7995D52EDAA8209684A1297CDFDD6",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
