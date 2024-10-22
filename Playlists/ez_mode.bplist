@@ -571,18 +571,6 @@
       ]
     },
     {
-      "songName": "Boy's a liar Pt. 2",
-      "levelAuthorName": "August",
-      "hash": "BB94F7468BA91D80D5BD2FC915AA87AD7D6FD803",
-      "levelid": "custom_level_BB94F7468BA91D80D5BD2FC915AA87AD7D6FD803",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
-        }
-      ]
-    },
-    {
       "songName": "200cc",
       "levelAuthorName": "Spoekle & fqrb",
       "hash": "7F60329C289BC6D4BB683AB8F52A613ED6A225C1",
@@ -591,6 +579,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Boy's a liar Pt. 2",
+      "levelAuthorName": "August",
+      "hash": "BB94F7468BA91D80D5BD2FC915AA87AD7D6FD803",
+      "levelid": "custom_level_BB94F7468BA91D80D5BD2FC915AA87AD7D6FD803",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
