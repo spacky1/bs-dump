@@ -451,6 +451,18 @@
       ]
     },
     {
+      "songName": "Deathstalker",
+      "levelAuthorName": "TG90",
+      "hash": "ECC2C39E6203BF5BB46540B6455C647DCA26D8B2",
+      "levelid": "custom_level_ECC2C39E6203BF5BB46540B6455C647DCA26D8B2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Black Berserker",
       "levelAuthorName": "ZeCube",
       "hash": "DB4E316B1FF0FC39338A4A267DBF88C8E0BD2CE7",
@@ -911,6 +923,18 @@
       "levelAuthorName": "Jonas_0_0",
       "hash": "2EA0DDEA38DDF294A7BD2D42C456C7070B645D5B",
       "levelid": "custom_level_2EA0DDEA38DDF294A7BD2D42C456C7070B645D5B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Cream of the Crop",
+      "levelAuthorName": "symphonic",
+      "hash": "909454B5BD58686F66E4CA79BDF210B0E6C67D19",
+      "levelid": "custom_level_909454B5BD58686F66E4CA79BDF210B0E6C67D19",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1395,6 +1419,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Aien-Jihen",
+      "levelAuthorName": "Gabriel & take_nyan",
+      "hash": "D06BD638A1BBDBB907E4FE5FFA0F5E027E524C37",
+      "levelid": "custom_level_D06BD638A1BBDBB907E4FE5FFA0F5E027E524C37",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -2459,6 +2495,18 @@
       "levelAuthorName": "ThySpoon",
       "hash": "955B524CF6CA6AEDD0419398CC975153EEA0049B",
       "levelid": "custom_level_955B524CF6CA6AEDD0419398CC975153EEA0049B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "24K Magic",
+      "levelAuthorName": "ETAN",
+      "hash": "561E0971470069A49AA925DF7484282019E59C40",
+      "levelid": "custom_level_561E0971470069A49AA925DF7484282019E59C40",
       "difficulties": [
         {
           "characteristic": "Standard",
