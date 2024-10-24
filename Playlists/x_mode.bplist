@@ -19,6 +19,18 @@
       ]
     },
     {
+      "songName": "Emergency Curtain Call",
+      "levelAuthorName": "Nolanimations",
+      "hash": "ABB3E87850C15F9277EA5B3338D747EBF79D4D90",
+      "levelid": "custom_level_ABB3E87850C15F9277EA5B3338D747EBF79D4D90",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Gaviscon",
       "levelAuthorName": "fraies & Oddloop",
       "hash": "CBDB59BEA5F0A91CF9266A73E8CEC2FF4033DC1B",
@@ -227,6 +239,18 @@
       "levelAuthorName": "abcbadq",
       "hash": "C825450FEADA2737909B414D4E6F4B199C6CFE9A",
       "levelid": "custom_level_C825450FEADA2737909B414D4E6F4B199C6CFE9A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Agapitos",
+      "levelAuthorName": "Bitz & Lobster",
+      "hash": "0F2FAF0FCF94C609A61EAAFE9409A0A470F9D966",
+      "levelid": "custom_level_0F2FAF0FCF94C609A61EAAFE9409A0A470F9D966",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -455,6 +479,18 @@
       "levelAuthorName": "Aimedhades16 & Lobster",
       "hash": "657D3FB7D1D0BFDE96CAACFF43EBC4C7CE970DAD",
       "levelid": "custom_level_657D3FB7D1D0BFDE96CAACFF43EBC4C7CE970DAD",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "AμreoLe",
+      "levelAuthorName": "Irish vs. StellaSilverr",
+      "hash": "7B3A38A8F79F6BB17B236F7C534FA025AAFEB849",
+      "levelid": "custom_level_7B3A38A8F79F6BB17B236F7C534FA025AAFEB849",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -931,6 +967,18 @@
       ]
     },
     {
+      "songName": "Virus Funk",
+      "levelAuthorName": "GalaxyMaster",
+      "hash": "31B21B7EAA71EC4FFDFF5FAB66B8BA938A6E7060",
+      "levelid": "custom_level_31B21B7EAA71EC4FFDFF5FAB66B8BA938A6E7060",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Looking for Edge of Ground",
       "levelAuthorName": "GalaxyMaster",
       "hash": "30681DA193987FA5C2DD019091F525CB4CCE84FC",
@@ -1399,6 +1447,18 @@
       ]
     },
     {
+      "songName": "Absolute Psalm",
+      "levelAuthorName": "FatBeanzoop",
+      "hash": "144663E058ABAD780CBAF38F49CBD03C1EA47454",
+      "levelid": "custom_level_144663E058ABAD780CBAF38F49CBD03C1EA47454",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Kill Kill Kill Kill Kill",
       "levelAuthorName": "Helloiamdaan & cerret",
       "hash": "2F114018ABD0E2FABB43541A6E32BF6EF82DE0C0",
@@ -1759,6 +1819,18 @@
       ]
     },
     {
+      "songName": "Hoshikuzu Struck",
+      "levelAuthorName": "Joshabi",
+      "hash": "1D47953A0492547C6E04AABE6FB2EA78C5A6F87C",
+      "levelid": "custom_level_1D47953A0492547C6E04AABE6FB2EA78C5A6F87C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Metamorphose",
       "levelAuthorName": "Jabob",
       "hash": "C73978FBD4DA71C765F0538D676A979535012D8A",
@@ -1951,6 +2023,18 @@
       ]
     },
     {
+      "songName": "QZKago Requiem",
+      "levelAuthorName": "dibl",
+      "hash": "061FE366BDD20BF699E1A8CD818C9165534896E2",
+      "levelid": "custom_level_061FE366BDD20BF699E1A8CD818C9165534896E2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "You & DIE",
       "levelAuthorName": "AllPoland",
       "hash": "52D0566938F2C604DFC593DD9A6C4542B9DDDDE6",
@@ -2071,6 +2155,18 @@
       ]
     },
     {
+      "songName": "Mayonaka DanceHall!!!",
+      "levelAuthorName": "Vilawes & Risi",
+      "hash": "04ECA67F7DF4E277D188FA5D7B939F9146753160",
+      "levelid": "custom_level_04ECA67F7DF4E277D188FA5D7B939F9146753160",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Booths of Fighters",
       "levelAuthorName": "cerret",
       "hash": "45AF5EA168ADB36C83F2665E4FBCF3F600CB8842",
@@ -2091,6 +2187,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "LaμreLs",
+      "levelAuthorName": "Zana vs. yabje (feat. Anti)",
+      "hash": "DF260543DA266B254328ED4891B8BA8700F85177",
+      "levelid": "custom_level_DF260543DA266B254328ED4891B8BA8700F85177",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -3763,6 +3871,18 @@
       ]
     },
     {
+      "songName": "TOMBOY",
+      "levelAuthorName": "Jabob",
+      "hash": "31811050BCEE370C5B3BCD1382B350EAF78AED0F",
+      "levelid": "custom_level_31811050BCEE370C5B3BCD1382B350EAF78AED0F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Beyond Eternity",
       "levelAuthorName": "Timbo",
       "hash": "3751435792BEBC3901CF09ECFE434C095A6D81C1",
@@ -3827,6 +3947,18 @@
       "levelAuthorName": "Mawntee",
       "hash": "7A563A99DEE44A0F048FE063BD59F24B657C1432",
       "levelid": "custom_level_7A563A99DEE44A0F048FE063BD59F24B657C1432",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Reborn",
+      "levelAuthorName": "Joshabi",
+      "hash": "4A2955B26A27F7AB346D3BA5FA597FB25E890310",
+      "levelid": "custom_level_4A2955B26A27F7AB346D3BA5FA597FB25E890310",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -3971,6 +4103,18 @@
       "levelAuthorName": "Jabob",
       "hash": "79A292C681E2FFD3E4BE20F9F4ABD9296F710CA5",
       "levelid": "custom_level_79A292C681E2FFD3E4BE20F9F4ABD9296F710CA5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Going Under",
+      "levelAuthorName": "Helloiamdaan",
+      "hash": "54EC90BAA61446D370BDB923BC6BB4AD0767A437",
+      "levelid": "custom_level_54EC90BAA61446D370BDB923BC6BB4AD0767A437",
       "difficulties": [
         {
           "characteristic": "Standard",
