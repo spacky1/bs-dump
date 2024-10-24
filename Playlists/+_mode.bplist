@@ -537,8 +537,8 @@
     {
       "songName": "Senseless Massacre",
       "levelAuthorName": "Astrella, Bitz & Slayx",
-      "hash": "AFCF9A14DAF7995D52EDAA8209684A1297CDFDD6",
-      "levelid": "custom_level_AFCF9A14DAF7995D52EDAA8209684A1297CDFDD6",
+      "hash": "3BFFADD66FC693D70094B13E581B6EDEEB1FB093",
+      "levelid": "custom_level_3BFFADD66FC693D70094B13E581B6EDEEB1FB093",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1111,6 +1111,18 @@
       ]
     },
     {
+      "songName": "LaμreLs",
+      "levelAuthorName": "Zana vs. yabje (feat. Anti)",
+      "hash": "DF260543DA266B254328ED4891B8BA8700F85177",
+      "levelid": "custom_level_DF260543DA266B254328ED4891B8BA8700F85177",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "†:OLPHEUX:†",
       "levelAuthorName": "Purp1e & epicmoo34",
       "hash": "13A909B988B1246C2D52FDB25C775A62BFFA389E",
@@ -1175,6 +1187,18 @@
       "levelAuthorName": "Aquaflee, Floatyoats & Tranch",
       "hash": "BF7FAD241DB7752F32F98A0DAF4CF573F52714F1",
       "levelid": "custom_level_BF7FAD241DB7752F32F98A0DAF4CF573F52714F1",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Diastrophism",
+      "levelAuthorName": "RetrX",
+      "hash": "73014F7AA4587359C13C51E3CE9A7BF5BF22FCB6",
+      "levelid": "custom_level_73014F7AA4587359C13C51E3CE9A7BF5BF22FCB6",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1859,6 +1883,18 @@
       "levelAuthorName": "Petersome",
       "hash": "B87D25D052EE59CABBA86B45ACD42C10B957844F",
       "levelid": "custom_level_B87D25D052EE59CABBA86B45ACD42C10B957844F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Virus Funk",
+      "levelAuthorName": "CoolingCloset & Potassium 737",
+      "hash": "E48480C2B95AF55ADB3FA8DA7D3E31776A943B32",
+      "levelid": "custom_level_E48480C2B95AF55ADB3FA8DA7D3E31776A943B32",
       "difficulties": [
         {
           "characteristic": "Standard",
