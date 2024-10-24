@@ -7,6 +7,18 @@
   },
   "songs": [
     {
+      "songName": "Everlasting Eternity",
+      "levelAuthorName": "BSWC Team",
+      "hash": "250E42BF6A715BF60A9852D3B68DB778668B13C2",
+      "levelid": "custom_level_250E42BF6A715BF60A9852D3B68DB778668B13C2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
       "songName": "Spin Eternally",
       "levelAuthorName": "fraies & Narwhal",
       "hash": "417E413D6227F556BBFC3A6B73C32CFB11AFE9E7",
@@ -519,6 +531,30 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Lied To",
+      "levelAuthorName": "oegoe",
+      "hash": "64606CE394718815DEECD696737EA1AEE40E8CF4",
+      "levelid": "custom_level_64606CE394718815DEECD696737EA1AEE40E8CF4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "American Love",
+      "levelAuthorName": "Viking & Taddus",
+      "hash": "8BB5558B564FFF6B690A415CEBBDA330E5BF61F5",
+      "levelid": "custom_level_8BB5558B564FFF6B690A415CEBBDA330E5BF61F5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -1255,6 +1291,18 @@
       ]
     },
     {
+      "songName": "chihiro",
+      "levelAuthorName": "Kassi & Taddus",
+      "hash": "FA4A78637C21CD5EC3AFAF6675FB52BC1C816512",
+      "levelid": "custom_level_FA4A78637C21CD5EC3AFAF6675FB52BC1C816512",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Hentai",
       "levelAuthorName": "Alice",
       "hash": "9A85926A2E47F6FD8CF8A0DE58354CAF5FA19DEE",
@@ -1711,6 +1759,18 @@
       ]
     },
     {
+      "songName": "Whisper Whisper Whisper",
+      "levelAuthorName": "Tranch",
+      "hash": "BBF6FF0B8C75887565C6E749654E864D2EAD6E7E",
+      "levelid": "custom_level_BBF6FF0B8C75887565C6E749654E864D2EAD6E7E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Angels",
       "levelAuthorName": "Alice.FIT",
       "hash": "FBFB16FF8AA1E991222ECC71B54C75054919F88C",
@@ -1775,6 +1835,18 @@
       "levelAuthorName": "Spinvvy",
       "hash": "D409F11A72ECC58CA8552E08076831374479FDB7",
       "levelid": "custom_level_D409F11A72ECC58CA8552E08076831374479FDB7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "INFECTED",
+      "levelAuthorName": "Joshabi",
+      "hash": "1D2680EA564D7AB2393280ACC77FDCB24CA6AB1A",
+      "levelid": "custom_level_1D2680EA564D7AB2393280ACC77FDCB24CA6AB1A",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1931,6 +2003,18 @@
       "levelAuthorName": "MadChase, Joshabi",
       "hash": "2CF8F671BF714E04382032A6E97A9003F420529F",
       "levelid": "custom_level_2CF8F671BF714E04382032A6E97A9003F420529F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Too Much",
+      "levelAuthorName": "Taddus",
+      "hash": "D210D7F22E5F15079CEC51C2E1459A7706DA083B",
+      "levelid": "custom_level_D210D7F22E5F15079CEC51C2E1459A7706DA083B",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -2659,6 +2743,18 @@
       ]
     },
     {
+      "songName": "Last Man In The World",
+      "levelAuthorName": "RFCaps",
+      "hash": "0D8C1DCC0FC3D98EFCDF3C52DF968369F9AD6534",
+      "levelid": "custom_level_0D8C1DCC0FC3D98EFCDF3C52DF968369F9AD6534",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "IDGAF",
       "levelAuthorName": "Faded 99",
       "hash": "411D35F570E99D349052C1CCF2574377D399819E",
@@ -2691,6 +2787,30 @@
         {
           "characteristic": "Standard",
           "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "TOMBOY",
+      "levelAuthorName": "Jabob",
+      "hash": "31811050BCEE370C5B3BCD1382B350EAF78AED0F",
+      "levelid": "custom_level_31811050BCEE370C5B3BCD1382B350EAF78AED0F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Easy"
+        }
+      ]
+    },
+    {
+      "songName": "Bass To The Dome",
+      "levelAuthorName": "Avexus & Rxerti",
+      "hash": "F8F43616781E55A889E1018E62814554A14DC845",
+      "levelid": "custom_level_F8F43616781E55A889E1018E62814554A14DC845",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -2843,6 +2963,18 @@
       "levelAuthorName": "GojiCrafter",
       "hash": "4C44E1A9C0B17962749EC4B745634BB652199C60",
       "levelid": "custom_level_4C44E1A9C0B17962749EC4B745634BB652199C60",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Letter in a Suitcase",
+      "levelAuthorName": "fqrb",
+      "hash": "66C89DA7EEC0D6617145B8DC96BED4C2144EF3C9",
+      "levelid": "custom_level_66C89DA7EEC0D6617145B8DC96BED4C2144EF3C9",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -3007,6 +3139,18 @@
       ]
     },
     {
+      "songName": "Osmosis",
+      "levelAuthorName": "fqrb",
+      "hash": "AFCF534D1F7D45EDAF5ABD0DF3F17E5B4B883B60",
+      "levelid": "custom_level_AFCF534D1F7D45EDAF5ABD0DF3F17E5B4B883B60",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
       "songName": "Moonlight",
       "levelAuthorName": "Elecast",
       "hash": "A2879A60F2855EDBC9ADCB3476EAA9649A254706",
@@ -3047,6 +3191,18 @@
       "levelAuthorName": "Undeceiver",
       "hash": "4B6C9BA4E391967427AF8B17C2AC18B329748ED7",
       "levelid": "custom_level_4B6C9BA4E391967427AF8B17C2AC18B329748ED7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Hot Mess",
+      "levelAuthorName": "Kassi",
+      "hash": "F8B3D6AF007172597B98E8244BF089C4F0BA3EE1",
+      "levelid": "custom_level_F8B3D6AF007172597B98E8244BF089C4F0BA3EE1",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -3191,6 +3347,18 @@
       "levelAuthorName": "ETAN",
       "hash": "D7CB32F23041DEC272DE3DA0AC141DD8F91478CA",
       "levelid": "custom_level_D7CB32F23041DEC272DE3DA0AC141DD8F91478CA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "late",
+      "levelAuthorName": "nolan121405",
+      "hash": "2A8A3BC41AA3C17EB764599F19E8D3B535741B30",
+      "levelid": "custom_level_2A8A3BC41AA3C17EB764599F19E8D3B535741B30",
       "difficulties": [
         {
           "characteristic": "Standard",
