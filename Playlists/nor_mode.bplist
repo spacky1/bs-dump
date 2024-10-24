@@ -235,6 +235,18 @@
       ]
     },
     {
+      "songName": "Emergency Curtain Call",
+      "levelAuthorName": "Alice",
+      "hash": "CB967CF49D91A51EC7C0E5077F6FAC0DF87874D1",
+      "levelid": "custom_level_CB967CF49D91A51EC7C0E5077F6FAC0DF87874D1",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Eviternity",
       "levelAuthorName": "sofmoh",
       "hash": "EB0B6B8CC71A7B232467D4D9F613040257CBE127",
@@ -243,6 +255,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Agapitos",
+      "levelAuthorName": "Bitz & Lobster",
+      "hash": "0F2FAF0FCF94C609A61EAAFE9409A0A470F9D966",
+      "levelid": "custom_level_0F2FAF0FCF94C609A61EAAFE9409A0A470F9D966",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -495,6 +519,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Everlasting Eternity",
+      "levelAuthorName": "BSWC Team",
+      "hash": "250E42BF6A715BF60A9852D3B68DB778668B13C2",
+      "levelid": "custom_level_250E42BF6A715BF60A9852D3B68DB778668B13C2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -1627,6 +1663,18 @@
       ]
     },
     {
+      "songName": "Whisper Whisper Whisper",
+      "levelAuthorName": "Tranch",
+      "hash": "BBF6FF0B8C75887565C6E749654E864D2EAD6E7E",
+      "levelid": "custom_level_BBF6FF0B8C75887565C6E749654E864D2EAD6E7E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "『82.99 F.M』",
       "levelAuthorName": "P90KILLR",
       "hash": "E1DE8922FE8BAD53E80912EF20ED2CF977A1DC64",
@@ -2227,6 +2275,18 @@
       ]
     },
     {
+      "songName": "Lied To",
+      "levelAuthorName": "oegoe",
+      "hash": "64606CE394718815DEECD696737EA1AEE40E8CF4",
+      "levelid": "custom_level_64606CE394718815DEECD696737EA1AEE40E8CF4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Furachi na Kassai",
       "levelAuthorName": "ThySpoon",
       "hash": "1F6E5A3A930038ED7A11410752D871316FFD8728",
@@ -2515,6 +2575,18 @@
       ]
     },
     {
+      "songName": "late",
+      "levelAuthorName": "nolan121405",
+      "hash": "2A8A3BC41AA3C17EB764599F19E8D3B535741B30",
+      "levelid": "custom_level_2A8A3BC41AA3C17EB764599F19E8D3B535741B30",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Summer Grass, a Shadow Silhouette of the Passing Days",
       "levelAuthorName": "XAce1337manX",
       "hash": "52B916DB712619D2294D22D660A0DF63059F6C64",
@@ -2619,6 +2691,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "American Love",
+      "levelAuthorName": "Viking & Taddus",
+      "hash": "8BB5558B564FFF6B690A415CEBBDA330E5BF61F5",
+      "levelid": "custom_level_8BB5558B564FFF6B690A415CEBBDA330E5BF61F5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -3427,6 +3511,18 @@
       ]
     },
     {
+      "songName": "TOMBOY",
+      "levelAuthorName": "Jabob",
+      "hash": "31811050BCEE370C5B3BCD1382B350EAF78AED0F",
+      "levelid": "custom_level_31811050BCEE370C5B3BCD1382B350EAF78AED0F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "ARTIFICIAL SUICIDE",
       "levelAuthorName": "Bytrius",
       "hash": "3120062F27E3ADD97D500A28F07FFC3957857499",
@@ -3871,6 +3967,18 @@
       ]
     },
     {
+      "songName": "Last Man In The World",
+      "levelAuthorName": "RFCaps",
+      "hash": "0D8C1DCC0FC3D98EFCDF3C52DF968369F9AD6534",
+      "levelid": "custom_level_0D8C1DCC0FC3D98EFCDF3C52DF968369F9AD6534",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "It's All On You",
       "levelAuthorName": "Timbo",
       "hash": "23EEED080937DD3740EB401B79D2664D95299756",
@@ -3939,6 +4047,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "The Impaler",
+      "levelAuthorName": "Axsparta & Rail Zen",
+      "hash": "D332080FEAC992748459CCC9D101DFFFAA5D0182",
+      "levelid": "custom_level_D332080FEAC992748459CCC9D101DFFFAA5D0182",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -4099,6 +4219,18 @@
       ]
     },
     {
+      "songName": "Too Much",
+      "levelAuthorName": "Taddus",
+      "hash": "D210D7F22E5F15079CEC51C2E1459A7706DA083B",
+      "levelid": "custom_level_D210D7F22E5F15079CEC51C2E1459A7706DA083B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Cut The Line",
       "levelAuthorName": "Bytrius",
       "hash": "D1F22DE9543FF958C4B62D1AC152477492AB9584",
@@ -4203,6 +4335,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "INFECTED",
+      "levelAuthorName": "Joshabi",
+      "hash": "1D2680EA564D7AB2393280ACC77FDCB24CA6AB1A",
+      "levelid": "custom_level_1D2680EA564D7AB2393280ACC77FDCB24CA6AB1A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -4891,6 +5035,18 @@
       ]
     },
     {
+      "songName": "Bass To The Dome",
+      "levelAuthorName": "Avexus & Rxerti",
+      "hash": "F8F43616781E55A889E1018E62814554A14DC845",
+      "levelid": "custom_level_F8F43616781E55A889E1018E62814554A14DC845",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Antithesis",
       "levelAuthorName": "EOP Glacier",
       "hash": "E370C49C81AC28F2BF58160A03AA48355E016F89",
@@ -5339,6 +5495,18 @@
       "levelAuthorName": "Bearly",
       "hash": "51E480B3E6DD15D7CDB1420D95D9701D99B9F0DC",
       "levelid": "custom_level_51E480B3E6DD15D7CDB1420D95D9701D99B9F0DC",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Hot Mess",
+      "levelAuthorName": "Kassi",
+      "hash": "F8B3D6AF007172597B98E8244BF089C4F0BA3EE1",
+      "levelid": "custom_level_F8B3D6AF007172597B98E8244BF089C4F0BA3EE1",
       "difficulties": [
         {
           "characteristic": "Standard",
