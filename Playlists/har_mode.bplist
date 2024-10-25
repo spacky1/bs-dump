@@ -439,6 +439,18 @@
       ]
     },
     {
+      "songName": "Futa Generation",
+      "levelAuthorName": "Joetastic & Rune",
+      "hash": "7034B8598170B347BFE3337EE3D9121EA0DE7DB4",
+      "levelid": "custom_level_7034B8598170B347BFE3337EE3D9121EA0DE7DB4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Go Insane",
       "levelAuthorName": "Helloiamdaan & miitchel",
       "hash": "ABE3086C23BA2C8F7C92620F8B612C576768E295",
@@ -1007,6 +1019,18 @@
       "levelAuthorName": "Spoekle & yabje",
       "hash": "4D03502003602E8E8F0D9F8C84A3E70DA0C389F6",
       "levelid": "custom_level_4D03502003602E8E8F0D9F8C84A3E70DA0C389F6",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "White Lie",
+      "levelAuthorName": "AllPoland & Phøenix",
+      "hash": "784937F16DA83C258A0AB12299031CD4B8BB5941",
+      "levelid": "custom_level_784937F16DA83C258A0AB12299031CD4B8BB5941",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1615,6 +1639,18 @@
       ]
     },
     {
+      "songName": "Bug",
+      "levelAuthorName": "Aalto & TOFU",
+      "hash": "293F545CAC4ECCF01F176E2E4885861351A3404C",
+      "levelid": "custom_level_293F545CAC4ECCF01F176E2E4885861351A3404C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Our Generation",
       "levelAuthorName": "nolan121405",
       "hash": "97DEDD1BAC6383E6D299FAA9454A530C02C233BB",
@@ -1851,6 +1887,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Onus Rēgulus",
+      "levelAuthorName": "Azurii & CMP1111",
+      "hash": "88E7C2EEF1CE8EAD2AAC60F743F6DF99BE7C890E",
+      "levelid": "custom_level_88E7C2EEF1CE8EAD2AAC60F743F6DF99BE7C890E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -2803,6 +2851,18 @@
       ]
     },
     {
+      "songName": "Vibetribe After Dark (Remaster) ",
+      "levelAuthorName": "Joetastic & Timbo",
+      "hash": "366150F9D71A733893628254FB67B4292DECFA2D",
+      "levelid": "custom_level_366150F9D71A733893628254FB67B4292DECFA2D",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Light It Up",
       "levelAuthorName": "cat_using_a_toaster",
       "hash": "9055198167622A1BAE4F58C5E2F3F093F98A264C",
@@ -3295,6 +3355,18 @@
       ]
     },
     {
+      "songName": "THE LAUNCH OF THE MEGANTO METEOR",
+      "levelAuthorName": "Kuurama & miitchel & ExUnReal",
+      "hash": "8B0954E826D02175872F9D80BF8BB96DE5A1B227",
+      "levelid": "custom_level_8B0954E826D02175872F9D80BF8BB96DE5A1B227",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Phalanx",
       "levelAuthorName": "Timbo",
       "hash": "994AB1B532176E158D0AD095CD7A97398A8C53E0",
@@ -3403,6 +3475,18 @@
       ]
     },
     {
+      "songName": "Heavy Heart",
+      "levelAuthorName": "EerieWolf, Avexus, BanditByTheStreet",
+      "hash": "3F31B1A53EA45DFBFB70EB4E05F9A3EFFFEF71CB",
+      "levelid": "custom_level_3F31B1A53EA45DFBFB70EB4E05F9A3EFFFEF71CB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Feelin Sky",
       "levelAuthorName": "RetrX",
       "hash": "A6A8B44D26B06FEEFCD67AAF18F02E357ACDB207",
@@ -3455,6 +3539,18 @@
       "levelAuthorName": "Tranch & Olbma",
       "hash": "69D98591CB4766BD0C862ADA350ED30218DDB554",
       "levelid": "custom_level_69D98591CB4766BD0C862ADA350ED30218DDB554",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "The Siren Song",
+      "levelAuthorName": "Swifter",
+      "hash": "0034210D2A550CBC30BBB9D45F22348C0D8EE27C",
+      "levelid": "custom_level_0034210D2A550CBC30BBB9D45F22348C0D8EE27C",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -4375,6 +4471,18 @@
       ]
     },
     {
+      "songName": "buggin'",
+      "levelAuthorName": "Freaky Mapping",
+      "hash": "65417275CDE54B6F0E8A63A1915969A6107BD1AC",
+      "levelid": "custom_level_65417275CDE54B6F0E8A63A1915969A6107BD1AC",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Night sky",
       "levelAuthorName": "ThySpoon",
       "hash": "7ED394398E2493C9349F1A9702FB5D8E6988F290",
@@ -4999,6 +5107,18 @@
       ]
     },
     {
+      "songName": "YoiYoi Kokon",
+      "levelAuthorName": "FireStrike & AaltopahWi",
+      "hash": "D4B4C6943704D1A80C2A2700E7585A537F106942",
+      "levelid": "custom_level_D4B4C6943704D1A80C2A2700E7585A537F106942",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Additional Memory",
       "levelAuthorName": "Joshabi",
       "hash": "699BE1D240CC0E814812B000FA2444E2B0165469",
@@ -5303,6 +5423,18 @@
       "levelAuthorName": "Fatalution",
       "hash": "0437938EE67F7D54D89B42D5DD23F4A01FEAD731",
       "levelid": "custom_level_0437938EE67F7D54D89B42D5DD23F4A01FEAD731",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Harbinger",
+      "levelAuthorName": "Swifter",
+      "hash": "58318F06C0E9A5154FC73FCBDDC0776D094BD438",
+      "levelid": "custom_level_58318F06C0E9A5154FC73FCBDDC0776D094BD438",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -6103,6 +6235,18 @@
       ]
     },
     {
+      "songName": "Headspace",
+      "levelAuthorName": "Avexus & Spinvvy",
+      "hash": "FEC190D30E9E900F5F1AB11806A55B9A67CB16B3",
+      "levelid": "custom_level_FEC190D30E9E900F5F1AB11806A55B9A67CB16B3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Data Loss",
       "levelAuthorName": "Various Mappers",
       "hash": "CB66E9BA0738C47EC61E82445CC120F1610C7DD1",
@@ -6327,6 +6471,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "come thru",
+      "levelAuthorName": "Kansas, Phøenix",
+      "hash": "BDA1004619FE4C05C9E45F522343BAECB6BD3B56",
+      "levelid": "custom_level_BDA1004619FE4C05C9E45F522343BAECB6BD3B56",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
