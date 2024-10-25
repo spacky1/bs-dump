@@ -283,6 +283,18 @@
       ]
     },
     {
+      "songName": "99.9",
+      "levelAuthorName": "Soggynan & Anammelech",
+      "hash": "C45AF3E5AF3351454F23C4B9EEFF76A2D1D293F8",
+      "levelid": "custom_level_C45AF3E5AF3351454F23C4B9EEFF76A2D1D293F8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "†:OLPHEUX:†",
       "levelAuthorName": "Purp1e",
       "hash": "328657EC27FC70C77E6C5428A55D326EBCAC3B16",
@@ -611,6 +623,18 @@
       "levelAuthorName": "Specture7",
       "hash": "88698181B846DBE9FB964489AB86E704969254AB",
       "levelid": "custom_level_88698181B846DBE9FB964489AB86E704969254AB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Onus Rēgulus",
+      "levelAuthorName": "Azurii & CMP1111",
+      "hash": "88E7C2EEF1CE8EAD2AAC60F743F6DF99BE7C890E",
+      "levelid": "custom_level_88E7C2EEF1CE8EAD2AAC60F743F6DF99BE7C890E",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -3883,6 +3907,18 @@
       ]
     },
     {
+      "songName": "Attracted To You",
+      "levelAuthorName": "voltage4536",
+      "hash": "4E0C05DEF0E477DE994807C2F6A080C8C7EEE2A7",
+      "levelid": "custom_level_4E0C05DEF0E477DE994807C2F6A080C8C7EEE2A7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Beyond Eternity",
       "levelAuthorName": "Timbo",
       "hash": "3751435792BEBC3901CF09ECFE434C095A6D81C1",
@@ -4015,6 +4051,18 @@
       ]
     },
     {
+      "songName": "THE LAUNCH OF THE MEGANTO METEOR",
+      "levelAuthorName": "Kuurama & miitchel & ExUnReal",
+      "hash": "8B0954E826D02175872F9D80BF8BB96DE5A1B227",
+      "levelid": "custom_level_8B0954E826D02175872F9D80BF8BB96DE5A1B227",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "S.N.U.F.F.Y",
       "levelAuthorName": "oermergeesh",
       "hash": "1CE0CE4CCF751E6BB67FBA274B43378E7947B780",
@@ -4063,6 +4111,18 @@
       ]
     },
     {
+      "songName": "Hysteric Night Girl",
+      "levelAuthorName": "Eckimlon",
+      "hash": "6A391C7C0289ED901E169EEB08CD2735C3B6B99D",
+      "levelid": "custom_level_6A391C7C0289ED901E169EEB08CD2735C3B6B99D",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "We Magicians Still Alive in 2021",
       "levelAuthorName": "Shan_Man & Bitz",
       "hash": "914086D2DB5EFA80EFA7EEC6735DE627ABC55777",
@@ -4095,6 +4155,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "come thru",
+      "levelAuthorName": "Kansas, Phøenix",
+      "hash": "BDA1004619FE4C05C9E45F522343BAECB6BD3B56",
+      "levelid": "custom_level_BDA1004619FE4C05C9E45F522343BAECB6BD3B56",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
