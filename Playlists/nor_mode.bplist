@@ -1195,6 +1195,18 @@
       ]
     },
     {
+      "songName": "99.9",
+      "levelAuthorName": "Soggynan & Anammelech",
+      "hash": "C45AF3E5AF3351454F23C4B9EEFF76A2D1D293F8",
+      "levelid": "custom_level_C45AF3E5AF3351454F23C4B9EEFF76A2D1D293F8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
       "songName": "We Magicians Still Alive In 2021",
       "levelAuthorName": "Joshabi",
       "hash": "64F562E56BB52D908C254F31273FF1DF29AD4DD7",
@@ -1795,6 +1807,18 @@
       ]
     },
     {
+      "songName": "Heavy Heart",
+      "levelAuthorName": "EerieWolf, Avexus, BanditByTheStreet",
+      "hash": "3F31B1A53EA45DFBFB70EB4E05F9A3EFFFEF71CB",
+      "levelid": "custom_level_3F31B1A53EA45DFBFB70EB4E05F9A3EFFFEF71CB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Aegleseeker",
       "levelAuthorName": "Aimedhades16 & Bitz",
       "hash": "7FFC6CD2419E896545D131C31BB8FEE96C9DA9D9",
@@ -2179,6 +2203,18 @@
       ]
     },
     {
+      "songName": "Chicago",
+      "levelAuthorName": "fqrb",
+      "hash": "97DF03B26D2384A6E6EC8409534A4A0E369E6DBA",
+      "levelid": "custom_level_97DF03B26D2384A6E6EC8409534A4A0E369E6DBA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Somewhere Out There",
       "levelAuthorName": "Swifter, Mawntee, Reddek",
       "hash": "448D219117992026EB23C98DC920CE73A912F289",
@@ -2551,6 +2587,18 @@
       ]
     },
     {
+      "songName": "White Lie",
+      "levelAuthorName": "AllPoland & Phøenix",
+      "hash": "784937F16DA83C258A0AB12299031CD4B8BB5941",
+      "levelid": "custom_level_784937F16DA83C258A0AB12299031CD4B8BB5941",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Kingslayer",
       "levelAuthorName": "muffn & altrewin",
       "hash": "A949BB798E16A81092E54A38B78EB1375F06E49F",
@@ -2811,6 +2859,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "YoiYoi Kokon",
+      "levelAuthorName": "FireStrike & AaltopahWi",
+      "hash": "D4B4C6943704D1A80C2A2700E7585A537F106942",
+      "levelid": "custom_level_D4B4C6943704D1A80C2A2700E7585A537F106942",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -3115,6 +3175,18 @@
       ]
     },
     {
+      "songName": "Toxic",
+      "levelAuthorName": "CMP1111",
+      "hash": "5E268171AAFDAAC873030E1FC37DACAA0A1AA8AA",
+      "levelid": "custom_level_5E268171AAFDAAC873030E1FC37DACAA0A1AA8AA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "My War",
       "levelAuthorName": "Alice",
       "hash": "7DF05BEEBE378E3202E6DB2C2EE975A111924F62",
@@ -3379,6 +3451,18 @@
       ]
     },
     {
+      "songName": "Attracted To You",
+      "levelAuthorName": "voltage4536",
+      "hash": "4E0C05DEF0E477DE994807C2F6A080C8C7EEE2A7",
+      "levelid": "custom_level_4E0C05DEF0E477DE994807C2F6A080C8C7EEE2A7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Strawberry's Wake",
       "levelAuthorName": "Bytrius",
       "hash": "6518C8D32C6659A74CB72237873340D8F55C99F3",
@@ -3399,6 +3483,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Heliov",
+      "levelAuthorName": "Swifter",
+      "hash": "FAFE6BA32A83D93B910AF7529D0F84B93F7F4CC1",
+      "levelid": "custom_level_FAFE6BA32A83D93B910AF7529D0F84B93F7F4CC1",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -3703,6 +3799,18 @@
       ]
     },
     {
+      "songName": "People Allergy",
+      "levelAuthorName": "AaltopahWi",
+      "hash": "0C8EDD654155F72BE7F83AECF4E9C67BE64C07C2",
+      "levelid": "custom_level_0C8EDD654155F72BE7F83AECF4E9C67BE64C07C2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "When The Summer Dies",
       "levelAuthorName": "Timeweaver",
       "hash": "5712F359D333270FD1FCB1D124A7580F554EADF6",
@@ -3939,6 +4047,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "High Tide",
+      "levelAuthorName": "shad & AaltopahWi",
+      "hash": "F60BF9CE1FA18B474472A1102EEE916CAA4DFADB",
+      "levelid": "custom_level_F60BF9CE1FA18B474472A1102EEE916CAA4DFADB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -4927,6 +5047,18 @@
       ]
     },
     {
+      "songName": "Headspace",
+      "levelAuthorName": "Avexus & Spinvvy",
+      "hash": "FEC190D30E9E900F5F1AB11806A55B9A67CB16B3",
+      "levelid": "custom_level_FEC190D30E9E900F5F1AB11806A55B9A67CB16B3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "dashstar*",
       "levelAuthorName": "Phøenix & Timeweaver",
       "hash": "EEA403CA0F125633B4E2A22E1DDEAB016A7051A0",
@@ -5155,6 +5287,18 @@
       ]
     },
     {
+      "songName": "Harbinger",
+      "levelAuthorName": "Swifter",
+      "hash": "58318F06C0E9A5154FC73FCBDDC0776D094BD438",
+      "levelid": "custom_level_58318F06C0E9A5154FC73FCBDDC0776D094BD438",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Nerdy",
       "levelAuthorName": "tocxx",
       "hash": "53D63590F2D3E6148B1DB14D5C63ACDC411149E4",
@@ -5183,6 +5327,18 @@
       "levelAuthorName": "nolan121405 & Fatalution",
       "hash": "7653789A0B421DC634FE6446B4880FED90EEEC14",
       "levelid": "custom_level_7653789A0B421DC634FE6446B4880FED90EEEC14",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Burn",
+      "levelAuthorName": "HypersonicSharkz & Pleast",
+      "hash": "3F7932E4F4B4D126901DAABE26F0A37D9F81CAFA",
+      "levelid": "custom_level_3F7932E4F4B4D126901DAABE26F0A37D9F81CAFA",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -5511,6 +5667,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "come thru",
+      "levelAuthorName": "Kansas, Phøenix",
+      "hash": "BDA1004619FE4C05C9E45F522343BAECB6BD3B56",
+      "levelid": "custom_level_BDA1004619FE4C05C9E45F522343BAECB6BD3B56",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
