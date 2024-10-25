@@ -319,6 +319,18 @@
       ]
     },
     {
+      "songName": "YoiYoi Kokon",
+      "levelAuthorName": "FireStrike & AaltopahWi",
+      "hash": "D4B4C6943704D1A80C2A2700E7585A537F106942",
+      "levelid": "custom_level_D4B4C6943704D1A80C2A2700E7585A537F106942",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "You Right",
       "levelAuthorName": "Johnny Silverhams",
       "hash": "79087C43E2A4A1860C3E40CA87A5505B7C2F35FD",
@@ -327,6 +339,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "White Lie",
+      "levelAuthorName": "AllPoland & Phøenix",
+      "hash": "784937F16DA83C258A0AB12299031CD4B8BB5941",
+      "levelid": "custom_level_784937F16DA83C258A0AB12299031CD4B8BB5941",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -1303,6 +1327,30 @@
       ]
     },
     {
+      "songName": "this is what losing someone feels like",
+      "levelAuthorName": "ben",
+      "hash": "2526DF94F029EFC69FD6B53A118E5C506097F618",
+      "levelid": "custom_level_2526DF94F029EFC69FD6B53A118E5C506097F618",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "People Allergy",
+      "levelAuthorName": "AaltopahWi",
+      "hash": "0C8EDD654155F72BE7F83AECF4E9C67BE64C07C2",
+      "levelid": "custom_level_0C8EDD654155F72BE7F83AECF4E9C67BE64C07C2",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Hentai",
       "levelAuthorName": "Alice",
       "hash": "9A85926A2E47F6FD8CF8A0DE58354CAF5FA19DEE",
@@ -1319,6 +1367,18 @@
       "levelAuthorName": "CyanSnow",
       "hash": "6B571C3594426B088E73FDB12C1E81DDB9076631",
       "levelid": "custom_level_6B571C3594426B088E73FDB12C1E81DDB9076631",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Harbinger",
+      "levelAuthorName": "Swifter",
+      "hash": "58318F06C0E9A5154FC73FCBDDC0776D094BD438",
+      "levelid": "custom_level_58318F06C0E9A5154FC73FCBDDC0776D094BD438",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1551,6 +1611,30 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Apologize",
+      "levelAuthorName": "RateGyro & Phøenix",
+      "hash": "5EC6C0E37A7C0710D88261AA77093CE986255454",
+      "levelid": "custom_level_5EC6C0E37A7C0710D88261AA77093CE986255454",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Headspace",
+      "levelAuthorName": "Avexus & Spinvvy",
+      "hash": "FEC190D30E9E900F5F1AB11806A55B9A67CB16B3",
+      "levelid": "custom_level_FEC190D30E9E900F5F1AB11806A55B9A67CB16B3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
         }
       ]
     },
@@ -1795,6 +1879,18 @@
       ]
     },
     {
+      "songName": "Toxic",
+      "levelAuthorName": "CMP1111",
+      "hash": "5E268171AAFDAAC873030E1FC37DACAA0A1AA8AA",
+      "levelid": "custom_level_5E268171AAFDAAC873030E1FC37DACAA0A1AA8AA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "I Don't Know Why",
       "levelAuthorName": "General Dumbass",
       "hash": "1CAE07B3690493E0989E57F782890688D63EC152",
@@ -1983,6 +2079,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "this is what falling out of love feels like",
+      "levelAuthorName": "ben",
+      "hash": "FE00FF5BA9F5947CDFAE5E8EF4B8420412BBE97D",
+      "levelid": "custom_level_FE00FF5BA9F5947CDFAE5E8EF4B8420412BBE97D",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -2335,6 +2443,18 @@
       ]
     },
     {
+      "songName": "this is what falling in love feels like",
+      "levelAuthorName": "ben",
+      "hash": "364B5B76F6996AA05C0742330FEBD6831332B46D",
+      "levelid": "custom_level_364B5B76F6996AA05C0742330FEBD6831332B46D",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Baptize",
       "levelAuthorName": "Dirty Alex & SmokeyBacon",
       "hash": "7BBF24A965C2B950EB9CBB381EAE9C2C34E008C2",
@@ -2343,6 +2463,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Chicago",
+      "levelAuthorName": "fqrb",
+      "hash": "97DF03B26D2384A6E6EC8409534A4A0E369E6DBA",
+      "levelid": "custom_level_97DF03B26D2384A6E6EC8409534A4A0E369E6DBA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -2855,6 +2987,18 @@
       "levelAuthorName": "shad",
       "hash": "F3B9882864162A1CD7CCFCF96C1D2AB257FEADBF",
       "levelid": "custom_level_F3B9882864162A1CD7CCFCF96C1D2AB257FEADBF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "High Tide",
+      "levelAuthorName": "shad & AaltopahWi",
+      "hash": "F60BF9CE1FA18B474472A1102EEE916CAA4DFADB",
+      "levelid": "custom_level_F60BF9CE1FA18B474472A1102EEE916CAA4DFADB",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -3387,6 +3531,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Run",
+      "levelAuthorName": "Johnny Silverhams",
+      "hash": "12AFB257A43D0439C89236D366F67F50C18AA0F4",
+      "levelid": "custom_level_12AFB257A43D0439C89236D366F67F50C18AA0F4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
