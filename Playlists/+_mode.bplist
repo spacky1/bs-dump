@@ -139,6 +139,18 @@
       ]
     },
     {
+      "songName": "99.9",
+      "levelAuthorName": "epicmoo34",
+      "hash": "56ED203402FA18656E5DBBA4349296D7649D34D9",
+      "levelid": "custom_level_56ED203402FA18656E5DBBA4349296D7649D34D9",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "DESTRUCTION 3,2,1",
       "levelAuthorName": "Helloiamdaan, Bitz & Aquaflee",
       "hash": "48098A896C712252CB4A47B3253A10661DE58D4F",
@@ -499,6 +511,18 @@
       ]
     },
     {
+      "songName": "Quáx Quálv",
+      "levelAuthorName": "Aimedhades16",
+      "hash": "61F17362E21E30A43B4B7A2534DD5C47DD92DAA4",
+      "levelid": "custom_level_61F17362E21E30A43B4B7A2534DD5C47DD92DAA4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "ΩΩPARTS",
       "levelAuthorName": "Aimedhades16",
       "hash": "38522FF17E9FD5EFDD4FA6AEE0C1138533C9B428",
@@ -823,6 +847,18 @@
       ]
     },
     {
+      "songName": "Quáx Quálv",
+      "levelAuthorName": "Bitz & Emilia",
+      "hash": "AB9AB9FD9CF051D6A0937325382C0B7F835C12EF",
+      "levelid": "custom_level_AB9AB9FD9CF051D6A0937325382C0B7F835C12EF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "NUKE",
       "levelAuthorName": "Jabob",
       "hash": "F7E44BDE815A1C6457B9BF1D7AE566B304556DDD",
@@ -1103,6 +1139,18 @@
       "levelAuthorName": "Aimedhades16 & Bitz",
       "hash": "7FFC6CD2419E896545D131C31BB8FEE96C9DA9D9",
       "levelid": "custom_level_7FFC6CD2419E896545D131C31BB8FEE96C9DA9D9",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "99.9",
+      "levelAuthorName": "Aimedhades16",
+      "hash": "C68418FAE413C7F50A01F0C9E10949F6ED1BC13B",
+      "levelid": "custom_level_C68418FAE413C7F50A01F0C9E10949F6ED1BC13B",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1574,6 +1622,18 @@
       "difficulties": [
         {
           "characteristic": "Lawless",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Bug",
+      "levelAuthorName": "Hades & Aalto",
+      "hash": "3A6D4A62165E9DAB9E67CE534F5BEFBB0312643B",
+      "levelid": "custom_level_3A6D4A62165E9DAB9E67CE534F5BEFBB0312643B",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
           "name": "ExpertPlus"
         }
       ]
