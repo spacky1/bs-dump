@@ -295,6 +295,18 @@
       ]
     },
     {
+      "songName": "Gleodream",
+      "levelAuthorName": "ViSi & SL4SH",
+      "hash": "7C9E0A7C523395C7EF9D79006B9D42DC6AB8B44A",
+      "levelid": "custom_level_7C9E0A7C523395C7EF9D79006B9D42DC6AB8B44A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "666",
       "levelAuthorName": "ComplexFrequency & Narwhal",
       "hash": "547D15E033E7C3480428D3A0508F1B7CE50DA5D6",
@@ -539,6 +551,18 @@
       "levelAuthorName": "GalaxyMaster",
       "hash": "DD146CE164B341AFA8DAEC8E45FC4EC0F740FAD7",
       "levelid": "custom_level_DD146CE164B341AFA8DAEC8E45FC4EC0F740FAD7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Death Waltz",
+      "levelAuthorName": "Aimedhades16",
+      "hash": "B5E010C45F235FA4E6AE16FF2B3C35F1622F391E",
+      "levelid": "custom_level_B5E010C45F235FA4E6AE16FF2B3C35F1622F391E",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1507,6 +1531,18 @@
       ]
     },
     {
+      "songName": "Desert Theater",
+      "levelAuthorName": "Aimedhades16",
+      "hash": "B2DB9FA88E907FE7F9005A864857F8480CFF7FBB",
+      "levelid": "custom_level_B2DB9FA88E907FE7F9005A864857F8480CFF7FBB",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Dyscontrolled Galaxy",
       "levelAuthorName": "SuperMemer417 & Cobayo",
       "hash": "CD4200E29BD7B80E55368851558B7529A6426400",
@@ -1795,6 +1831,30 @@
       ]
     },
     {
+      "songName": "†††CHAOS TIME the DARK†††",
+      "levelAuthorName": "Jabob",
+      "hash": "6BFC3F910DAF647F31254B51B4A283803A60A29F",
+      "levelid": "custom_level_6BFC3F910DAF647F31254B51B4A283803A60A29F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Iro o Ushinatta Machi",
+      "levelAuthorName": "CoolingCloset & Helloiamdaan & Nolanimations",
+      "hash": "4E19C93FF2D7E086536AEAB2F551C2E184160640",
+      "levelid": "custom_level_4E19C93FF2D7E086536AEAB2F551C2E184160640",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "finorza",
       "levelAuthorName": "EOP Glacier",
       "hash": "4778FA87C8D59F92FB1DD82ABC48A203879D4D6B",
@@ -1843,6 +1903,18 @@
       ]
     },
     {
+      "songName": "cheatreal",
+      "levelAuthorName": "Bitz & Hener",
+      "hash": "67240638901E160FECD0ED638A2E55A8AF338FD5",
+      "levelid": "custom_level_67240638901E160FECD0ED638A2E55A8AF338FD5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "WHAT THE CAT!?",
       "levelAuthorName": "A Jhintleman",
       "hash": "9557A98F16CD82D7B44633EC52D03826FD79EBFE",
@@ -1883,6 +1955,18 @@
       "levelAuthorName": "Jabob & Narwhal",
       "hash": "5BEFE6F8CD5456FFF8DEBCF19410FC7B6027202F",
       "levelid": "custom_level_5BEFE6F8CD5456FFF8DEBCF19410FC7B6027202F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Vertex Gamma",
+      "levelAuthorName": "dibl & Cobayo",
+      "hash": "7494C06408B8532D62D516892FE57FD0FFD53330",
+      "levelid": "custom_level_7494C06408B8532D62D516892FE57FD0FFD53330",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1982,6 +2066,30 @@
       "difficulties": [
         {
           "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Hole Dwelling",
+      "levelAuthorName": "Aimedhades16",
+      "hash": "2803A704567DBFDDB88FC80E61B5E97D3248DF49",
+      "levelid": "custom_level_2803A704567DBFDDB88FC80E61B5E97D3248DF49",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Hysteric Night Girl",
+      "levelAuthorName": "Eckimlon",
+      "hash": "6A391C7C0289ED901E169EEB08CD2735C3B6B99D",
+      "levelid": "custom_level_6A391C7C0289ED901E169EEB08CD2735C3B6B99D",
+      "difficulties": [
+        {
+          "characteristic": "Lawless",
           "name": "ExpertPlus"
         }
       ]
