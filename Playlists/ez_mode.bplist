@@ -295,6 +295,18 @@
       ]
     },
     {
+      "songName": "Bang!",
+      "levelAuthorName": "SlimyBlob & Timbo & Pixelguy",
+      "hash": "1632A74EAEEA8C0DF6CB1DEF646A30E17D5D58EA",
+      "levelid": "custom_level_1632A74EAEEA8C0DF6CB1DEF646A30E17D5D58EA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "ARTIFICIAL SUICIDE",
       "levelAuthorName": "Bytrius",
       "hash": "3120062F27E3ADD97D500A28F07FFC3957857499",
@@ -2863,6 +2875,18 @@
       ]
     },
     {
+      "songName": "Angel Temple",
+      "levelAuthorName": "1stafterhundred, Phøenix",
+      "hash": "5EB52E838FE123B18C3F79A2E602CD6BFE7E62E4",
+      "levelid": "custom_level_5EB52E838FE123B18C3F79A2E602CD6BFE7E62E4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Grief Seed",
       "levelAuthorName": "shad",
       "hash": "91A9DD4CA20864F03227993A5FA8489FF62EE715",
@@ -3575,6 +3599,18 @@
       "levelAuthorName": "Phøenix",
       "hash": "EA532620629CD6B2A0405B7A08CF4E80D8A688CF",
       "levelid": "custom_level_EA532620629CD6B2A0405B7A08CF4E80D8A688CF",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Normal"
+        }
+      ]
+    },
+    {
+      "songName": "Polaroid Love",
+      "levelAuthorName": "eurnkung",
+      "hash": "ECED0DB6243649D3A5BC58CA8253251B48794865",
+      "levelid": "custom_level_ECED0DB6243649D3A5BC58CA8253251B48794865",
       "difficulties": [
         {
           "characteristic": "Standard",
