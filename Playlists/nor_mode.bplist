@@ -1687,6 +1687,18 @@
       ]
     },
     {
+      "songName": "Revenge",
+      "levelAuthorName": "nolan121405, Olaf, Bitz & Qwasyx",
+      "hash": "1D4265129CF078090CB43CE2CB4D927E15CF9863",
+      "levelid": "custom_level_1D4265129CF078090CB43CE2CB4D927E15CF9863",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "『82.99 F.M』",
       "levelAuthorName": "P90KILLR",
       "hash": "E1DE8922FE8BAD53E80912EF20ED2CF977A1DC64",
@@ -2071,6 +2083,18 @@
       ]
     },
     {
+      "songName": "Money",
+      "levelAuthorName": "Tranch",
+      "hash": "550A95268D721595A36BFF55FC74D3ADB43C3AB9",
+      "levelid": "custom_level_550A95268D721595A36BFF55FC74D3ADB43C3AB9",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Tempestissimo",
       "levelAuthorName": "Kitoyo",
       "hash": "7C2E461D4886E114796F6C697AB01CEFC4EE3192",
@@ -2127,6 +2151,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Who Of You Will Persevere?",
+      "levelAuthorName": "Tranch",
+      "hash": "D6A162428900D98BC19634E214F7EB90619434B7",
+      "levelid": "custom_level_D6A162428900D98BC19634E214F7EB90619434B7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -2331,6 +2367,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Zhuzhzhalka76",
+      "levelAuthorName": "yabje, Irish & fqrb",
+      "hash": "5D663D78102B837FA4198673A178B88D10FD1F05",
+      "levelid": "custom_level_5D663D78102B837FA4198673A178B88D10FD1F05",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -3763,6 +3811,18 @@
       ]
     },
     {
+      "songName": "Breaking The Habit",
+      "levelAuthorName": "Bytrius",
+      "hash": "D4E75AB767415C9688F6F99F3B224CC86ED52263",
+      "levelid": "custom_level_D4E75AB767415C9688F6F99F3B224CC86ED52263",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Thunder",
       "levelAuthorName": "Semdol",
       "hash": "A2CA30D47DC25AF354CB30B32607EFBD1328435A",
@@ -3867,6 +3927,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Sjeng Oan de Geng",
+      "levelAuthorName": "Gordon Feetman & Shark",
+      "hash": "C54227D4DD7AD43EFDF437D3B9B4C290FC98D247",
+      "levelid": "custom_level_C54227D4DD7AD43EFDF437D3B9B4C290FC98D247",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -4119,6 +4191,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "brutale aap",
+      "levelAuthorName": "Bitz & HypersonicSharkz",
+      "hash": "EEA1381EA9DDADCBA54006660B841418ED0591D8",
+      "levelid": "custom_level_EEA1381EA9DDADCBA54006660B841418ED0591D8",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
         }
       ]
     },
@@ -5071,6 +5155,18 @@
       ]
     },
     {
+      "songName": "Lady (Hear Me Tonight)",
+      "levelAuthorName": "Aquaflee",
+      "hash": "23117751F93DBB599B8A0405E15A60F609946D64",
+      "levelid": "custom_level_23117751F93DBB599B8A0405E15A60F609946D64",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "cardinal",
       "levelAuthorName": "Phøenix",
       "hash": "45C07335607FEBDCDD9C4841B5B3C042F19DF52D",
@@ -5367,6 +5463,18 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
+        }
+      ]
+    },
+    {
+      "songName": "Polaroid Love",
+      "levelAuthorName": "eurnkung",
+      "hash": "ECED0DB6243649D3A5BC58CA8253251B48794865",
+      "levelid": "custom_level_ECED0DB6243649D3A5BC58CA8253251B48794865",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
