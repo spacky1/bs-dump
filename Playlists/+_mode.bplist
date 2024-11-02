@@ -1795,6 +1795,18 @@
       ]
     },
     {
+      "songName": "Chocolate Lily",
+      "levelAuthorName": "Rogdude",
+      "hash": "518FD81AC6FDBFD050AB8FAC7C6AE7D73E16257A",
+      "levelid": "custom_level_518FD81AC6FDBFD050AB8FAC7C6AE7D73E16257A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "WYNEHOUSE",
       "levelAuthorName": "Marsh & Gabriel",
       "hash": "CE5C7F6023ADB195A204179CC59CB40A0F852734",
