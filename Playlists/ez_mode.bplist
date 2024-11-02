@@ -499,6 +499,18 @@
       ]
     },
     {
+      "songName": "Everyone",
+      "levelAuthorName": "ComplexFrequency, Fatalution & Artjoms",
+      "hash": "BC57A2A6A08CE7FFA6CF996C42D2E7B483942817",
+      "levelid": "custom_level_BC57A2A6A08CE7FFA6CF996C42D2E7B483942817",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Deathstalker",
       "levelAuthorName": "TG90",
       "hash": "ECC2C39E6203BF5BB46540B6455C647DCA26D8B2",
