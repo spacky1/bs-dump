@@ -1111,18 +1111,6 @@
       ]
     },
     {
-      "songName": "Reverie on the Onyx",
-      "levelAuthorName": "ThySpoon",
-      "hash": "D24E4D957B0C756233E4DB912A478A47682CCDB7",
-      "levelid": "custom_level_D24E4D957B0C756233E4DB912A478A47682CCDB7",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "THE MUZZLE FACING",
       "levelAuthorName": "Timbo",
       "hash": "EE440C63A3A2B0E1DFBB7722BB4F4AE8A0E4307A",
@@ -3727,18 +3715,6 @@
       ]
     },
     {
-      "songName": "Carmina",
-      "levelAuthorName": "abcbadq",
-      "hash": "8CF4844D5DD7728214292F7F6E2FE89A50F528BC",
-      "levelid": "custom_level_8CF4844D5DD7728214292F7F6E2FE89A50F528BC",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "Phosphorescence",
       "levelAuthorName": "unluckyL & WalkingKat",
       "hash": "0ACE9C8D04B2666478E5CF2BF9A2C44AFBDE4939",
@@ -3895,18 +3871,6 @@
       ]
     },
     {
-      "songName": "Onslaught",
-      "levelAuthorName": "Timbo & Alice",
-      "hash": "35C176D9FBF70161CDA8B6FDDC5B778003F78D80",
-      "levelid": "custom_level_35C176D9FBF70161CDA8B6FDDC5B778003F78D80",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "U-0",
       "levelAuthorName": "Cobayo",
       "hash": "53C7C648BE3C87931E9C5A352008033806CE5810",
@@ -3959,18 +3923,6 @@
       "levelAuthorName": "shrado & Fnyt",
       "hash": "5FC930DD535F282D1C8A0ABD1D1407B10A5ABF5C",
       "levelid": "custom_level_5FC930DD535F282D1C8A0ABD1D1407B10A5ABF5C",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Tout Petit Moineau",
-      "levelAuthorName": "muffn",
-      "hash": "0611E05F967109D3A3766787AB3FE6BC52421C1E",
-      "levelid": "custom_level_0611E05F967109D3A3766787AB3FE6BC52421C1E",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -4339,6 +4291,18 @@
       ]
     },
     {
+      "songName": "Vibe Check [Fitbeat]",
+      "levelAuthorName": "Scarladore",
+      "hash": "70947EC1ABE377337D33ACA2CA50BB8124D13543",
+      "levelid": "custom_level_70947EC1ABE377337D33ACA2CA50BB8124D13543",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Hysteric Night Girl",
       "levelAuthorName": "Eckimlon",
       "hash": "6A391C7C0289ED901E169EEB08CD2735C3B6B99D",
@@ -4375,14 +4339,14 @@
       ]
     },
     {
-      "songName": "Yokatta",
-      "levelAuthorName": "abcbadq",
-      "hash": "08B268877DB9C3DD5EE23E424A7EDC91B239A327",
-      "levelid": "custom_level_08B268877DB9C3DD5EE23E424A7EDC91B239A327",
+      "songName": "To Your Beat",
+      "levelAuthorName": "Alice & Checkthepan",
+      "hash": "C3D51781B0B2C661469758DF42CE6D5B21CD71A1",
+      "levelid": "custom_level_C3D51781B0B2C661469758DF42CE6D5B21CD71A1",
       "difficulties": [
         {
           "characteristic": "Standard",
-          "name": "Expert"
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -4403,6 +4367,18 @@
       "levelAuthorName": "Jabob",
       "hash": "79A292C681E2FFD3E4BE20F9F4ABD9296F710CA5",
       "levelid": "custom_level_79A292C681E2FFD3E4BE20F9F4ABD9296F710CA5",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "CTRL + ALT + DEL [Fitbeat]",
+      "levelAuthorName": "Scarladore",
+      "hash": "D1F90935FFC6628F82CA14E690F52C42950609F0",
+      "levelid": "custom_level_D1F90935FFC6628F82CA14E690F52C42950609F0",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -4439,6 +4415,18 @@
       "levelAuthorName": "Teuflum",
       "hash": "6F95B1ECBB5861B68BDEB6951EE3D5D1680AA8B3",
       "levelid": "custom_level_6F95B1ECBB5861B68BDEB6951EE3D5D1680AA8B3",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Surface",
+      "levelAuthorName": "Phøenix",
+      "hash": "4A92BEC2C9DD914ACDE51D472D3B524FE93BFA68",
+      "levelid": "custom_level_4A92BEC2C9DD914ACDE51D472D3B524FE93BFA68",
       "difficulties": [
         {
           "characteristic": "Standard",
