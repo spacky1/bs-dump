@@ -2011,6 +2011,18 @@
       ]
     },
     {
+      "songName": "Reverie on the Onyx",
+      "levelAuthorName": "ThySpoon",
+      "hash": "D24E4D957B0C756233E4DB912A478A47682CCDB7",
+      "levelid": "custom_level_D24E4D957B0C756233E4DB912A478A47682CCDB7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Tojita Sekai",
       "levelAuthorName": "abcbadq",
       "hash": "49932D84945ED32EA53C6D248192851EA4CC1037",
