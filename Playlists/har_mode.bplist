@@ -739,6 +739,18 @@
       ]
     },
     {
+      "songName": "Nyahaha ^~",
+      "levelAuthorName": "Vilawes & Timbo",
+      "hash": "E0161F0C8FF8A8921BD8E0BFF6B220FB0C82F488",
+      "levelid": "custom_level_E0161F0C8FF8A8921BD8E0BFF6B220FB0C82F488",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Fallen Symphony",
       "levelAuthorName": "abcbadq & Alice",
       "hash": "52570CF0E132C46EC33156507DD703A02B817510",
@@ -3031,6 +3043,18 @@
       ]
     },
     {
+      "songName": "Twin Skies",
+      "levelAuthorName": "Specture7",
+      "hash": "156D5634DE5CFAF5DB9CF2A975743C541D773892",
+      "levelid": "custom_level_156D5634DE5CFAF5DB9CF2A975743C541D773892",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "SUPER;JAPAN",
       "levelAuthorName": "abcbadq",
       "hash": "C825450FEADA2737909B414D4E6F4B199C6CFE9A",
@@ -4699,18 +4723,6 @@
       ]
     },
     {
-      "songName": "Fresh!",
-      "levelAuthorName": "Jabob",
-      "hash": "EA55E256AE89AE72A60763CEB5379560B962773B",
-      "levelid": "custom_level_EA55E256AE89AE72A60763CEB5379560B962773B",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
-        }
-      ]
-    },
-    {
       "songName": "psychology",
       "levelAuthorName": "Scrappy",
       "hash": "B506526ABA9AE3BC8C6DE045326D4F083607776B",
@@ -4835,18 +4847,6 @@
       "levelAuthorName": "muffn, FatBeanzoop, DE125",
       "hash": "18B195F582B284389AE935EE4CFCC34FF342C137",
       "levelid": "custom_level_18B195F582B284389AE935EE4CFCC34FF342C137",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
-        }
-      ]
-    },
-    {
-      "songName": "Just Don't Mind",
-      "levelAuthorName": "Jaack & Joshabi",
-      "hash": "9BDEBDDD9CD1A3664C8C14EFDBFCE493B6617ACD",
-      "levelid": "custom_level_9BDEBDDD9CD1A3664C8C14EFDBFCE493B6617ACD",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -5059,18 +5059,6 @@
       ]
     },
     {
-      "songName": "LaμreLs",
-      "levelAuthorName": "Zana vs. yabje (feat. Anti)",
-      "hash": "DF260543DA266B254328ED4891B8BA8700F85177",
-      "levelid": "custom_level_DF260543DA266B254328ED4891B8BA8700F85177",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "songName": "Long Times",
       "levelAuthorName": "Teuflum & xScaramouche",
       "hash": "BCEA96043773B95362844EC20BA5149F51B38F70",
@@ -5167,18 +5155,6 @@
       ]
     },
     {
-      "songName": "WARNING",
-      "levelAuthorName": "Timeweaver, AkaBaka",
-      "hash": "35CE7AF0AD86B9E2D64421E5A028055D02C3B912",
-      "levelid": "custom_level_35CE7AF0AD86B9E2D64421E5A028055D02C3B912",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "Clip it Bro",
       "levelAuthorName": "Timbo & abcbadq",
       "hash": "EE0D6AE04DF858C20A12B6E817C6E2BD23336196",
@@ -5207,18 +5183,6 @@
       "levelAuthorName": "TG90",
       "hash": "A8901C61F282F730EAA849A1656E1A0D7F542808",
       "levelid": "custom_level_A8901C61F282F730EAA849A1656E1A0D7F542808",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Dans la mer de son",
-      "levelAuthorName": "RetrX",
-      "hash": "C00FB8421CFC323D3B24EDB0317644D0B15327C8",
-      "levelid": "custom_level_C00FB8421CFC323D3B24EDB0317644D0B15327C8",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -5563,18 +5527,6 @@
       ]
     },
     {
-      "songName": "ARIGA THESIS",
-      "levelAuthorName": "Gabriel",
-      "hash": "0AA7CF61C6851B01EBFC96D8DA8F47959E77E32A",
-      "levelid": "custom_level_0AA7CF61C6851B01EBFC96D8DA8F47959E77E32A",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "Los! Los! Los!",
       "levelAuthorName": "CoolingCloset",
       "hash": "F3BD378DFE91F4371B976493C95936878D65448E",
@@ -5791,18 +5743,6 @@
       ]
     },
     {
-      "songName": "5G straal (hamster)",
-      "levelAuthorName": "Phøenix",
-      "hash": "06B0E70B6E87ED65DE37AA2BB75C630E3CEC64B8",
-      "levelid": "custom_level_06B0E70B6E87ED65DE37AA2BB75C630E3CEC64B8",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "GOTH BITCH DUB",
       "levelAuthorName": "Spinvvy, Frost, Chaimzy, & TinyPawb",
       "hash": "3D56CA1ABEF81D41EC92E9B00CED6BC8C534DE2B",
@@ -5903,30 +5843,6 @@
       "levelAuthorName": "Elecast",
       "hash": "6B17BC2E54BA629FBECFD5728A684E95E8682B0A",
       "levelid": "custom_level_6B17BC2E54BA629FBECFD5728A684E95E8682B0A",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
-        }
-      ]
-    },
-    {
-      "songName": "Wobble",
-      "levelAuthorName": "Timeweaver",
-      "hash": "E6E92DBC03A68CADEC529D278C081E45E9727C5F",
-      "levelid": "custom_level_E6E92DBC03A68CADEC529D278C081E45E9727C5F",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Destroy, Destroy, Destroy The Happy End",
-      "levelAuthorName": "Marsh & Gabriel",
-      "hash": "6E2568045C6CED5ED91F7BCCFD15E7127314D22C",
-      "levelid": "custom_level_6E2568045C6CED5ED91F7BCCFD15E7127314D22C",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -6291,30 +6207,6 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Everyone",
-      "levelAuthorName": "ComplexFrequency, Fatalution & Artjoms",
-      "hash": "BC57A2A6A08CE7FFA6CF996C42D2E7B483942817",
-      "levelid": "custom_level_BC57A2A6A08CE7FFA6CF996C42D2E7B483942817",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
-        }
-      ]
-    },
-    {
-      "songName": "Rebuff",
-      "levelAuthorName": "Jabob, Bitz & Spinny",
-      "hash": "45E261FE93ABFDC263B3670E84AC39451725881F",
-      "levelid": "custom_level_45E261FE93ABFDC263B3670E84AC39451725881F",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
         }
       ]
     },
@@ -6711,18 +6603,6 @@
         {
           "characteristic": "Standard",
           "name": "Hard"
-        }
-      ]
-    },
-    {
-      "songName": "Onslaught",
-      "levelAuthorName": "Timbo & Alice",
-      "hash": "35C176D9FBF70161CDA8B6FDDC5B778003F78D80",
-      "levelid": "custom_level_35C176D9FBF70161CDA8B6FDDC5B778003F78D80",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
         }
       ]
     },
