@@ -439,18 +439,6 @@
       ]
     },
     {
-      "songName": "Chocolate Lily",
-      "levelAuthorName": "Rogdude",
-      "hash": "518FD81AC6FDBFD050AB8FAC7C6AE7D73E16257A",
-      "levelid": "custom_level_518FD81AC6FDBFD050AB8FAC7C6AE7D73E16257A",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
       "songName": "Gleodream",
       "levelAuthorName": "ViSi & SL4SH",
       "hash": "7C9E0A7C523395C7EF9D79006B9D42DC6AB8B44A",
@@ -1327,6 +1315,18 @@
       ]
     },
     {
+      "songName": "Vicious Heroism",
+      "levelAuthorName": "ComplexFrequency",
+      "hash": "7296582B7DF0475DD25DBEC1BFA1DB274AB044E6",
+      "levelid": "custom_level_7296582B7DF0475DD25DBEC1BFA1DB274AB044E6",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "Last Wish",
       "levelAuthorName": "Nolanimations",
       "hash": "B299E237816977B44B8BE6BA9ED02C81BC3006A4",
@@ -1751,6 +1751,18 @@
       "levelAuthorName": "sofmoh",
       "hash": "EB0B6B8CC71A7B232467D4D9F613040257CBE127",
       "levelid": "custom_level_EB0B6B8CC71A7B232467D4D9F613040257CBE127",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Melancholia",
+      "levelAuthorName": "Emilia",
+      "hash": "5909C4CC3F242632BF4C826305732489F8C54F9B",
+      "levelid": "custom_level_5909C4CC3F242632BF4C826305732489F8C54F9B",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -2599,6 +2611,18 @@
       ]
     },
     {
+      "songName": "Nyahaha ^~",
+      "levelAuthorName": "Vilawes & Timbo",
+      "hash": "E0161F0C8FF8A8921BD8E0BFF6B220FB0C82F488",
+      "levelid": "custom_level_E0161F0C8FF8A8921BD8E0BFF6B220FB0C82F488",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "BATTLE NO.1",
       "levelAuthorName": "Bitz, HypersonicSharkz & Luck",
       "hash": "BDEBD0E4B5DF0A8AD592E04D294C8E3DF4248667",
@@ -2651,18 +2675,6 @@
       "levelAuthorName": "ThySpoon",
       "hash": "5DDE38DAC84D8FAB1937097D7BBF1383ECE5CBD2",
       "levelid": "custom_level_5DDE38DAC84D8FAB1937097D7BBF1383ECE5CBD2",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "Vicious Heroism",
-      "levelAuthorName": "ThySpoon",
-      "hash": "3959A6F1D7B3209F1CCD5B63F97E4EB9A2544588",
-      "levelid": "custom_level_3959A6F1D7B3209F1CCD5B63F97E4EB9A2544588",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -3359,6 +3371,18 @@
       "levelAuthorName": "abcbadq",
       "hash": "67A32C8E55EAB4EC913EEC676B0B23B45BCC9E0E",
       "levelid": "custom_level_67A32C8E55EAB4EC913EEC676B0B23B45BCC9E0E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Chocolate Lily",
+      "levelAuthorName": "Emilia",
+      "hash": "F614D35D48EE11674303B0F1591849225AD2336C",
+      "levelid": "custom_level_F614D35D48EE11674303B0F1591849225AD2336C",
       "difficulties": [
         {
           "characteristic": "Standard",
