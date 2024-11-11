@@ -153,8 +153,8 @@
     {
       "songName": "DESTRUCTION 3,2,1",
       "levelAuthorName": "Helloiamdaan, Bitz & Aquaflee",
-      "hash": "48098A896C712252CB4A47B3253A10661DE58D4F",
-      "levelid": "custom_level_48098A896C712252CB4A47B3253A10661DE58D4F",
+      "hash": "53A8C1064F08DD27ED14198DE4F350BE8ACBED3F",
+      "levelid": "custom_level_53A8C1064F08DD27ED14198DE4F350BE8ACBED3F",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -585,8 +585,8 @@
     {
       "songName": "Senseless Massacre",
       "levelAuthorName": "Astrella, Bitz & Slayx",
-      "hash": "3BFFADD66FC693D70094B13E581B6EDEEB1FB093",
-      "levelid": "custom_level_3BFFADD66FC693D70094B13E581B6EDEEB1FB093",
+      "hash": "167634ED8438AADA941B7BDAE41A409B05C035ED",
+      "levelid": "custom_level_167634ED8438AADA941B7BDAE41A409B05C035ED",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -991,6 +991,18 @@
       ]
     },
     {
+      "songName": "GIGA BLAST",
+      "levelAuthorName": "ob1cb",
+      "hash": "1CD790CA3D49FBAE1556812F5E64346920F57036",
+      "levelid": "custom_level_1CD790CA3D49FBAE1556812F5E64346920F57036",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Distorted Heavens",
       "levelAuthorName": "Timbo",
       "hash": "7B8A05A5399951282FAFD8516764F921D64CC3C4",
@@ -1063,18 +1075,6 @@
       ]
     },
     {
-      "songName": "DESTRUCTION 3,2,1",
-      "levelAuthorName": "Helloiamdaan, Bitz & Aquaflee",
-      "hash": "48098A896C712252CB4A47B3253A10661DE58D4F",
-      "levelid": "custom_level_48098A896C712252CB4A47B3253A10661DE58D4F",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Expert"
-        }
-      ]
-    },
-    {
       "songName": "Hatatagami Software",
       "levelAuthorName": "sofmoh",
       "hash": "82CB283C7AF0060A83DD175BA8FC770B07301F9A",
@@ -1083,6 +1083,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "DESTRUCTION 3,2,1",
+      "levelAuthorName": "Helloiamdaan, Bitz & Aquaflee",
+      "hash": "53A8C1064F08DD27ED14198DE4F350BE8ACBED3F",
+      "levelid": "custom_level_53A8C1064F08DD27ED14198DE4F350BE8ACBED3F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -1101,8 +1113,8 @@
     {
       "songName": "Nostalgic Blood of the Strife",
       "levelAuthorName": "yabje & Nolanimations",
-      "hash": "B4EEE9EB2E42620ED550F9660AF082907070E3DD",
-      "levelid": "custom_level_B4EEE9EB2E42620ED550F9660AF082907070E3DD",
+      "hash": "10B171BFA518CD0B3554115843C2233495CB9333",
+      "levelid": "custom_level_10B171BFA518CD0B3554115843C2233495CB9333",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1495,10 +1507,10 @@
       ]
     },
     {
-      "songName": "Start of the Determination",
-      "levelAuthorName": "dentalstonk",
-      "hash": "2BDC7C19DC3FE84E30CBF8DD5BE5D812C566C5C8",
-      "levelid": "custom_level_2BDC7C19DC3FE84E30CBF8DD5BE5D812C566C5C8",
+      "songName": "Poison Mushroom",
+      "levelAuthorName": "RetrX",
+      "hash": "F3CAF0BB668CE7C5E243D18DFA20362E0B8D4C23",
+      "levelid": "custom_level_F3CAF0BB668CE7C5E243D18DFA20362E0B8D4C23",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1507,10 +1519,10 @@
       ]
     },
     {
-      "songName": "Poison Mushroom",
-      "levelAuthorName": "RetrX",
-      "hash": "FE6097C274EAB36A8FF23B64966D13C4B0DD58FF",
-      "levelid": "custom_level_FE6097C274EAB36A8FF23B64966D13C4B0DD58FF",
+      "songName": "Start of the Determination",
+      "levelAuthorName": "dentalstonk",
+      "hash": "2BDC7C19DC3FE84E30CBF8DD5BE5D812C566C5C8",
+      "levelid": "custom_level_2BDC7C19DC3FE84E30CBF8DD5BE5D812C566C5C8",
       "difficulties": [
         {
           "characteristic": "Standard",
