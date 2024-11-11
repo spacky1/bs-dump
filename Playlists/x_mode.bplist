@@ -931,6 +931,18 @@
       ]
     },
     {
+      "songName": "Upload Your Mind :: Download My Soul",
+      "levelAuthorName": "RetrX",
+      "hash": "CA5995CFBCD8B1675CF9A14A7346D74C9B91CC90",
+      "levelid": "custom_level_CA5995CFBCD8B1675CF9A14A7346D74C9B91CC90",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Friendly Gigant Fire",
       "levelAuthorName": "oegoe & yabje",
       "hash": "7C71478BE50723A908AA46B8536F9D169BA6A75C",
@@ -1151,6 +1163,18 @@
       "levelAuthorName": "Fvrwvrd",
       "hash": "E1E026D655747FC75D29BF46CD91EFD109C8ECCA",
       "levelid": "custom_level_E1E026D655747FC75D29BF46CD91EFD109C8ECCA",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "fun TIME",
+      "levelAuthorName": "Xarope93",
+      "hash": "3C45BAE25DA6D11B993D06885FFC45596383B1DC",
+      "levelid": "custom_level_3C45BAE25DA6D11B993D06885FFC45596383B1DC",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1387,6 +1411,18 @@
       ]
     },
     {
+      "songName": "Crack Traxxxx",
+      "levelAuthorName": "Uninstaller",
+      "hash": "04CC280E2B6540736217BF865C856822FE742742",
+      "levelid": "custom_level_04CC280E2B6540736217BF865C856822FE742742",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Crazy banger",
       "levelAuthorName": "Aquaflee",
       "hash": "F7E24AFB4A3D199C68B824C2428FF08C78CEE707",
@@ -1499,6 +1535,18 @@
       "levelAuthorName": "Pleo",
       "hash": "A3292AA17B782EE2A229800186324947A4EC9FEE",
       "levelid": "custom_level_A3292AA17B782EE2A229800186324947A4EC9FEE",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Fallin' Fallin'",
+      "levelAuthorName": "Elecast",
+      "hash": "FBC668A0765CFF22655278A77F18C59A49EF9883",
+      "levelid": "custom_level_FBC668A0765CFF22655278A77F18C59A49EF9883",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1731,6 +1779,18 @@
         {
           "characteristic": "Standard",
           "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "GIGA BLAST",
+      "levelAuthorName": "ob1cb",
+      "hash": "1CD790CA3D49FBAE1556812F5E64346920F57036",
+      "levelid": "custom_level_1CD790CA3D49FBAE1556812F5E64346920F57036",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
         }
       ]
     },
@@ -2527,18 +2587,6 @@
       ]
     },
     {
-      "songName": "DESTRUCTION 3,2,1",
-      "levelAuthorName": "Helloiamdaan, Bitz & Aquaflee",
-      "hash": "48098A896C712252CB4A47B3253A10661DE58D4F",
-      "levelid": "custom_level_48098A896C712252CB4A47B3253A10661DE58D4F",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "Hard"
-        }
-      ]
-    },
-    {
       "songName": "Volatile Memory",
       "levelAuthorName": "ComplexFrequency",
       "hash": "57CC994B8F713EF5E10FBF31754FB9BD8A161524",
@@ -2755,6 +2803,18 @@
       ]
     },
     {
+      "songName": "DESTRUCTION 3,2,1",
+      "levelAuthorName": "Helloiamdaan, Bitz & Aquaflee",
+      "hash": "53A8C1064F08DD27ED14198DE4F350BE8ACBED3F",
+      "levelid": "custom_level_53A8C1064F08DD27ED14198DE4F350BE8ACBED3F",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Hard"
+        }
+      ]
+    },
+    {
       "songName": "Galaxy Friends",
       "levelAuthorName": "Cobayo",
       "hash": "331F58D8D307AA0B9DE015CF6F349B2E69C4FA07",
@@ -2883,6 +2943,18 @@
         {
           "characteristic": "Standard",
           "name": "Expert"
+        }
+      ]
+    },
+    {
+      "songName": "Queen",
+      "levelAuthorName": "ViSi",
+      "hash": "4C500EBA5E0A7FE0611B7D2BEAF91F5457D25CA4",
+      "levelid": "custom_level_4C500EBA5E0A7FE0611B7D2BEAF91F5457D25CA4",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
         }
       ]
     },
@@ -3811,6 +3883,18 @@
       ]
     },
     {
+      "songName": "get your wish",
+      "levelAuthorName": "GalaxyMaster",
+      "hash": "9F86F7B3AFD65826A383F974DBF2D8A43F17C9D7",
+      "levelid": "custom_level_9F86F7B3AFD65826A383F974DBF2D8A43F17C9D7",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Far Away",
       "levelAuthorName": "Bitz & HypersonicSharkz",
       "hash": "DAAB1124333389A9974CEDF58550DBDF036F17E0",
@@ -4123,6 +4207,18 @@
       ]
     },
     {
+      "songName": "Megaton Karma",
+      "levelAuthorName": "Helloiamdaan",
+      "hash": "3016C47C18A430F687AC8C388583394D35CA3CB9",
+      "levelid": "custom_level_3016C47C18A430F687AC8C388583394D35CA3CB9",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Villain",
       "levelAuthorName": "Pleo",
       "hash": "35626AD2D9C9792A99966E8BC3C65817458EEF8D",
@@ -4411,6 +4507,18 @@
       ]
     },
     {
+      "songName": "Xeno Crystal",
+      "levelAuthorName": "Alpal, Helloiamdaan & Nolanimations",
+      "hash": "B79087B6A1A1D79693EE9E56C48A1EC3D3685C86",
+      "levelid": "custom_level_B79087B6A1A1D79693EE9E56C48A1EC3D3685C86",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Move",
       "levelAuthorName": "Teuflum",
       "hash": "6F95B1ECBB5861B68BDEB6951EE3D5D1680AA8B3",
@@ -4427,6 +4535,18 @@
       "levelAuthorName": "Phøenix",
       "hash": "4A92BEC2C9DD914ACDE51D472D3B524FE93BFA68",
       "levelid": "custom_level_4A92BEC2C9DD914ACDE51D472D3B524FE93BFA68",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Forbidden Noise",
+      "levelAuthorName": "shrado & Anodize",
+      "hash": "616856E99747291758BC02E624AAFD9222173FA8",
+      "levelid": "custom_level_616856E99747291758BC02E624AAFD9222173FA8",
       "difficulties": [
         {
           "characteristic": "Standard",
