@@ -80,9 +80,9 @@
     },
     {
       "songName": "Nostalgic Blood of the Strife",
-      "levelAuthorName": "yabje & Nolanimations",
-      "hash": "10B171BFA518CD0B3554115843C2233495CB9333",
-      "levelid": "custom_level_10B171BFA518CD0B3554115843C2233495CB9333",
+      "levelAuthorName": "yabje, Nolanimations",
+      "hash": "FFF6909427ECB9F1FFD87147FF6D50E58C409ADB",
+      "levelid": "custom_level_FFF6909427ECB9F1FFD87147FF6D50E58C409ADB",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1975,6 +1975,18 @@
       ]
     },
     {
+      "songName": "ICEBURN",
+      "levelAuthorName": "yabje, Mr_bjo",
+      "hash": "4963CD19572047FD6F7385904B5993EFAD4C1A4C",
+      "levelid": "custom_level_4963CD19572047FD6F7385904B5993EFAD4C1A4C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
       "songName": "Old School Sound",
       "levelAuthorName": "ThySpoon",
       "hash": "6B1B8A70D5F35DFAD659075854A447E673742FA7",
@@ -2567,18 +2579,6 @@
       "levelAuthorName": "yabje",
       "hash": "E892864E9B4D708F0797C6F51B002F402A440DDE",
       "levelid": "custom_level_E892864E9B4D708F0797C6F51B002F402A440DDE",
-      "difficulties": [
-        {
-          "characteristic": "Standard",
-          "name": "ExpertPlus"
-        }
-      ]
-    },
-    {
-      "songName": "ICEBURN",
-      "levelAuthorName": "yabje",
-      "hash": "AF9F9D903176AC0395DEFF823DDFB478AFE3E7DA",
-      "levelid": "custom_level_AF9F9D903176AC0395DEFF823DDFB478AFE3E7DA",
       "difficulties": [
         {
           "characteristic": "Standard",
