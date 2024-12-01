@@ -584,9 +584,9 @@
     },
     {
       "songName": "Senseless Massacre",
-      "levelAuthorName": "Astrella, Bitz & Slayx",
-      "hash": "167634ED8438AADA941B7BDAE41A409B05C035ED",
-      "levelid": "custom_level_167634ED8438AADA941B7BDAE41A409B05C035ED",
+      "levelAuthorName": "Astrella, Bitz, Slayx",
+      "hash": "A76EA293949E7080EAD07862E03FF720AD4BE181",
+      "levelid": "custom_level_A76EA293949E7080EAD07862E03FF720AD4BE181",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1099,10 +1099,10 @@
       ]
     },
     {
-      "songName": "Howl in the Night Sky",
-      "levelAuthorName": "Bitz & Joshabi",
-      "hash": "4C9E62D645AFA18FE7FE5F0908D365F4DC6524F3",
-      "levelid": "custom_level_4C9E62D645AFA18FE7FE5F0908D365F4DC6524F3",
+      "songName": "Nostalgic Blood of the Strife",
+      "levelAuthorName": "yabje, Nolanimations",
+      "hash": "FFF6909427ECB9F1FFD87147FF6D50E58C409ADB",
+      "levelid": "custom_level_FFF6909427ECB9F1FFD87147FF6D50E58C409ADB",
       "difficulties": [
         {
           "characteristic": "Standard",
@@ -1111,10 +1111,10 @@
       ]
     },
     {
-      "songName": "Nostalgic Blood of the Strife",
-      "levelAuthorName": "yabje & Nolanimations",
-      "hash": "10B171BFA518CD0B3554115843C2233495CB9333",
-      "levelid": "custom_level_10B171BFA518CD0B3554115843C2233495CB9333",
+      "songName": "Howl in the Night Sky",
+      "levelAuthorName": "Bitz & Joshabi",
+      "hash": "4C9E62D645AFA18FE7FE5F0908D365F4DC6524F3",
+      "levelid": "custom_level_4C9E62D645AFA18FE7FE5F0908D365F4DC6524F3",
       "difficulties": [
         {
           "characteristic": "Standard",
