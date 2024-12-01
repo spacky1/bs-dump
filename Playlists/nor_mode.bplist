@@ -3319,6 +3319,18 @@
       ]
     },
     {
+      "songName": "ICEBURN",
+      "levelAuthorName": "yabje, Mr_bjo",
+      "hash": "4963CD19572047FD6F7385904B5993EFAD4C1A4C",
+      "levelid": "custom_level_4963CD19572047FD6F7385904B5993EFAD4C1A4C",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "Expert"
+        }
+      ]
+    },
+    {
       "songName": "31Hz",
       "levelAuthorName": "Raydz",
       "hash": "0849471FE6B5D6FED8018C9D26A54F2AF042FEF4",
